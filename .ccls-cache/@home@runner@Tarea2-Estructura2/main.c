@@ -24,6 +24,7 @@ typedef struct{
   int PAux;
 }Accion;
 
+//hola
 
 void mostrarMenu() {
   printf("\n---  Juego?  ---\n");
