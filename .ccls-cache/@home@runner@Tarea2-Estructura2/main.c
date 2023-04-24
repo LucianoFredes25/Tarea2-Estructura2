@@ -5,8 +5,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-//hola
-
 typedef struct{
   char nombre[50];
 }Item;
