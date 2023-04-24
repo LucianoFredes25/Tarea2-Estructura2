@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+//hola
 
 typedef struct{
   char nombre[50];
@@ -23,8 +24,6 @@ typedef struct{
   char auxIt[50];
   int PAux;
 }Accion;
-
-//hola
 
 void mostrarMenu() {
   printf("\n---  Juego?  ---\n");
