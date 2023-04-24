@@ -7,13 +7,13 @@
 #include <string.h>
 
 typedef struct{
-  char nombre[50];
+  int cantidad;
 }Item;
 
 typedef struct{
   int PA;
   int CantidadItems;
-  List *listaItems;
+  HashMap *mapItems;
 }Jugador;
 
 typedef struct{
@@ -45,20 +45,20 @@ Jugador* obtenerDatosJugador(char nombre[50]){
   scanf("%s", nombre);
   newJ->PA = 0;
   newJ->CantidadItems = 0;
-  newJ->listaItems = createList();
+  newJ->mapItems = createMap(10000);
   return newJ;
 }
 
 void imprimirDatosJugador(Jugador* jugador, char nombre[50]){
-  printf("\nPerfil de %s : Puntos de Habilidad = [%d] , Cantidad de Items [%d] ,\n", nombre, jugador->PA , jugador->CantidadItems);
+  printf("\nPerfil de %s : Puntos de Habilidad = [%d] , Cantidad de Items [%d]\n", nombre, jugador->PA , jugador->CantidadItems);
   if(jugador->CantidadItems == 0)
     printf("No hay items asignados.\n");
   else{
-    Item * it = firstList(jugador->listaItems);
+    Pair* it = firstMap(jugador->mapItems);
     while(it != NULL){
-      printf("%s", it->nombre);
-      it = nextList(jugador->listaItems);
-      if(it != NULL) printf(" , ");
+      printf("%s : %d", it->key, *((int*)it->value) );
+      it = nextMap(jugador->mapItems);
+      if(it != NULL) printf(" ,\n");
     }
   }
 }
@@ -69,6 +69,7 @@ void registrarJugador(HashMap* mapJugadores){
   char key[50];
   Jugador* newJ = obtenerDatosJugador(key);
   insertMap(mapJugadores, key, newJ);
+  printf("Jugador registrado correctamente!\n");
 }
 
 //Opcion 2 Mostrar perfil jugador
@@ -78,8 +79,9 @@ void mostrarJugador(HashMap* mapJugadores){
   char key[50];
   printf("Ingrese el nombre del jugador: ");
   scanf("%s", key);
-
+  
   Pair* player = searchMap(mapJugadores, key);
+  
   if(player == NULL){
     printf("--- NO se encontro al jugador --- \n");
   }else{
@@ -89,10 +91,11 @@ void mostrarJugador(HashMap* mapJugadores){
 }
 
 //Opcion 3 agregar item
-void agregarItem(HashMap* mapJugadores)
+void agregarItem(HashMap* mapJugadores , HashMap * mapItems)
 {
+  char blank[50];
   char key[50];
-  char 
+  char keyItem[50];
   printf("Ingrese el nombre del jugador: ");
   scanf("%s", key);
 
@@ -103,9 +106,19 @@ void agregarItem(HashMap* mapJugadores)
     return;
   }
   
-  printf("Ingrese el nombre del item");
-  scanf("s",)
+  printf("Nombre del item: ");
+  fgets(blank, 50, stdin);
+  fgets(keyItem, 50, stdin);
+  keyItem[strcspn(keyItem, "\n")] ='\0';
+  insertMap( ((Jugador*)(player->value))->mapItems, keyItem, 1);
+  ((Jugador*)(player->value))->CantidadItems++;
+  printf("--- Se agrego correctamente el item!!! --- \n");
+  
 }
+
+//opcion 4 Eliminar item a jugador
+
+
 
 int main() {
 
@@ -129,8 +142,8 @@ int main() {
       case 2:
         mostrarJugador(mapJugadores);
         break;
-      case 
-        3:
+      case 3:
+        agregarItem(mapJugadores, mapItems);
         break;
       case 4:
         break;

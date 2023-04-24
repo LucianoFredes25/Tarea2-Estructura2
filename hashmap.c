@@ -4,7 +4,7 @@
 #include <math.h>
 #include <ctype.h>
 #include "hashmap.h"
-
+#include <stdbool.h>
 
 typedef struct HashMap HashMap;
 int enlarge_called=0;
@@ -122,27 +122,21 @@ void eraseMap(HashMap * map,  char * key) {
 }
 
 Pair * searchMap(HashMap * map,  char * key) {   
+  int aux = hash(key,map->capacity);
+  while(true){
+    if(map->buckets[aux] == NULL || map->buckets[aux]->key == NULL)
+      return NULL;
 
-  long pos = hash(key, map->capacity);
-
-  if(is_equal(key, (*(map->buckets+pos))->key)){
-    map->current =  pos;
-    return *(map->buckets+pos);
-  }else{
-
-    for(long i = 0, it = pos+1; i < map->capacity; i++, it++){
-      it = it%map->capacity;
-      if(*(map->buckets+it) ==  NULL){
-        return NULL;
-      }else if(is_equal(key, (*(map->buckets+it))->key)){
-        map->current = it;
-        return *(map->buckets+it);
-      }
+    if(is_equal(map->buckets[aux]->key , key)){
+      map->current = aux;
+      return map->buckets[aux];
+    }
+    else{
+      aux++;
+      if(aux > map->capacity)
+        aux = 0;
     }
   }
-
-
-  return NULL;
 }
 
 Pair * firstMap(HashMap * map) {
