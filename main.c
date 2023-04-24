@@ -38,12 +38,73 @@ void mostrarMenu() {
   printf("Seleccione una opción: ");
 }
 
+Jugador* obtenerDatosJugador(char nombre[50]){
+
+  Jugador* newJ =(Jugador *) calloc(1, sizeof(Jugador));
+  printf("Nombre : ");
+  scanf("%s", nombre);
+  newJ->PA = 0;
+  newJ->CantidadItems = 0;
+  newJ->listaItems = createList();
+  return newJ;
+}
+
+void imprimirDatosJugador(Jugador* jugador, char nombre[50]){
+  printf("\nPerfil de %s : Puntos de Habilidad = [%d] , Cantidad de Items [%d] ,\n", nombre, jugador->PA , jugador->CantidadItems);
+  if(jugador->CantidadItems == 0)
+    printf("No hay items asignados.\n");
+  else{
+    Item * it = firstList(jugador->listaItems);
+    while(it != NULL){
+      printf("%s", it->nombre);
+      it = nextList(jugador->listaItems);
+      if(it != NULL) printf(" , ");
+    }
+  }
+}
+
 //Opcion 1 Registrar jugador
 
-void registrarJugador(HasMap* mapJugadores){
+void registrarJugador(HashMap* mapJugadores){
+  char key[50];
+  Jugador* newJ = obtenerDatosJugador(key);
+  insertMap(mapJugadores, key, newJ);
+}
 
+//Opcion 2 Mostrar perfil jugador
+
+void mostrarJugador(HashMap* mapJugadores){
+
+  char key[50];
+  printf("Ingrese el nombre del jugador: ");
+  scanf("%s", key);
+
+  Pair* player = searchMap(mapJugadores, key);
+  if(player == NULL){
+    printf("--- NO se encontro al jugador --- \n");
+  }else{
+    imprimirDatosJugador(player->value, key);
+  }
   
+}
+
+//Opcion 3 agregar item
+void agregarItem(HashMap* mapJugadores)
+{
+  char key[50];
+  char 
+  printf("Ingrese el nombre del jugador: ");
+  scanf("%s", key);
+
+  Pair* player = searchMap(mapJugadores, key);
+
+  if(player == NULL){
+    printf("--- NO se encontro al jugador --- \n");
+    return;
+  }
   
+  printf("Ingrese el nombre del item");
+  scanf("s",)
 }
 
 int main() {
@@ -63,11 +124,13 @@ int main() {
     
     switch(opcion){
       case 1:
-        RegistrarJugador(mapJugadores);
+        registrarJugador(mapJugadores);
         break;
       case 2:
+        mostrarJugador(mapJugadores);
         break;
-      case 3:
+      case 
+        3:
         break;
       case 4:
         break;
@@ -86,7 +149,8 @@ int main() {
       default:
         printf("Opcion Invalida, ingrese nueva opcion\n");
     }
-    
+    if(opcion == 10)
+      break;
   }
 
   return 0;
