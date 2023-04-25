@@ -148,6 +148,7 @@ Pair * searchMap(HashMap * map,  char * key) {
   return NULL;
 }
 
+
 /*
 Pair * searchMap(HashMap * map,  char * key) {   
   int aux = hash(key,map->capacity);
@@ -165,8 +166,8 @@ Pair * searchMap(HashMap * map,  char * key) {
         aux = 0;
     }
   }
-}
-*/
+}*/
+
 
 Pair * firstMap(HashMap * map) {
 

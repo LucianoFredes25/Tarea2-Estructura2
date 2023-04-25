@@ -12,6 +12,7 @@ typedef struct{
 }Item;
 
 typedef struct{
+  char nombre[50];
   int PA; //puntos de habilidad
   int CantidadItems;
   HashMap *mapItems;
@@ -38,16 +39,12 @@ void mostrarMenu() {
   printf("[10] Salir.\n");
   printf("Seleccione una opción: ");
 }
-/*
-printf("...");
-puts(...);
-fflush();
-  */
-Jugador* obtenerDatosJugador(char nombre[50]){
 
-  Jugador* newJ =(Jugador *) calloc(1, sizeof(Jugador));
+Jugador* obtenerDatosJugador(){
+  
+  Jugador* newJ = (Jugador *) calloc(1, sizeof(Jugador));
   printf("Nombre : ");
-  scanf("%s", nombre);
+  scanf("%s", newJ->nombre);
   newJ->PA = 0;
   newJ->CantidadItems = 0;
   newJ->mapItems = createMap(10000);
@@ -75,9 +72,8 @@ void imprimirDatosJugador(Jugador* jugador, char nombre[50]){
 //Opcion 1 Registrar jugador
 
 void registrarJugador(HashMap* mapJugadores){
-  char key[50];
-  Jugador* newJ = obtenerDatosJugador(key);
-  insertMap(mapJugadores, key, newJ);
+  Jugador* newJ = obtenerDatosJugador();
+  insertMap(mapJugadores, newJ->nombre, newJ);
   printf("Jugador registrado correctamente!\n");
 }
 
@@ -100,11 +96,11 @@ void mostrarJugador(HashMap* mapJugadores){
 }
 
 //Opcion 3 agregar item
-void agregarItem(HashMap* mapJugadores , HashMap * mapItems)
+void agregarItem(HashMap* mapJugadores)
 {
-  char blank[50];
+  
   char key[50];
-  char keyItem[50];
+  
   printf("Ingrese el nombre del jugador: ");
   scanf("%s", key);
 
@@ -114,6 +110,9 @@ void agregarItem(HashMap* mapJugadores , HashMap * mapItems)
     printf("--- NO se encontro al jugador --- \n");
     return;
   }
+
+  char blank[50];
+  char keyItem[50];
   
   printf("Nombre del item: ");
   fgets(blank, 50, stdin);
@@ -139,7 +138,7 @@ void agregarItem(HashMap* mapJugadores , HashMap * mapItems)
 
 //opcion 4 Eliminar item a jugador
 
-void eliminarItem(HashMap* mapJugadores , HashMap * mapItems){
+void eliminarItem(HashMap* mapJugadores){
   char blank[50];
   char key[50];
   char keyItem[50];
@@ -177,7 +176,7 @@ void eliminarItem(HashMap* mapJugadores , HashMap * mapItems){
 
 //opcion 5 Agregar PA
 void asignarPuntos(HashMap * mapJugadores){
-  char blank[50];
+
   char key[50];
   int puntos;
   printf("Ingrese el nombre del jugador: ");
@@ -199,14 +198,119 @@ void asignarPuntos(HashMap * mapJugadores){
 
 //opcion 6 mostrar jugadores con un item especifico
 
-//void itemEspecifi(){}
+void itemEspecifico(HashMap* mapJugadores){
+  
+  char blank[50];
+  char key[50];
+  char keyItem[50];
+  printf("Nombre del item a buscar: ");
+  fgets(blank, 50, stdin);
+  fgets(keyItem, 50, stdin);
+  keyItem[strcspn(keyItem, "\n")] ='\0';
+
+  List* nombreJugadores = createList();
+
+  Pair* it = firstMap(mapJugadores);
+  Pair* bPar;
+  int cont = 0;
+
+  
+  while(it != NULL){
+    bPar = searchMap( ((Jugador*)(it->value))->mapItems , keyItem);
+
+    if(bPar==NULL) printf("No halle nada \n");
+    
+    if( bPar != NULL){
+      cont++;
+      pushBack(nombreJugadores, ((Jugador*)(it->value))->nombre );
+    }
+    it = nextMap(mapJugadores);
+  }
+
+  char* itn = firstList(nombreJugadores);
+
+  printf("se encontraron %d con el item.\n", cont);
+  
+  while(itn !=NULL){
+    printf("%s \n", itn);
+    itn = nextList(nombreJugadores);
+  }
+  
+  cleanList(nombreJugadores);
+  free(nombreJugadores);
+  
+}
+
+//opcion 7 deshacer ultima accion
+
+void deshacerAccion(HashMap* mapJugadores){
+  
+  
+}
+//opcion 8 exportar
+void exportarDatos(HashMap* mapJugadores){
+  
+}
+//Opcion 9 importar
+void importarDatos(HashMap* mapJugadores)
+{
+  char nombreArchivo[50];
+  
+  printf("Ingrese el nombre del archivo para cargar los jugadores\n");
+  scanf("%s",nombreArchivo);
+
+   FILE* archivo = fopen(nombreArchivo, "r");
+  
+      if (archivo == NULL) {
+        printf("No se pudo abrir el archivo %s\n", nombreArchivo);
+        return;
+    }
+
+    char linea[1024];
+    int numJugadores = 0;
+  
+  while (fgets(linea, 1024, archivo)) {
+    char* campo = strtok(linea, ",");
+    char nombreJugador[50];
+
+    strcpy(nombreJugador, campo);
+
+    campo = strtok(NULL, ",");
+    int puntosHabilidad = atoi(campo);
+
+    Jugador* jugador = (Jugador*) calloc(1, sizeof(Jugador));
+    jugador->PA = puntosHabilidad;
+    jugador->CantidadItems = 0;
+    jugador->mapItems = createMap(10000);
+
+    while ((campo = strtok(NULL, ","))) {
+      char nombreItem[50];
+      strcpy(nombreItem, campo);
+
+      campo = strtok(NULL, ",");
+      int cantidad = atoi(campo);
+
+      Item* item = (Item*) calloc(1, sizeof(Item));
+      strcpy(item->nombre, nombreItem);
+      item->cantidad = cantidad;
+
+      insertMap(jugador->mapItems, nombreItem, item);
+      jugador->CantidadItems++;
+    }
+
+    insertMap(mapJugadores, nombreJugador, jugador);
+    numJugadores++;
+  }
+      fclose(archivo);
+    printf("Se importaron %d jugadores desde el archivo %s\n", numJugadores, nombreArchivo);
+}
+
 
 int main() {
 
   int opcion = 10;
   
   HashMap* mapJugadores = createMap(10000);
-  HashMap* mapItems = createMap(10000);
 
   
   while (true) {
@@ -224,21 +328,24 @@ int main() {
         mostrarJugador(mapJugadores);
         break;
       case 3:
-        agregarItem(mapJugadores, mapItems);
+        agregarItem(mapJugadores);
         break;
       case 4:
-        eliminarItem(mapJugadores, mapItems);
+        eliminarItem(mapJugadores);
         break;
       case 5:
         asignarPuntos(mapJugadores);
         break;
       case 6:
+        itemEspecifico(mapJugadores);
         break;
       case 7:
         break;
       case 8:
+        exportarDatos(mapJugadores);
         break;
       case 9:
+        importarDatos(mapJugadores);
         break;
       case 10:
         break;
