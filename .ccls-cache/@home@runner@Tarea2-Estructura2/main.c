@@ -167,7 +167,8 @@ void eliminarItem(HashMap* mapJugadores , HashMap * mapItems){
   }
 
   ((Item*)(bPar->value))->cantidad--;
-
+  ((Jugador*)(player->value))->CantidadItems--;
+  
   if(((Item*)(bPar->value))->cantidad == 0){
     eraseMap(((Jugador*)(player->value))->mapItems, keyItem);
   }
@@ -198,7 +199,7 @@ void asignarPuntos(HashMap * mapJugadores){
 
 //opcion 6 mostrar jugadores con un item especifico
 
-//void item
+//void itemEspecifi(){}
 
 int main() {
 
