@@ -139,7 +139,66 @@ void agregarItem(HashMap* mapJugadores , HashMap * mapItems)
 
 //opcion 4 Eliminar item a jugador
 
+void eliminarItem(HashMap* mapJugadores , HashMap * mapItems){
+  char blank[50];
+  char key[50];
+  char keyItem[50];
+  printf("Ingrese el nombre del jugador: ");
+  scanf("%s", key);
 
+  Pair* player = searchMap(mapJugadores, key);
+
+  if(player == NULL){
+    printf("--- NO se encontro al jugador --- \n");
+    return;
+  }
+  
+  printf("Nombre del item: ");
+  fgets(blank, 50, stdin);
+  fgets(keyItem, 50, stdin);
+  keyItem[strcspn(keyItem, "\n")] ='\0';
+
+
+  Pair* bPar = searchMap(((Jugador*)(player->value))->mapItems, keyItem);
+
+  if(bPar == NULL){
+    printf("--- NO se encontro el item!!! --- \n");
+    return; 
+  }
+
+  ((Item*)(bPar->value))->cantidad--;
+
+  if(((Item*)(bPar->value))->cantidad == 0){
+    eraseMap(((Jugador*)(player->value))->mapItems, keyItem);
+  }
+  
+}
+
+//opcion 5 Agregar PA
+void asignarPuntos(HashMap * mapJugadores){
+  char blank[50];
+  char key[50];
+  int puntos;
+  printf("Ingrese el nombre del jugador: ");
+  scanf("%s", key);
+
+  Pair* player = searchMap(mapJugadores, key);
+
+  if(player == NULL){
+    printf("--- NO se encontro al jugador --- \n");
+    return;
+  }
+
+  printf("Ingrese puntos a añadir : ");
+  scanf("%d", &puntos);
+  ((Jugador*)(player->value))->PA += puntos;
+  printf("Puntos añadidos correctamente!\n");
+}
+  
+
+//opcion 6 mostrar jugadores con un item especifico
+
+//void item
 
 int main() {
 
@@ -167,8 +226,10 @@ int main() {
         agregarItem(mapJugadores, mapItems);
         break;
       case 4:
+        eliminarItem(mapJugadores, mapItems);
         break;
       case 5:
+        asignarPuntos(mapJugadores);
         break;
       case 6:
         break;
