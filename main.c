@@ -251,7 +251,7 @@ void deshacerAccion(HashMap* mapJugadores){
 void exportarDatos(HashMap* mapJugadores){
   
 }
-//Opcion 9 importar
+//Opcion 9 importar al momento de abrir el archivo se cae
 void importarDatos(HashMap* mapJugadores)
 {
   char nombreArchivo[50];
