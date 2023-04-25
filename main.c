@@ -7,11 +7,12 @@
 #include <string.h>
 
 typedef struct{
+  char nombre[50];
   int cantidad;
 }Item;
 
 typedef struct{
-  int PA;
+  int PA; //puntos de habilidad
   int CantidadItems;
   HashMap *mapItems;
 }Jugador;
@@ -37,7 +38,11 @@ void mostrarMenu() {
   printf("[10] Salir.\n");
   printf("Seleccione una opción: ");
 }
-
+/*
+printf("...");
+puts(...);
+fflush();
+  */
 Jugador* obtenerDatosJugador(char nombre[50]){
 
   Jugador* newJ =(Jugador *) calloc(1, sizeof(Jugador));
@@ -49,6 +54,10 @@ Jugador* obtenerDatosJugador(char nombre[50]){
   return newJ;
 }
 
+void mostrarItem(Item* item){
+  printf("%s : %d", item->nombre, item->cantidad);
+}
+
 void imprimirDatosJugador(Jugador* jugador, char nombre[50]){
   printf("\nPerfil de %s : Puntos de Habilidad = [%d] , Cantidad de Items [%d]\n", nombre, jugador->PA , jugador->CantidadItems);
   if(jugador->CantidadItems == 0)
@@ -56,7 +65,7 @@ void imprimirDatosJugador(Jugador* jugador, char nombre[50]){
   else{
     Pair* it = firstMap(jugador->mapItems);
     while(it != NULL){
-      printf("%s : %d", it->key, *((int*)it->value) );
+      mostrarItem(it->value);
       it = nextMap(jugador->mapItems);
       if(it != NULL) printf(" ,\n");
     }
@@ -110,7 +119,19 @@ void agregarItem(HashMap* mapJugadores , HashMap * mapItems)
   fgets(blank, 50, stdin);
   fgets(keyItem, 50, stdin);
   keyItem[strcspn(keyItem, "\n")] ='\0';
-  insertMap( ((Jugador*)(player->value))->mapItems, keyItem, 1);
+
+
+  Pair* bPar = searchMap(((Jugador*)(player->value))->mapItems, keyItem);
+
+  if(bPar == NULL){
+    Item* new = calloc(1, sizeof(Item));
+    strcpy(new->nombre, keyItem);
+    new->cantidad =  1;
+    insertMap( ((Jugador*)(player->value))->mapItems, keyItem, new);
+  }else{
+    ((Item*)(bPar->value))->cantidad++;
+  }
+  
   ((Jugador*)(player->value))->CantidadItems++;
   printf("--- Se agrego correctamente el item!!! --- \n");
   

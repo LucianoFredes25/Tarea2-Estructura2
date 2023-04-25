@@ -11,7 +11,7 @@ typedef struct{
 }Item;
 
 typedef struct{
-  int PA;
+  int PA; //puntos de habilidad
   int CantidadItems;
   HashMap *mapItems;
 }Jugador;
@@ -37,7 +37,11 @@ void mostrarMenu() {
   printf("[10] Salir.\n");
   printf("Seleccione una opción: ");
 }
-
+/*
+printf("...");
+puts(...);
+fflush();
+  */
 Jugador* obtenerDatosJugador(char nombre[50]){
 
   Jugador* newJ =(Jugador *) calloc(1, sizeof(Jugador));
