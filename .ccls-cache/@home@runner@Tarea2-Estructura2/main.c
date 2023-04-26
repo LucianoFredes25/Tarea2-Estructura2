@@ -275,10 +275,10 @@ void exportarDatos(HashMap* mapJugadores){
 //al momento de importar y mostrar los item de un jugador no los reconoce todos
 void importarDatos(HashMap* mapJugadores)
 {
-    char nombreArchivo[50];
-    FILE *archivo;
+ char nombreArchivo[50];
+    FILE* archivo;
     int numJugadores = 0;
-  
+
     printf("Ingrese el nombre del archivo a importar: ");
     scanf("%s", nombreArchivo);
     archivo = fopen(nombreArchivo, "r");
@@ -289,17 +289,17 @@ void importarDatos(HashMap* mapJugadores)
     }
 
     char buffer[1024];
-    char* campos[4];  
+    char* campos[11];
     while (fgets(buffer, 1024, archivo) != NULL) {
         char* token = strtok(buffer, ",");
         int i = 0;
-        while (token != NULL && i < 4) { 
+        while (token != NULL && i < 10) {
             campos[i] = token;
             token = strtok(NULL, ",");
             i++;
         }
 
-        if (i != 4) {
+        if (i != 10) {
             printf("Error al leer la línea del archivo: %s\n", buffer);
             continue;
         }
@@ -307,27 +307,26 @@ void importarDatos(HashMap* mapJugadores)
         Jugador* jugador = (Jugador*)malloc(sizeof(Jugador));
         strcpy(jugador->nombre, campos[0]);
         jugador->PA = atoi(campos[1]);
-        jugador->CantidadItems = 0;
-        jugador->mapItems = createMap(10000);
 
-        char* tokenItem = strtok(campos[2], ",");
-        while (tokenItem != NULL) {
-            Pair* itemPair = searchMap(jugador->mapItems, tokenItem);
+        jugador->CantidadItems = atoi(campos[2]);
+
+        jugador->mapItems = createMap(10000);
+        for (int j = 0; j < jugador->CantidadItems; j++) {
+            char* nombreItem = campos[j + 3];
+            Pair* itemPair = searchMap(jugador->mapItems, nombreItem);
             if (itemPair == NULL) {
                 Item* item = (Item*)malloc(sizeof(Item));
-                strcpy(item->nombre, tokenItem);
+                strcpy(item->nombre, nombreItem);
                 item->cantidad = 1;
                 insertMap(jugador->mapItems, item->nombre, item);
-            } else {
+            }
+            else {
                 ((Item*)itemPair->value)->cantidad++;
             }
-            jugador->CantidadItems++;
-            tokenItem = strtok(NULL, ",");
         }
 
         insertMap(mapJugadores, jugador->nombre, jugador);
         numJugadores++;
-        
     }
 
     fclose(archivo);
