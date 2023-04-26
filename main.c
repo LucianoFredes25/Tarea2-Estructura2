@@ -47,16 +47,17 @@ Jugador* obtenerDatosJugador(){
   scanf("%s", newJ->nombre);
   newJ->PA = 0;
   newJ->CantidadItems = 0;
-  newJ->mapItems = createMap(10000);
+  newJ->mapItems = createMap(1000);
   return newJ;
 }
 
 void mostrarItem(Item* item){
-  printf("%s : %d", item->nombre, item->cantidad);
+  //printf("%s: %d", item->nombre, item->cantidad);
+   printf("%s", item->nombre);
 }
 
 void imprimirDatosJugador(Jugador* jugador, char nombre[50]){
-  printf("\nPerfil de %s : Puntos de Habilidad = [%d] , Cantidad de Items [%d]\n", nombre, jugador->PA , jugador->CantidadItems);
+  printf("\nPerfil de %s :\n\nPuntos de Habilidad = [%d] \nCantidad de Items = [%d]\n\n", nombre, jugador->PA , jugador->CantidadItems);
   if(jugador->CantidadItems == 0)
     printf("No hay items asignados.\n");
   else{
@@ -64,7 +65,7 @@ void imprimirDatosJugador(Jugador* jugador, char nombre[50]){
     while(it != NULL){
       mostrarItem(it->value);
       it = nextMap(jugador->mapItems);
-      if(it != NULL) printf(" ,\n");
+      if(it != NULL) printf("\n");
     }
   }
 }
@@ -198,12 +199,16 @@ void asignarPuntos(HashMap * mapJugadores){
 
 //opcion 6 mostrar jugadores con un item especifico
 
+HashMap* getMap(HashMap* iyo){
+  return iyo;
+}
+
 void itemEspecifico(HashMap* mapJugadores){
   
   char blank[50];
   char key[50];
   char keyItem[50];
-  printf("Nombre del item a buscar: ");
+  printf("Nombre del item: ");
   fgets(blank, 50, stdin);
   fgets(keyItem, 50, stdin);
   keyItem[strcspn(keyItem, "\n")] ='\0';
@@ -213,10 +218,12 @@ void itemEspecifico(HashMap* mapJugadores){
   Pair* it = firstMap(mapJugadores);
   Pair* bPar;
   int cont = 0;
-
+  
   
   while(it != NULL){
-    bPar = searchMap( ((Jugador*)(it->value))->mapItems , keyItem);
+    //printf("%s -> ", ((Jugador*)(it->value))->nombre);
+    HashMap* mapita = getMap(((Jugador*)(it->value))->mapItems);
+    bPar = searchMap( mapita , keyItem);
 
     if(bPar==NULL) printf("No halle nada \n");
     
@@ -268,6 +275,33 @@ void deshacerAccion(HashMap* mapJugadores){
 
 //opcion 8 exportar
 void exportarDatos(HashMap* mapJugadores){
+  //char nombreArchivo[50];
+
+  //printf("Ingrese el archivo a exportar: ");
+  //scanf("%s, nombreArchivo");
+
+  //FILE* archivo = fopen(nombreArchivo, "w");
+  //if (archivo == NULL){}
+  //printf("Error al abrir el archivo de exportación \n");
+  //return;
+
+  //fprintf(archivo,"Nombre, Puntos de habilidad, #items, Item 1, Item 2, Item 3, Item 4, Item 5, Item 6, Item 7, Item 8");
+
+  //Pair* it = (Pair*) firstMap(mapJugadores);
+
+  //while (it != NULL){}
+  //fprintf(archivo,"%c, %d, %d",it->nombre,it->PA,it->CantidadItems);
+
+  //Pair* parDelitem = (Pair*) firstMap(jugador->mapItems);
+
+  //while (parDelitem != NULL){}
+  //fprintf(archivo,"");
+  //parDelitem = nextMap(jugador->mapItems);
+
+  //fprintf(archivo,"");
+  //it = nextMap(mapJugadores);
+
+  //viva 
   
 }
 
@@ -378,8 +412,6 @@ int main() {
         break;
       case 9:
         importarDatos(mapJugadores);
-        break;
-      case 10:
         break;
       default:
         printf("Opcion Invalida, ingrese nueva opcion\n");

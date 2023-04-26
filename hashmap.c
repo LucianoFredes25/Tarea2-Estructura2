@@ -61,7 +61,6 @@ void insertMap(HashMap * map, char * key, void * value) {
     }
   }
   map->size++;
-  
 }
 
 void enlarge(HashMap * map) {
@@ -121,35 +120,48 @@ void eraseMap(HashMap * map,  char * key) {
 
 }
 
+void printkey(char key1[50], char* key2[50]){
+  printf("%s - %s", key1, key2);
+}
+/*
 Pair * searchMap(HashMap * map,  char * key) {   
 
   long pos = hash(key, map->capacity);
 
-  if(*(map->buckets+pos) == NULL) return NULL;
+  printf("%ld, ", pos);
+  
+  printf("%s \n", key);
+  
+  if(*(map->buckets+pos) == NULL){
+    printf("retorno null 1\n");
+    return NULL;
+  }
+
+  printkey((*(map->buckets+pos))->key, key);
   
   if( is_equal((*(map->buckets+pos))->key, key) ){
-    map->current =  pos;
+    printf("si llego\n");
     return *(map->buckets+pos);
   }else{
 
     for(long i = 0, it = pos+1; i < map->capacity; i++, it++){
       it = it%map->capacity;
-      if( *(map->buckets+it) ==  NULL){
-        return NULL;
-      }else if(is_equal(key, (*(map->buckets+it))->key)){
-        map->current = it;
+      
+      if( *(map->buckets+it) ==  NULL) continue;
+      if(is_equal(key, (*(map->buckets+it))->key)){
         return *(map->buckets+it);
       }
     }
     
   }
 
-
+  printf("retorno null 3\n");
+  
   return NULL;
 }
+*/
 
 
-/*
 Pair * searchMap(HashMap * map,  char * key) {   
   int aux = hash(key,map->capacity);
   while(true){
@@ -166,7 +178,7 @@ Pair * searchMap(HashMap * map,  char * key) {
         aux = 0;
     }
   }
-}*/
+}
 
 
 Pair * firstMap(HashMap * map) {
