@@ -245,13 +245,34 @@ void itemEspecifico(HashMap* mapJugadores){
 
 void deshacerAccion(HashMap* mapJugadores){
   
+  char claveJugador[50];
+  char claveItem[50];
+  printf("Ingrese el nombre del jugador: \n");
+  scanf("%s",claveJugador);
   
+  Pair* player = (Pair*) searchMap(mapJugadores, claveJugador);
+
+  if (player == NULL){
+    printf("--- NO se encontro al jugador --- \n");
+    return;
+  }
+  Pair* it = firstMap(mapJugadores);
+  while (it != NULL){
+    Pair* itemPar = searchMap(((Jugador*)(it->value))->mapItems, claveItem);
+    if (itemPar == NULL){
+      printf("El jugador no ha realizado ninguna acción");
+      return;
+    }
+  }
 }
+
 //opcion 8 exportar
 void exportarDatos(HashMap* mapJugadores){
   
 }
+
 //Opcion 9 importar 
+//al momento de importar y mostrar los item de un jugador no los reconoce todos
 void importarDatos(HashMap* mapJugadores)
 {
     char nombreArchivo[50];
@@ -263,56 +284,55 @@ void importarDatos(HashMap* mapJugadores)
     archivo = fopen(nombreArchivo, "r");
 
     if (archivo == NULL) {
-    printf("Error al abrir el archivo %s\n", nombreArchivo);
-    return;
-  }
-
-  char buffer[1024];
-  char* campos[3];
-  while (fgets(buffer, 1024, archivo) != NULL) {
-    char* token = strtok(buffer, ",");
-    int i = 0;
-    while (token != NULL && i < 3) {
-      campos[i] = token;
-      token = strtok(NULL, ",");
-      i++;
+        printf("Error al abrir el archivo %s\n", nombreArchivo);
+        return;
     }
 
-    if (i != 3) {
-      printf("Error al leer la línea del archivo: %s\n", buffer);
-      continue;
+    char buffer[1024];
+    char* campos[4];  
+    while (fgets(buffer, 1024, archivo) != NULL) {
+        char* token = strtok(buffer, ",");
+        int i = 0;
+        while (token != NULL && i < 4) { 
+            campos[i] = token;
+            token = strtok(NULL, ",");
+            i++;
+        }
+
+        if (i != 4) {
+            printf("Error al leer la línea del archivo: %s\n", buffer);
+            continue;
+        }
+
+        Jugador* jugador = (Jugador*)malloc(sizeof(Jugador));
+        strcpy(jugador->nombre, campos[0]);
+        jugador->PA = atoi(campos[1]);
+        jugador->CantidadItems = 0;
+        jugador->mapItems = createMap(10000);
+
+        char* tokenItem = strtok(campos[2], ",");
+        while (tokenItem != NULL) {
+            Pair* itemPair = searchMap(jugador->mapItems, tokenItem);
+            if (itemPair == NULL) {
+                Item* item = (Item*)malloc(sizeof(Item));
+                strcpy(item->nombre, tokenItem);
+                item->cantidad = 1;
+                insertMap(jugador->mapItems, item->nombre, item);
+            } else {
+                ((Item*)itemPair->value)->cantidad++;
+            }
+            jugador->CantidadItems++;
+            tokenItem = strtok(NULL, ",");
+        }
+
+        insertMap(mapJugadores, jugador->nombre, jugador);
+        numJugadores++;
+        
     }
 
-    Jugador* jugador = (Jugador*)malloc(sizeof(Jugador));
-    strcpy(jugador->nombre, campos[0]);
-    jugador->PA = atoi(campos[1]);
-    jugador->CantidadItems = 0;
-    jugador->mapItems = createMap(10000);
-
-    char* tokenItem = strtok(campos[2], "|");
-    while (tokenItem != NULL) {
-      Pair* itemPair = searchMap(jugador->mapItems, tokenItem);
-      if (itemPair == NULL) {
-        Item* item = (Item*)malloc(sizeof(Item));
-        strcpy(item->nombre, tokenItem);
-        item->cantidad = 1;
-        insertMap(jugador->mapItems, item->nombre, item);
-      } else {
-        ((Item*)itemPair->value)->cantidad++;
-      }
-      jugador->CantidadItems++;
-      tokenItem = strtok(NULL, "|");
-    }
-
-    insertMap(mapJugadores, jugador->nombre, jugador);
-    numJugadores++;
-    
-  }
-
-  fclose(archivo);
-  printf("Se importaron %d jugadores desde el archivo %s\n", numJugadores, nombreArchivo);
+    fclose(archivo);
+    printf("Se importaron %d jugadores desde el archivo %s\n", numJugadores, nombreArchivo);
 }
-
 
 int main() {
 
@@ -320,7 +340,6 @@ int main() {
   
   HashMap* mapJugadores = createMap(10000);
 
-  
   while (true) {
 
     mostrarMenu();
@@ -348,6 +367,7 @@ int main() {
         itemEspecifico(mapJugadores);
         break;
       case 7:
+        deshacerAccion(mapJugadores);
         break;
       case 8:
         exportarDatos(mapJugadores);
