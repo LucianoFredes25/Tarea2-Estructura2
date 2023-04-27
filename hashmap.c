@@ -125,7 +125,6 @@ Pair * searchMap(HashMap * map,  char * key) {
   long pos = hash(key, map->capacity);
 
   if(*(map->buckets+pos) == NULL){
-    printf("retorno null 1\n");
     return NULL;
   }
 
@@ -143,8 +142,6 @@ Pair * searchMap(HashMap * map,  char * key) {
     }
     
   }
-
-  printf("Busqueda fallida\n");
   
   return NULL;
 }

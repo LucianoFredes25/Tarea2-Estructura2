@@ -20,8 +20,8 @@ typedef struct{
 
 typedef struct{
   int tipo;
-  char nombreJ[50];
-  char auxIt[50];
+  char nomAux[50];
+  char itemAux[50];
   int PAux;
 }Accion;
 
@@ -54,8 +54,18 @@ Jugador* obtenerDatosJugador(){
 }
 
 void mostrarItem(Item* item){
-  //printf("%s: %d", item->nombre, item->cantidad);
-   printf("%s", item->nombre);
+  printf("%s: %d", item->nombre, item->cantidad);
+  //printf("%s", item->nombre);
+}
+
+Accion* createAccion(int tipo, char nombre[50], char item[50], int PA){
+  Accion* newA = calloc(1, sizeof(Accion));
+  newA->tipo = tipo;
+  strcpy(newA->nomAux, nombre);
+  strcpy(newA->itemAux, item);
+  newA->PAux = PA;
+
+  return newA;
 }
 
 void imprimirDatosJugador(Jugador* jugador){
@@ -105,7 +115,8 @@ void mostrarJugador(HashMap* mapJugadores){
 //Opcion 3 agregar item
 void agregarItem(HashMap* mapJugadores, List* listaAcciones, int reverse, char nomAux[50], char itemAux[50])
 {
-
+  char blank[50];
+  char keyItem[50];
   char key[50];
   if(!reverse){
     printf("Ingrese el nombre del jugador: ");
@@ -118,14 +129,13 @@ void agregarItem(HashMap* mapJugadores, List* listaAcciones, int reverse, char n
     printf("--- NO se encontro al jugador --- \n");
     return;
   }
-
-  char blank[50];
-  char keyItem[50];
   
-  printf("Nombre del item: ");
-  fgets(blank, 50, stdin);
-  fgets(keyItem, 50, stdin);
-  keyItem[strcspn(keyItem, "\n")] ='\0';
+  if(!reverse){
+    printf("Nombre del item: ");
+    fgets(blank, 50, stdin);
+    fgets(keyItem, 50, stdin);
+    keyItem[strcspn(keyItem, "\n")] ='\0';
+  }else strcpy(keyItem, itemAux);
 
   HashMap* mapita = getMapJ(player->value);
 
@@ -139,35 +149,44 @@ void agregarItem(HashMap* mapJugadores, List* listaAcciones, int reverse, char n
   }else{
     ((Item*)(bPar->value))->cantidad++;
   }
+
+  if(!reverse){
+    Accion* newA = createAccion(1, key, keyItem,0);
+    pushBack(listaAcciones, newA);
+  }
   
   ((Jugador*)(player->value))->CantidadItems++;
-  printf("--- Se agrego correctamente el item!!! --- \n");
-  
+
+  if(!reverse) printf("--- Se agrego correctamente el item!!! --- \n"); 
 }
 
 //opcion 4 Eliminar item a jugador
 
-void eliminarItem(HashMap* mapJugadores){
+void eliminarItem(HashMap* mapJugadores, List* listaAcciones, int reverse, char nomAux[50], char itemAux[50]){
   char blank[50];
   char key[50];
   char keyItem[50];
-  printf("Ingrese el nombre del jugador: ");
-  scanf("%s", key);
-
+  if(!reverse){
+    printf("Ingrese el nombre del jugador: ");
+    scanf("%s", key);
+  }else strcpy(key, nomAux);
+  
   Pair* player = searchMap(mapJugadores, key);
 
   if(player == NULL){
     printf("--- NO se encontro al jugador --- \n");
     return;
   }
-  
-  printf("Nombre del item: ");
-  fgets(blank, 50, stdin);
-  fgets(keyItem, 50, stdin);
-  keyItem[strcspn(keyItem, "\n")] ='\0';
 
+  if(!reverse){
+    printf("Nombre del item: ");
+    fgets(blank, 50, stdin);
+    fgets(keyItem, 50, stdin);
+    keyItem[strcspn(keyItem, "\n")] ='\0';
+  }else strcpy(keyItem, itemAux);
 
-  Pair* bPar = searchMap(((Jugador*)(player->value))->mapItems, keyItem);
+  HashMap* mapita = getMapJ(player->value);
+  Pair* bPar = searchMap(mapita, keyItem);
 
   if(bPar == NULL){
     printf("--- NO se encontro el item!!! --- \n");
@@ -180,16 +199,25 @@ void eliminarItem(HashMap* mapJugadores){
   if(((Item*)(bPar->value))->cantidad == 0){
     eraseMap(((Jugador*)(player->value))->mapItems, keyItem);
   }
+
+  if(!reverse){
+    Accion* newA = createAccion(2, key, keyItem,0);
+    pushBack(listaAcciones, newA);
+  }
   
+  if(!reverse) printf("--- Se borro correctamente el item!!! --- \n"); 
 }
 
 //opcion 5 Agregar PA
-void asignarPuntos(HashMap * mapJugadores){
-
+void asignarPuntos(HashMap * mapJugadores, List* listaAcciones, int reverse, char nomAux[50], int puAux){
+  
   char key[50];
   int puntos;
-  printf("Ingrese el nombre del jugador: ");
-  scanf("%s", key);
+
+  if(!reverse){
+    printf("Ingrese el nombre del jugador: ");
+    scanf("%s", key);
+  }else strcpy(key, nomAux);
 
   Pair* player = searchMap(mapJugadores, key);
 
@@ -198,10 +226,19 @@ void asignarPuntos(HashMap * mapJugadores){
     return;
   }
 
-  printf("Ingrese puntos a añadir : ");
-  scanf("%d", &puntos);
+  if(!reverse){
+    printf("Ingrese puntos a añadir : ");
+    scanf("%d", &puntos);
+  }else puntos = puAux; 
+
   ((Jugador*)(player->value))->PA += puntos;
-  printf("Puntos añadidos correctamente!\n");
+
+  if(!reverse){
+    Accion* newA = createAccion(3, key, "", puntos*-1);
+    pushBack(listaAcciones, newA);
+  }
+  
+  if(!reverse) printf("Puntos añadidos correctamente!\n");
 }
   
 
@@ -242,27 +279,28 @@ void itemEspecifico(HashMap* mapJugadores){
 }
 
 //opcion 7 deshacer ultima accion
-void deshacerAccion(HashMap* mapJugadores){
+void deshacerAccion(HashMap* mapJugadores, List* listaAcciones){
   
-  char claveJugador[50];
-  char claveItem[50];
-  printf("Ingrese el nombre del jugador: \n");
-  scanf("%s",claveJugador);
-  
-  Pair* player = (Pair*) searchMap(mapJugadores, claveJugador);
 
-  if (player == NULL){
-    printf("--- NO se encontro al jugador --- \n");
+  Accion* action = lastList(listaAcciones);
+
+  if(action == NULL){
+    printf("--- NO hay acciones para deshacer ---\n");
     return;
   }
-  Pair* it = firstMap(mapJugadores);
-  while (it != NULL){
-    Pair* itemPar = searchMap(((Jugador*)(it->value))->mapItems, claveItem);
-    if (itemPar == NULL){
-      printf("El jugador no ha realizado ninguna acción");
-      return;
-    }
+
+  if(action->tipo == 1){
+    eliminarItem(mapJugadores, listaAcciones, 1, action->nomAux, action->itemAux);
+  }else if(action->tipo == 2){
+    agregarItem(mapJugadores, listaAcciones, 1, action->nomAux, action->itemAux);
+  }else{
+    asignarPuntos(mapJugadores, listaAcciones, 1, action->nomAux , action->PAux);
+    
   }
+
+  popBack(listaAcciones);
+  printf("--- Accion deshecha correctamente ---\n");
+    
 }
 
 //opcion 8 exportar
@@ -397,13 +435,13 @@ int main() {
         eliminarItem(mapJugadores, listaAcciones, 0, "", "");
         break;
       case 5:
-        asignarPuntos(mapJugadores, listaAcciones, 0, "");
+        asignarPuntos(mapJugadores, listaAcciones, 0, "", 0);
         break;
       case 6:
         itemEspecifico(mapJugadores);
         break;
       case 7:
-        deshacerAccion(mapJugadores);
+        deshacerAccion(mapJugadores, listaAcciones);
         break;
       case 8:
         exportarDatos(mapJugadores);
