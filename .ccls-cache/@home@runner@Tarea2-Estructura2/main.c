@@ -306,7 +306,7 @@ void exportarDatos(HashMap* mapJugadores){
 }
 
 //Opcion 9 importar 
-//al momento de importar y mostrar los item de un jugador no los reconoce todos
+//
 void importarDatos(HashMap* mapJugadores)
 {
  char nombreArchivo[50];

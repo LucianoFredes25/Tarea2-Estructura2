@@ -84,7 +84,7 @@ HashMap * createMap(long capacity) {
 
   HashMap* nuevo = (HashMap*) calloc(1, sizeof(HashMap));
 
-  nuevo->buckets = (Pair**) calloc(capacity, sizeof(Pair));
+  nuevo->buckets = (Pair**) calloc(capacity, sizeof(Pair) );
 
   nuevo->current = -1;
   nuevo->size = 0;
@@ -120,17 +120,19 @@ void eraseMap(HashMap * map,  char * key) {
 
 }
 
-void printkey(char key1[50], char* key2[50]){
-  printf("%s - %s", key1, key2);
+void printkey(char key1[50], char key2[50]){
+  printf("%s - %s\n", key1, key2);
 }
-/*
+
 Pair * searchMap(HashMap * map,  char * key) {   
 
+  //Imprime direccion de memoria de la estructura:
+  printf("Direccion de memoria: %p\n",(void *)&map);
+  
   long pos = hash(key, map->capacity);
 
-  printf("%ld, ", pos);
-  
-  printf("%s \n", key);
+  printf("Clave: %s\n", key);
+  printf("index obtenido: %d\n", pos);
   
   if(*(map->buckets+pos) == NULL){
     printf("retorno null 1\n");
@@ -140,7 +142,7 @@ Pair * searchMap(HashMap * map,  char * key) {
   printkey((*(map->buckets+pos))->key, key);
   
   if( is_equal((*(map->buckets+pos))->key, key) ){
-    printf("si llego\n");
+    printf("Elemento encontrado\n");
     return *(map->buckets+pos);
   }else{
 
@@ -149,19 +151,20 @@ Pair * searchMap(HashMap * map,  char * key) {
       
       if( *(map->buckets+it) ==  NULL) continue;
       if(is_equal(key, (*(map->buckets+it))->key)){
+        printf("Encontrado por una colision\n");
         return *(map->buckets+it);
       }
     }
     
   }
 
-  printf("retorno null 3\n");
+  printf("Busqueda fallida\n");
   
   return NULL;
 }
-*/
 
 
+/*
 Pair * searchMap(HashMap * map,  char * key) {   
   int aux = hash(key,map->capacity);
   while(true){
@@ -179,7 +182,7 @@ Pair * searchMap(HashMap * map,  char * key) {
     }
   }
 }
-
+*/
 
 Pair * firstMap(HashMap * map) {
 

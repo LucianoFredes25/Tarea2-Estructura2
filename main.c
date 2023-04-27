@@ -48,6 +48,7 @@ Jugador* obtenerDatosJugador(){
   newJ->PA = 0;
   newJ->CantidadItems = 0;
   newJ->mapItems = createMap(1000);
+  printf("Direccion de map del nuevo jugador: %p\n",(void *)&(newJ->mapItems)) ;
   return newJ;
 }
 
@@ -68,6 +69,10 @@ void imprimirDatosJugador(Jugador* jugador, char nombre[50]){
       if(it != NULL) printf("\n");
     }
   }
+}
+
+HashMap* getMapJ(Jugador* iyo){
+  return iyo->mapItems;
 }
 
 //Opcion 1 Registrar jugador
@@ -120,8 +125,9 @@ void agregarItem(HashMap* mapJugadores)
   fgets(keyItem, 50, stdin);
   keyItem[strcspn(keyItem, "\n")] ='\0';
 
+  HashMap* mapita = getMapJ(player->value);
 
-  Pair* bPar = searchMap(((Jugador*)(player->value))->mapItems, keyItem);
+  Pair* bPar = searchMap(mapita, keyItem);
 
   if(bPar == NULL){
     Item* new = calloc(1, sizeof(Item));
@@ -306,7 +312,7 @@ void exportarDatos(HashMap* mapJugadores){
 }
 
 //Opcion 9 importar 
-//al momento de importar y mostrar los item de un jugador no los reconoce todos
+//
 void importarDatos(HashMap* mapJugadores)
 {
  char nombreArchivo[50];
@@ -372,12 +378,19 @@ void importarDatos(HashMap* mapJugadores)
     printf("Se importaron %d jugadores desde el archivo %s\n", numJugadores, nombreArchivo);
 }
 
+//-------------------------------------------
+//                 NO TOCAR
+//       ESTA COSA SIGUE MOLESTATANDO
+//-------------------------------------------
+
 int main() {
 
   int opcion = 10;
   
   HashMap* mapJugadores = createMap(10000);
-
+  
+  printf("Direccion de la Hash: %p\n ",(void *)&(mapJugadores)) ;
+  
   while (true) {
 
     mostrarMenu();
