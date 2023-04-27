@@ -25,6 +25,7 @@ typedef struct{
   int PAux;
 }Accion;
 
+
 void mostrarMenu() {
   printf("\n---  Juego?  ---\n");
   printf("[1] Registrar Jugador.\n");
@@ -48,7 +49,7 @@ Jugador* obtenerDatosJugador(){
   newJ->PA = 0;
   newJ->CantidadItems = 0;
   newJ->mapItems = createMap(1000);
-  printf("Direccion de map del nuevo jugador: %p\n",(void *)&(newJ->mapItems)) ;
+
   return newJ;
 }
 
@@ -57,8 +58,8 @@ void mostrarItem(Item* item){
    printf("%s", item->nombre);
 }
 
-void imprimirDatosJugador(Jugador* jugador, char nombre[50]){
-  printf("\nPerfil de %s :\n\nPuntos de Habilidad = [%d] \nCantidad de Items = [%d]\n\n", nombre, jugador->PA , jugador->CantidadItems);
+void imprimirDatosJugador(Jugador* jugador){
+  printf("\nPerfil de %s :\n\nPuntos de Habilidad = [%d] \nCantidad de Items = [%d]\n\n", jugador->nombre, jugador->PA , jugador->CantidadItems);
   if(jugador->CantidadItems == 0)
     printf("No hay items asignados.\n");
   else{
@@ -96,20 +97,21 @@ void mostrarJugador(HashMap* mapJugadores){
   if(player == NULL){
     printf("--- NO se encontro al jugador --- \n");
   }else{
-    imprimirDatosJugador(player->value, key);
+    imprimirDatosJugador(player->value);
   }
   
 }
 
 //Opcion 3 agregar item
-void agregarItem(HashMap* mapJugadores)
+void agregarItem(HashMap* mapJugadores, List* listaAcciones, int reverse, char nomAux[50], char itemAux[50])
 {
-  
-  char key[50];
-  
-  printf("Ingrese el nombre del jugador: ");
-  scanf("%s", key);
 
+  char key[50];
+  if(!reverse){
+    printf("Ingrese el nombre del jugador: ");
+    scanf("%s", key);
+  }else strcpy(key, nomAux);
+  
   Pair* player = searchMap(mapJugadores, key);
 
   if(player == NULL){
@@ -205,57 +207,41 @@ void asignarPuntos(HashMap * mapJugadores){
 
 //opcion 6 mostrar jugadores con un item especifico
 
-HashMap* getMap(HashMap* iyo){
-  return iyo;
-}
-
 void itemEspecifico(HashMap* mapJugadores){
-  
   char blank[50];
-  char key[50];
   char keyItem[50];
+  
   printf("Nombre del item: ");
   fgets(blank, 50, stdin);
   fgets(keyItem, 50, stdin);
   keyItem[strcspn(keyItem, "\n")] ='\0';
 
-  List* nombreJugadores = createList();
-
   Pair* it = firstMap(mapJugadores);
-  Pair* bPar;
-  int cont = 0;
-  
-  
-  while(it != NULL){
-    //printf("%s -> ", ((Jugador*)(it->value))->nombre);
-    HashMap* mapita = getMap(((Jugador*)(it->value))->mapItems);
-    bPar = searchMap( mapita , keyItem);
 
-    if(bPar==NULL) printf("No halle nada \n");
-    
-    if( bPar != NULL){
-      cont++;
-      pushBack(nombreJugadores, ((Jugador*)(it->value))->nombre );
+  long cont = 0;
+
+  //La busqueda O(n^2) tiene justificacion :(
+  
+  while(it!=NULL){
+    Pair* it2 = firstMap(((Jugador*)(it->value))->mapItems);
+    while(it2!=NULL){
+
+      if( is_equal(  ((Item*)(it2->value))->nombre , keyItem) ){
+        cont++;
+        printf("-> %s \n", ((Jugador*)(it->value))->nombre );        
+        break;
+      }
+      
+      it2 = nextMap(((Jugador*)(it->value))->mapItems);
     }
     it = nextMap(mapJugadores);
   }
 
-  char* itn = firstList(nombreJugadores);
-
-  printf("se encontraron %d con el item.\n", cont);
-  
-  while(itn !=NULL){
-    printf("%s \n", itn);
-    itn = nextList(nombreJugadores);
-  }
-  
-  cleanList(nombreJugadores);
-  free(nombreJugadores);
+  printf("se encontraron %ld jugadores con el item.\n", cont);
   
 }
 
 //opcion 7 deshacer ultima accion
-
 void deshacerAccion(HashMap* mapJugadores){
   
   char claveJugador[50];
@@ -343,7 +329,7 @@ void importarDatos(HashMap* mapJugadores)
 
         jugador->PA = 0;
         jugador->CantidadItems = 0;
-        jugador->mapItems = createMap(10000);
+        jugador->mapItems = createMap(1000);
 
         while ((token = strtok(NULL, ",")) != NULL) {
             if (jugador->PA == 0) {
@@ -380,17 +366,16 @@ void importarDatos(HashMap* mapJugadores)
 
 //-------------------------------------------
 //                 NO TOCAR
-//       ESTA COSA SIGUE MOLESTATANDO
+//       ESTA COSA SIGUE MOLESTANDO
 //-------------------------------------------
 
 int main() {
 
   int opcion = 10;
   
-  HashMap* mapJugadores = createMap(10000);
-  
-  printf("Direccion de la Hash: %p\n ",(void *)&(mapJugadores)) ;
-  
+  HashMap* mapJugadores = createMap(5000);
+  List* listaAcciones = createList();
+
   while (true) {
 
     mostrarMenu();
@@ -406,13 +391,13 @@ int main() {
         mostrarJugador(mapJugadores);
         break;
       case 3:
-        agregarItem(mapJugadores);
+        agregarItem(mapJugadores, listaAcciones, 0, "", "");
         break;
       case 4:
-        eliminarItem(mapJugadores);
+        eliminarItem(mapJugadores, listaAcciones, 0, "", "");
         break;
       case 5:
-        asignarPuntos(mapJugadores);
+        asignarPuntos(mapJugadores, listaAcciones, 0, "");
         break;
       case 6:
         itemEspecifico(mapJugadores);
