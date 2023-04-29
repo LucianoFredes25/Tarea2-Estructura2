@@ -41,29 +41,12 @@ void mostrarMenu() {
   printf("Seleccione una opción: ");
 }
 
-
-//Busqueda por fuerza bruta sin aprovechar la busqueda rapida del
-// hash map
-Pair* searchForce(HashMap* mapita, char* key){
-  
-  Pair* it = firstMap(mapita);
-  while(it!=NULL){
-
-    printf("%s - %s\n", it->key, key);
-    if(is_equal( it->key, key) ){
-      return it; 
-    }
-    it = nextMap(mapita);
-  }
-  
-  return NULL;
-}
-
 Jugador* obtenerDatosJugador(){
   
   Jugador* newJ = (Jugador *) calloc(1, sizeof(Jugador));
   printf("Nombre : ");
   scanf("%s", newJ->nombre);
+  getchar();
   newJ->PA = 0;
   newJ->CantidadItems = 0;
   newJ->mapItems = createMap(100);
@@ -322,9 +305,6 @@ void deshacerAccion(HashMap* mapJugadores, List* listaAcciones){
 }
 
 //opcion 8 exportar
-//SE HACEN SALTOS DE LINEA EN EL ARCHIVO CUANDO SE EXPORTA
-//PROBAR IMPORTANDO PLAYERS100.CSV Y EXPORTANDO EN PRUEBA.CSV
-
 void exportarDatos(HashMap* mapJugadores){
   char nombreArchivo[50];
 
@@ -338,7 +318,7 @@ void exportarDatos(HashMap* mapJugadores){
     return;
   }
 
-  fprintf(archivo, "Nombre, Puntos de habilidad, #items,Item 1,Item 2,Item 3,Item 4,Item 5,Item 6,Item 7,Item 8\n");
+  fprintf(archivo, "Nombre, Puntos de habilidad, #items\n");
 
   Pair* it = (Pair*) firstMap(mapJugadores);
 
@@ -351,81 +331,104 @@ void exportarDatos(HashMap* mapJugadores){
       fprintf(archivo, ",%s", parDelitem->key);
       parDelitem = nextMap(jugador->mapItems);
     }
-    fprintf(archivo, " "); 
+    fprintf(archivo, "\n"); 
     it = nextMap(mapJugadores);
   }
-
   fclose(archivo);
   printf("Datos exportados correctamente en el archivo '%s'\n", nombreArchivo);
 }
-//Opcion 9 importar 
-//
-void importarDatos(HashMap* mapJugadores)
-{
- char nombreArchivo[50];
-    FILE* archivo;
-    int numJugadores = 0;
+const char *get_csv_field (char * tmp, int k) {
+    int open_mark = 0;
+    char* ret=(char*) malloc (100*sizeof(char));
+    int ini_i=0, i=0;
+    int j=0;
+    while(tmp[i+1]!='\0'){
 
-    printf("Ingrese el nombre del archivo a importar: ");
-    scanf("%s", nombreArchivo);
-    archivo = fopen(nombreArchivo, "r");
-
-    if (archivo == NULL) {
-        printf("Error al abrir el archivo %s\n", nombreArchivo);
-        return;
-    }
-
-    char buffer[1024];
-    while (fgets(buffer, 1024, archivo) != NULL) {
-        Jugador* jugador = (Jugador*)malloc(sizeof(Jugador));
-
-
-        char* token = strtok(buffer, ",");
-        if (token == NULL) {
-            printf("Error al leer la línea del archivo: %s\n", buffer);
-            free(jugador);
+        if(tmp[i]== '\"'){
+            open_mark = 1-open_mark;
+            if(open_mark) ini_i = i+1;
+            i++;
             continue;
         }
-        strcpy(jugador->nombre, token);
 
-        jugador->PA = 0;
-        jugador->CantidadItems = 0;
-        jugador->mapItems = createMap(1000);
+        if(open_mark || tmp[i]!= ','){
+            if(k==j) ret[i-ini_i] = tmp[i];
+            i++;
+            continue;
+        }
 
-        while ((token = strtok(NULL, ",")) != NULL) {
-            if (jugador->PA == 0) {
-                jugador->PA = atoi(token);
-            } else if (jugador->CantidadItems == 0) {
-                jugador->CantidadItems = atoi(token);
-            } else {
-          
-                Pair* itemPair = searchMap(jugador->mapItems, token);
-                if (itemPair == NULL) {
-                    Item* item = (Item*)malloc(sizeof(Item));
-                    strcpy(item->nombre, token);
-                    item->cantidad = 1;
-                    insertMap(jugador->mapItems, item->nombre, item);
-                } else {
-                    ((Item*)itemPair->value)->cantidad++;
-                }
+        if(tmp[i]== ','){
+            if(k==j) {
+               ret[i-ini_i] = 0;
+               return ret;
             }
+            j++; ini_i = i+1;
         }
 
-        if (jugador->PA == 0 || jugador->CantidadItems == 0) {
-            printf("Error al leer la línea del archivo: %s\n", buffer);
-            free(jugador);
-            continue;
-        }
-
-        insertMap(mapJugadores, jugador->nombre, jugador);
-        numJugadores++;
+        i++;
     }
 
-    fclose(archivo);
-    printf("Se importaron %d jugadores desde el archivo %s\n", numJugadores, nombreArchivo);
+    if(k==j) {
+       ret[i-ini_i] = 0;
+       return ret;
+    }
+
+    return NULL;
 }
+//Opcion 9 importar 
+void importarDatos(HashMap* mapJugadores) {
+  FILE *archivo;
+  char nombreArchivo[50];
+  char linea[1024];
+  Item *it;
 
+  printf("Ingrese el nombre del archivo a importar: ");
+  scanf("%s", nombreArchivo);
+  archivo = fopen(nombreArchivo, "r");
 
+  if (archivo == NULL) {
+    printf("Error al abrir el archivo.\n");
+    return;
+  }
+  
+  fgets(linea, 1024, archivo); 
+
+  while (fgets(linea, 1024, archivo)) {
+    char *token;
+    char *cualEs;
+    int contCampos = 0;
+    
+    Jugador *jugador = (Jugador *)calloc(1, sizeof(Jugador));
+    jugador->mapItems = createMap(100);
+    token = get_csv_field(linea, contCampos);
+    
+    while (token != NULL) {
+      cualEs = token;
+      switch (contCampos) {
+      case 0:
+        strcpy(jugador->nombre, cualEs);
+        break;
+      case 1:
+        jugador->PA = atoi(cualEs);
+        break;
+      case 2:
+        jugador->CantidadItems = atoi(cualEs);
+        break;
+      default:
+        it = (Item *) calloc(1, sizeof(Item));
+        strcpy(it->nombre, cualEs);
+        insertMap(jugador->mapItems, it->nombre, it); 
+        it->cantidad++;       
+        break;
+      }
+      contCampos++;
+      token = get_csv_field(linea, contCampos);
+    }
+    insertMap(mapJugadores, jugador->nombre, jugador);
+  }
+  printf("Archivo importado correctamente\n");
+  fclose(archivo);
+}
 
 int main() {
 
@@ -468,6 +471,9 @@ int main() {
         break;
       case 9:
         importarDatos(mapJugadores);
+        break;
+      case 10:
+        printf("Programa Finalizado\n");
         break;
       default:
         printf("Opcion Invalida, ingrese nueva opcion\n");

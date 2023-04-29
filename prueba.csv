@@ -1,2001 +1,1001 @@
-Nombre, Puntos de habilidad, #items
-Robert2,47,1,Martillo de destrucción
-
-Robert3,30,5,Cuchillo de viento,Hacha de guerra,Casco de cuero
-,Anillo de evasión,Piedra de teletransporte
-Robert4,59,2,Escudo de madera
-,Ballesta pesada
-Robert5,52,4,Poción de resistencia,Piedra de fuerza,Guantes de escalada,Guantes de destreza
-
-Robert6,66,5,Armadura de cuero
-,Armadura de huesos,Armadura de oscuridad,Poción de sueño,Anillo de teletransporte
-Robert7,91,2,Poción de curación
-,Pergamino de invocación
-Robert8,33,3,Varita de estrellas
-,Cuchillo de viento,Lanza de luz
-Sandy,46,2,Armadura de mithril
-,Capa del viento
-Robert9,91,2,Lanza,Bastón de tierra
-
-Susan2,69,1,Arco de hielo
-
-Susan3,84,1,Poción de regeneración
-
-Susan4,89,8,Anillo de protección,Lanza de oscuridad
-,Varita mágica,Piedra de iluminación,Armadura de huesos,Poción de vuelo,Casco de respiración,Collar de serpiente
-Susan5,47,2,Espada
-,Varita de rayos
-Cheryl2,26,1,Poción de resistencia
-
-Cheryl3,35,8,Libro de runas,Poción de escarcha,Escudo,Lanza,Piedra de fuerza,Poción de invisibilidad
-,Hacha doble,Antorcha mágica
-Juan,74,4,Cinturón de levitación,Ballesta,Poción de invisibilidad
-,Guantes de destreza
-Roberta,95,1,Antorcha mágica
-
-David,10,2,Cuchillo de viento
-,Escudo de espinas
-Janelle,33,8,Casco de sabiduría,Cota de malla
-,Cinturón de levitación,Hacha de relámpago,Ballesta pesada,Poción de sueño,Hacha doble,Amuleto de poder
-Paul2,27,6,Lanza de oscuridad
-,Ballesta,Amuleto de curación,Anillo de evasión,Cetro de hielo,Grimorio antiguo
-Roberto,53,7,Espada de fuego,Anillo de evasión
-,Cuchillo de sombras,Piedra de fuerza,Varita de control mental,Arco largo,Pergamino de resurrección
-Paul3,46,3,Arco y flechas,Varita mágica
-,Escudo de madera
-Rosalie,72,4,Poción de fuerza,Hacha de relámpago,Botas de agilidad
-,Daga
-Paul4,43,1,Escudo de luz
-
-Paul5,53,8,Cota de malla,Varita de rayos,Cinturón de levitación
-,Pergamino de invocación,Flechas envenenadas,Armadura de cristal,Flechas de fuego,Collar de serpiente
-Paul6,23,7,Cetro de fuego,Armadura de oscuridad,Poción de velocidad,Casco de batalla,Brazalete de fuerza
-,Hacha de piedra,Poción de vida
-Lesa,63,2,Piedra de teletransporte
-,Capa de invisibilidad
-Luetta,99,8,Poción de curación,Casco de sabiduría,Botas de agilidad,Armadura de cuero,Capa del viento
-,Cuchillo arrojadizo,Daga,Libro de encantamientos
-Jacob,54,6,Libro de runas,Varita de rayos,Ballesta,Lanza
-,Amuleto de poder,Collar de serpiente
-Tom,78,3,Martillo de destrucción,Armadura de oscuridad
-,Arco largo
-Kim,95,5,Pergamino de tormenta
-,Cetro de sabiduría,Arco largo,Escudo de madera,Grimorio antiguo
-George2,71,4,Casco de batalla
-,Cetro de fuego,Varita mágica,Armadura de oscuridad
-George3,100,8,Lanza de oscuridad
-,Cuchillo de viento,Ballesta pesada,Poción de regeneración,Capa de invisibilidad,Grimorio de sombras,Hacha doble,Collar de serpiente
-George4,97,3,Cuchillo de viento
-,Hacha de guerra,Pergamino de tormenta
-George5,80,4,Lanza de oscuridad,Varita de rayos,Escudo de madera
-,Arco de viento
-Paula,76,5,Poción de vuelo
-,Armadura de cuero,Capa del viento,Bastón de tierra,Amuleto de poder
-Greg2,80,7,Lanza de oscuridad,Casco de sabiduría
-,Piedra de iluminación,Pergamino de invocación,Poción de resistencia,Poción de rapidez,Martillo de guerra
-Tara2,97,2,Poción de invisibilidad,Espada de fuego
-
-Jennifer2,49,5,Armadura de escamas,Escudo,Libro de hechizos
-,Collar de serpiente,Escudo de luz
-Jennifer3,45,8,Armadura de escamas,Lanza,Anillo de vida,Arco de viento,Varita de estrellas,Armadura de huesos,Botas de salto,Poción de escarcha
-
-Jennifer4,66,5,Poción de armadura
-,Ballesta,Cuchillo de viento,Poción de velocidad,Martillo de guerra
-Jennifer5,64,7,Libro de runas,Anillo de protección
-,Botas de agilidad,Casco de hierro,Poción de fuerza,Espada de cristal,Grimorio de sombras
-Frank,65,5,Poción de curación,Armadura de cuero,Cuchillo de sombras,Capa de invisibilidad,Espada de cristal
-
-Anthony,92,8,Varita de rayos,Lanza,Cuchillo de viento,Poción de vuelo,Collar de serpiente,Poción de resistencia
-,Piedra de teletransporte,Pergamino de tormenta
-Tammy,68,5,Cetro de fuego,Daga
-,Arco de viento,Guantes de destreza,Cetro de hielo
-Henry2,87,1,Espada
-
-George,33,6,Libro de runas,Arco y flechas,Cadenas de restricción,Ballesta pesada
-,Espada,Casco de batalla
-Henry3,65,8,Cetro de fuego,Cuchillo de viento,Bastón de tierra,Poción de velocidad,Capa de invisibilidad,Daga,Arco de hielo
-,Piedra de revivir
-Judy,66,4,Capa de sombras
-,Pergamino de invocación,Poción de velocidad,Collar de serpiente
-Betty,74,4,Pergamino de tormenta
-,Armadura de escamas,Guantes de destreza,Casco de visión
-Kathryn2,16,4,Casco de cuero,Varita de estrellas,Ballesta pesada,Pergamino de sellado
-
-Ivan,62,4,Arco y flechas,Grimorio antiguo
-,Varita de control mental,Guantes de destreza
-Rickey2,68,6,Cetro de fuego,Cetro de sabiduría,Hacha doble
-,Martillo de destrucción,Hacha de relámpago,Daga
-Jeremy,85,4,Armadura de escamas,Espada de fuego
-,Capa del viento,Hacha doble
-Minh,73,6,Casco de sabiduría,Espada
-,Casco de cuero,Hacha de guerra,Armadura de acero,Casco de visión
-Gene,57,4,Cetro de sabiduría,Capa de sombras,Poción de regeneración,Casco de cuero
-
-Lillian,75,2,Lanza de oscuridad,Botas de agilidad
-
-Ronald2,52,8,Casco de sabiduría,Piedra de iluminación,Arco de viento,Poción de fuerza,Armadura de oscuridad,Poción de velocidad,Poción de invisibilidad
-,Capa de invisibilidad
-Jose2,42,8,Armadura de escamas,Varita mágica,Cuchillo de viento,Poción de fuerza,Casco de batalla,Piedra de iluminación
-,Armadura de acero,Armadura de cristal
-Jose3,78,5,Brazalete de fuerza,Arco largo
-,Ballesta pesada,Hacha doble,Martillo de guerra
-Ronald3,65,3,Cuchillo de viento
-,Poción de resistencia,Capa de invisibilidad
-Ronald4,81,3,Varita mágica,Piedra de iluminación,Grimorio antiguo
-
-Jose4,26,2,Anillo de vida,Flechas envenenadas
-
-Jose5,81,6,Poción de curación
-,Casco de cuero,Botas de agilidad,Poción de velocidad,Hacha de piedra,Martillo de guerra
-Kevin,21,2,Casco de cuero,Hacha de relámpago
-
-Georgia,77,4,Antorcha mágica,Varita de rayos
-,Arco de hielo,Escudo de luz
-Robert10,20,6,Cota de malla,Anillo de vida
-,Poción de regeneración,Hacha de guerra,Botas de salto,Martillo de guerra
-Valerie,44,1,Bastón de tierra
-
-Robert11,53,7,Poción de curación,Anillo de protección,Ballesta,Guantes de escalada
-,Guantes de destreza,Grimorio de sombras,Poción de rapidez
-Robert12,20,8,Cuchillo arrojadizo
-,Botas de agilidad,Armadura de oscuridad,Bastón de tierra,Poción de regeneración,Casco de batalla,Cetro de hielo,Bastón de ilusiones
-Robert13,92,4,Casco de batalla
-,Arco de viento,Ballesta,Arco de hielo
-Robert14,66,6,Brazalete de fuerza,Lanza,Armadura de huesos,Ballesta pesada
-,Capa de invisibilidad,Anillo de teletransporte
-Dorothy2,17,4,Espada de fuego,Anillo de teletransporte
-,Varita de rayos,Varita de estrellas
-Robert15,44,7,Casco de sabiduría,Escudo,Martillo de destrucción,Cinturón de levitación,Armadura de huesos,Casco de hierro
-,Escudo de espinas
-Robert16,60,5,Piedra de fuerza,Ballesta pesada,Poción de sueño
-,Lanza de luz,Armadura de cristal
-Sabrina2,39,5,Lanza,Pergamino de invocación,Varita de estrellas
-,Poción de fuerza,Daga
-Dorothy3,61,4,Poción de armadura
-,Varita de estrellas,Bastón de tierra,Pergamino de resurrección
-Robert17,100,1,Hacha de relámpago
-
-Robert18,45,3,Espada
-,Anillo de vida,Espada de cristal
-Jerry,28,5,Armadura de escamas,Casco de sabiduría,Libro de hechizos
-,Anillo de teletransporte,Poción de rapidez
-Melissa,27,5,Anillo de evasión
-,Pergamino de sellado,Lanza de luz,Anillo de teletransporte,Flechas de fuego
-Lydia,95,2,Lanza
-,Casco de visión
-Jeffrey2,37,4,Pergamino de invocación,Varita de estrellas,Flechas de fuego
-,Hacha doble
-Jeffrey3,33,4,Armadura de escamas,Daga
-,Cinturón de levitación,Armadura de cuero
-Christopher2,85,7,Poción de escarcha,Cetro de fuego,Casco de sabiduría
-,Pergamino de invocación,Ballesta pesada,Espada,Libro de encantamientos
-Christopher3,70,3,Casco de sabiduría
-,Cuchillo de viento,Piedra de teletransporte
-Christopher4,60,8,Armadura de escamas,Brazalete de fuerza,Cetro de sabiduría,Piedra de iluminación,Botas de salto,Casco de respiración,Piedra de revivir
-,Libro de encantamientos
-Christopher5,50,5,Pergamino de sellado,Arco y flechas,Ballesta pesada
-,Casco de batalla,Daga
-Marvin2,10,6,Armadura de cuero
-,Lanza,Botas de resistencia,Poción de velocidad,Hacha doble,Piedra de revivir
-Sherry2,38,6,Poción de escarcha,Grimorio de sombras
-,Martillo de destrucción,Casco de batalla,Varita de control mental,Escudo de madera
-Tracey2,37,8,Poción de escarcha,Lanza de oscuridad,Anillo de protección
-,Poción de regeneración,Grimorio de sombras,Armadura de cristal,Arco largo,Poción de armadura
-Tracey3,25,5,Cetro de fuego,Poción de curación
-,Pergamino de sellado,Armadura de acero,Arco largo
-Sandra,14,2,Casco de sabiduría
-,Varita de estrellas
-Marcia,54,4,Poción de invisibilidad
-,Casco de respiración,Escudo de espinas,Piedra de teletransporte
-Nancy,66,5,Escudo,Piedra de teletransporte
-,Libro de hechizos,Daga,Pergamino de tormenta
-Amanda2,73,6,Cetro de fuego,Casco de sabiduría,Piedra de iluminación,Botas de resistencia,Cuchillo de sombras,Pergamino de resurrección
-
-Barbara,66,2,Poción de vida
-,Arco largo
-Ellis,27,1,Ballesta pesada
-
-Dianne,72,2,Libro de encantamientos
-,Pergamino de tormenta
-Michael2,97,4,Anillo de vida,Poción de vuelo
-,Amuleto de poder,Martillo de guerra
-Michael3,25,7,Escudo de luz
-,Martillo de destrucción,Armadura de cuero,Grimorio de sombras,Guantes de escalada,Escudo de madera,Poción de vida
-Michael4,24,8,Grimorio de sombras
-,Varita mágica,Lanza,Cuchillo de sombras,Capa de sombras,Guantes de escalada,Lanza de luz,Cetro de hielo
-Michael5,80,7,Piedra de iluminación,Grimorio de sombras,Cadenas de restricción
-,Antorcha mágica,Escudo de madera,Piedra de teletransporte,Bastón de ilusiones
-Michael6,52,8,Arco y flechas,Cota de malla,Botas de agilidad,Piedra de iluminación,Capa de sombras,Espada,Casco de respiración,Brazalete de fuerza
-
-Michael7,24,7,Libro de runas,Piedra de fuerza,Pergamino de resurrección
-,Poción de sueño,Botas de salto,Anillo de evasión,Collar de serpiente
-Michael8,25,1,Varita de rayos
-
-Michael9,50,6,Libro de runas,Cuchillo de sombras,Piedra de fuerza,Guantes de escalada,Armadura de cristal
-,Pergamino de resurrección
-Antonio,21,6,Anillo de protección,Ballesta,Arco y flechas
-,Espada,Escudo de madera,Escudo de luz
-Joseph,70,6,Anillo de protección,Casco de cuero,Poción de velocidad,Varita de control mental,Guantes de escalada,Pergamino de sellado
-
-Anna2,97,3,Cinturón de levitación,Guantes de escalada
-,Libro de encantamientos
-Gertrude2,16,2,Armadura de huesos,Hacha de guerra
-
-Gertrude3,12,4,Casco de cuero,Armadura de cristal,Hacha de relámpago
-,Poción de vida
-Gertrude4,76,4,Cetro de sabiduría,Poción de regeneración
-,Piedra de iluminación,Hacha de guerra
-Gertrude5,87,5,Poción de armadura
-,Arco y flechas,Armadura de cuero,Hacha de guerra,Hacha doble
-Sarah2,79,8,Escudo de espinas
-,Botas de agilidad,Poción de resistencia,Capa del viento,Poción de sueño,Anillo de evasión,Poción de armadura,Poción de rapidez
-Sarah3,89,5,Piedra de iluminación,Ballesta pesada
-,Bastón de tierra,Armadura de cristal,Escudo de luz
-Sarah4,67,4,Casco de sabiduría,Casco de hierro,Grimorio antiguo
-,Casco de respiración
-Anabel,97,3,Varita de rayos,Hacha de relámpago,Pergamino de resurrección
-
-Jerome2,56,4,Armadura de cuero
-,Arco largo,Flechas de fuego,Martillo de guerra
-Darrell,33,8,Arco y flechas,Libro de hechizos
-,Ballesta,Cuchillo de viento,Bastón de tierra,Varita de control mental,Casco de respiración,Flechas envenenadas
-Megan,19,1,Hacha de guerra
-
-Rosalinda,15,1,Lanza de luz
-
-Danny2,95,1,Poción de armadura
-
-Pedro,16,5,Libro de runas,Poción de escarcha,Botas de agilidad,Anillo de vida
-,Casco de respiración
-Daphne,64,8,Casco de batalla
-,Lanza de oscuridad,Anillo de vida,Casco de hierro,Poción de vuelo,Antorcha mágica,Cetro de hielo,Cuchillo arrojadizo
-Anne2,89,6,Poción de curación,Capa del viento,Ballesta,Poción de sueño
-,Lanza de luz,Hacha de piedra
-Scott2,21,6,Cetro de sabiduría,Lanza de oscuridad,Cota de malla,Lanza,Cuchillo de sombras,Arco y flechas
-
-William2,75,1,Escudo de luz
-
-William3,32,5,Libro de runas,Varita mágica,Poción de vuelo,Bastón de ilusiones
-,Escudo de madera
-William4,47,2,Botas de salto
-,Guantes de escalada
-William5,37,7,Grimorio de sombras
-,Arco y flechas,Cadenas de restricción,Espada,Casco de respiración,Cetro de hielo,Poción de vida
-William6,38,6,Poción de curación,Varita mágica,Varita de estrellas
-,Antorcha mágica,Armadura de acero,Casco de visión
-William7,68,1,Poción de resistencia
-
-William8,35,5,Lanza de oscuridad,Martillo de destrucción,Ballesta,Poción de velocidad,Espada de cristal
-
-William9,84,3,Ballesta pesada
-,Bastón de tierra,Arco de hielo
-Betty2,56,7,Poción de curación,Cinturón de levitación,Varita de control mental,Lanza de luz,Bastón de ilusiones
-,Collar de serpiente,Martillo de guerra
-Betty3,36,4,Pergamino de tormenta
-,Pergamino de invocación,Bastón de tierra,Piedra de teletransporte
-Betty4,45,3,Armadura de mithril
-,Grimorio de sombras,Cuchillo arrojadizo
-Betty5,92,7,Cota de malla,Botas de agilidad,Armadura de huesos,Hacha de relámpago,Amuleto de poder,Grimorio antiguo,Espada de cristal
-
-Mildred,46,1,Collar de serpiente
-
-Margaret,14,7,Botas de agilidad,Capa del viento,Hacha de relámpago,Piedra de iluminación
-,Flechas de fuego,Hacha de piedra,Poción de vida
-Lloyd,17,1,Arco y flechas
-
-Benjamin,65,6,Anillo de protección
-,Capa del viento,Armadura de oscuridad,Casco de batalla,Amuleto de poder,Armadura de mithril
-Williams,10,4,Poción de regeneración
-,Varita mágica,Armadura de mithril,Poción de armadura
-James,82,3,Lanza de oscuridad
-,Guantes de destreza,Anillo de evasión
-Kenneth,52,5,Cetro de sabiduría,Armadura de huesos,Hacha doble,Varita mágica
-,Pergamino de tormenta
-Grace,51,1,Flechas envenenadas
-
-Jasmine2,53,5,Lanza de oscuridad,Varita mágica,Lanza,Guantes de escalada
-,Grimorio de sombras
-Chuck2,52,3,Poción de resistencia,Grimorio antiguo
-,Libro de encantamientos
-Gail,52,5,Cetro de sabiduría,Casco de hierro,Armadura de oscuridad,Cadenas de restricción
-,Cetro de hielo
-Douglas,66,7,Arco y flechas,Cota de malla,Poción de invisibilidad,Arco de viento
-,Casco de respiración,Collar de serpiente,Pergamino de tormenta
-Blake,19,2,Poción de rapidez
-,Hacha de guerra
-Stephen2,59,3,Pergamino de invocación,Ballesta,Casco de respiración
-
-Stephen3,54,8,Varita de rayos,Martillo de destrucción,Arco de viento,Armadura de huesos,Capa de sombras,Poción de sueño,Antorcha mágica,Hacha de guerra
-
-Frederick2,27,3,Varita de estrellas,Cuchillo de sombras
-,Hacha doble
-Stephen4,96,7,Espada
-,Botas de agilidad,Poción de vuelo,Amuleto de poder,Arco largo,Cetro de hielo,Poción de armadura
-Andres,70,6,Varita mágica,Armadura de cuero,Espada de cristal,Capa de invisibilidad
-,Armadura de acero,Anillo de evasión
-Stephen5,90,8,Pergamino de tormenta
-,Armadura de escamas,Cetro de sabiduría,Capa de sombras,Poción de vuelo,Guantes de escalada,Antorcha mágica,Arco de hielo
-Andrew,87,8,Brazalete de fuerza,Anillo de protección,Grimorio de sombras
-,Arco de viento,Ballesta pesada,Poción de regeneración,Casco de visión,Cuchillo arrojadizo
-Alfred,53,7,Poción de curación,Poción de rapidez
-,Armadura de oscuridad,Poción de sueño,Poción de vuelo,Hacha doble,Escudo de luz
-Beth,69,8,Poción de curación,Capa de sombras
-,Martillo de destrucción,Varita de estrellas,Hacha de relámpago,Cetro de hielo,Escudo de luz,Poción de armadura
-Nathaniel,52,7,Collar de serpiente
-,Capa del viento,Ballesta,Botas de salto,Guantes de escalada,Armadura de acero,Poción de armadura
-Mattie,53,2,Martillo de destrucción
-,Anillo de teletransporte
-Annie,69,6,Lanza de oscuridad,Cota de malla
-,Piedra de fuerza,Casco de batalla,Poción de sueño,Anillo de teletransporte
-Gertrude,25,7,Libro de hechizos
-,Casco de cuero,Poción de fuerza,Capa de sombras,Poción de velocidad,Armadura de cristal,Cetro de hielo
-Sergio,15,6,Arco y flechas,Martillo de destrucción,Flechas envenenadas
-,Capa de sombras,Espada,Anillo de evasión
-Jenna,17,4,Poción de invisibilidad,Poción de fuerza,Espada,Armadura de cristal
-
-Jessica,90,1,Casco de hierro
-
-Brent,80,1,Armadura de huesos
-
-Tiffany2,12,6,Cetro de fuego,Espada,Flechas envenenadas,Amuleto de curación,Hacha de guerra
-,Libro de encantamientos
-Willie,100,8,Casco de sabiduría,Botas de agilidad,Ballesta pesada
-,Poción de velocidad,Casco de visión,Libro de encantamientos,Grimorio antiguo,Poción de rapidez
-Kimberly,65,1,Grimorio de sombras
-
-Monica,61,4,Cadenas de restricción,Poción de invisibilidad,Cuchillo de viento
-,Escudo de luz
-Ginger,29,6,Varita de estrellas,Capa de sombras,Hacha de relámpago,Cadenas de restricción
-,Libro de encantamientos,Bastón de ilusiones
-Ramona,75,2,Pergamino de sellado,Cadenas de restricción
-
-Cruz,49,2,Arco de viento,Grimorio antiguo
-
-Clifford,91,2,Libro de hechizos
-,Poción de invisibilidad
-Randall,83,2,Pergamino de resurrección
-,Piedra de revivir
-Evelyn2,75,5,Brazalete de fuerza,Cuchillo de sombras,Ballesta pesada,Botas de resistencia
-,Amuleto de poder
-Mildred2,78,8,Piedra de teletransporte
-,Cinturón de levitación,Varita de estrellas,Armadura de cuero,Poción de resistencia,Cuchillo de viento,Casco de batalla,Flechas envenenadas
-Lori,69,6,Escudo de madera
-,Poción de fuerza,Capa de sombras,Poción de vuelo,Escudo de luz,Grimorio antiguo
-Victor,51,5,Cinturón de levitación,Amuleto de poder
-,Armadura de acero,Daga,Poción de rapidez
-Abby,79,3,Poción de resistencia,Casco de respiración
-,Hacha de piedra
-Jessica2,97,7,Escudo,Cadenas de restricción,Arco de viento,Piedra de fuerza,Poción de fuerza,Amuleto de curación,Armadura de cristal
-
-Jessica3,70,1,Poción de velocidad
-
-Jessica4,31,6,Libro de runas,Grimorio de sombras,Cadenas de restricción
-,Amuleto de curación,Antorcha mágica,Cuchillo arrojadizo
-Jessica5,93,1,Capa del viento
-
-Wayne,45,1,Piedra de fuerza
-
-Jessica6,25,6,Casco de sabiduría,Ballesta,Poción de sueño,Guantes de destreza,Piedra de revivir
-,Pergamino de tormenta
-Jessica7,87,1,Poción de vuelo
-
-Margaret2,18,5,Armadura de escamas,Poción de regeneración
-,Anillo de vida,Espada de cristal,Guantes de destreza
-Margaret3,57,2,Cinturón de levitación,Poción de sueño
-
-Margaret4,42,1,Escudo de espinas
-
-Margaret5,33,8,Lanza de oscuridad,Varita mágica,Varita de rayos,Arco de viento,Pergamino de invocación,Cuchillo de sombras,Ballesta pesada,Capa de invisibilidad
-
-Brett,24,7,Poción de escarcha,Pergamino de sellado,Lanza de oscuridad
-,Armadura de oscuridad,Pergamino de tormenta,Grimorio antiguo,Bastón de ilusiones
-Margaret6,45,6,Cadenas de restricción,Armadura de mithril
-,Poción de velocidad,Casco de respiración,Guantes de escalada,Casco de visión
-Jeannine,66,1,Pergamino de sellado
-
-Margaret7,12,7,Poción de curación,Varita mágica,Poción de invisibilidad,Piedra de teletransporte
-,Poción de resistencia,Flechas de fuego,Poción de vida
-Margaret8,65,4,Capa de sombras
-,Casco de respiración,Hacha doble,Hacha de piedra
-Gary,99,8,Libro de runas,Poción de escarcha,Poción de curación,Armadura de escamas,Arco de viento
-,Bastón de tierra,Ballesta pesada,Pergamino de resurrección
-Lloyd2,20,2,Armadura de cristal
-,Libro de encantamientos
-Lloyd3,37,1,Armadura de acero
-
-Linda,54,2,Armadura de cristal,Escudo
-
-Lee,14,7,Martillo de destrucción,Botas de resistencia,Cuchillo de viento,Capa del viento
-,Botas de salto,Flechas de fuego,Martillo de guerra
-Vaughn,30,7,Espada de fuego,Capa de sombras,Hacha de guerra,Varita de control mental,Botas de salto,Piedra de teletransporte,Arco de hielo
-
-April2,56,7,Poción de regeneración
-,Arco de viento,Capa del viento,Bastón de tierra,Anillo de teletransporte,Casco de visión,Escudo de luz
-April3,15,4,Amuleto de curación
-,Cadenas de restricción,Armadura de oscuridad,Armadura de cristal
-Jesse2,39,8,Armadura de escamas,Ballesta
-,Casco de hierro,Armadura de oscuridad,Espada,Varita de control mental,Guantes de escalada,Armadura de acero
-Jesse3,55,4,Escudo
-,Casco de visión,Cuchillo arrojadizo,Grimorio antiguo
-April4,37,4,Pergamino de sellado,Martillo de destrucción,Lanza
-,Poción de velocidad
-Leo,59,8,Lanza de oscuridad,Antorcha mágica
-,Piedra de iluminación,Cuchillo de sombras,Ballesta pesada,Varita de control mental,Flechas de fuego,Cuchillo arrojadizo
-Willow,96,3,Lanza de oscuridad
-,Varita mágica,Hacha doble
-Marvin,78,1,Anillo de teletransporte
-
-Jerome,75,1,Poción de armadura
-
-Myrtle,25,5,Casco de sabiduría,Cota de malla,Casco de hierro,Espada de cristal,Casco de cuero
-
-Holly,43,3,Martillo de guerra
-,Piedra de iluminación,Pergamino de invocación
-Jared,94,5,Espada de fuego,Libro de encantamientos
-,Varita mágica,Hacha doble,Amuleto de poder
-Manuel,57,2,Arco largo
-,Piedra de fuerza
-Iris,28,6,Poción de armadura
-,Cuchillo de viento,Poción de fuerza,Espada de cristal,Pergamino de resurrección,Piedra de revivir
-Bernard2,47,1,Guantes de destreza
-
-Bernard3,49,5,Poción de escarcha,Hacha doble
-,Hacha de guerra,Amuleto de poder,Escudo de madera
-Oscar,45,1,Varita de estrellas
-
-Derrick,89,3,Piedra de fuerza
-,Poción de velocidad,Libro de hechizos
-Lori2,52,8,Libro de encantamientos
-,Libro de hechizos,Botas de salto,Antorcha mágica,Lanza de luz,Armadura de cristal,Escudo de espinas,Escudo de madera
-Nicki,77,7,Espada de fuego,Botas de resistencia,Cuchillo de sombras,Ballesta,Bastón de tierra,Guantes de escalada,Espada de cristal
-
-Guy,38,5,Capa de sombras
-,Botas de agilidad,Arco de viento,Piedra de teletransporte,Grimorio antiguo
-Mae2,43,4,Brazalete de fuerza,Cetro de sabiduría,Cota de malla,Ballesta
-
-Jared2,75,7,Escudo de luz
-,Cadenas de restricción,Poción de invisibilidad,Cinturón de levitación,Poción de vuelo,Pergamino de tormenta,Poción de armadura
-Loyd,68,8,Varita mágica,Armadura de huesos,Cuchillo de viento,Capa de sombras,Ballesta pesada
-,Poción de regeneración,Botas de salto,Amuleto de poder
-Victor2,72,2,Daga
-,Cadenas de restricción
-Brian2,11,8,Poción de curación,Arco y flechas,Espada,Poción de sueño,Guantes de destreza,Arco de hielo
-,Escudo de luz,Piedra de revivir
-Brian3,12,3,Flechas envenenadas
-,Hacha doble,Armadura de cristal
-Brian4,50,5,Espada de fuego
-,Piedra de fuerza,Flechas envenenadas,Anillo de teletransporte,Cuchillo arrojadizo
-Kerry,21,3,Pergamino de invocación
-,Botas de salto,Armadura de acero
-Clinton,88,3,Pergamino de sellado,Ballesta pesada,Libro de runas
-
-Manuel2,59,8,Poción de curación,Varita mágica,Ballesta
-,Pergamino de invocación,Cinturón de levitación,Anillo de evasión,Flechas de fuego,Libro de encantamientos
-Vivian,70,1,Lanza de oscuridad
-
-Frances,46,1,Anillo de evasión
-
-Patsy2,73,7,Anillo de protección,Lanza de oscuridad,Casco de cuero,Ballesta
-,Botas de resistencia,Capa del viento,Libro de hechizos
-Matthew2,54,4,Lanza,Casco de sabiduría
-,Botas de resistencia,Varita de estrellas
-Penny,43,6,Poción de escarcha,Cota de malla
-,Poción de invisibilidad,Cuchillo de sombras,Cuchillo de viento,Guantes de escalada
-Brenda,44,1,Martillo de guerra
-
-Lisa2,64,8,Cetro de sabiduría,Botas de salto
-,Botas de agilidad,Poción de resistencia,Poción de regeneración,Hacha de guerra,Casco de batalla,Casco de visión
-Lisa3,94,6,Cetro de fuego,Cinturón de levitación,Armadura de mithril
-,Capa del viento,Bastón de tierra,Armadura de acero
-Lisa4,95,7,Martillo de destrucción,Arco de viento,Cuchillo de sombras,Cuchillo arrojadizo,Armadura de mithril,Poción de resistencia
-,Poción de vida
-Lisa5,47,1,Espada de fuego
-
-Lisa6,39,4,Armadura de cuero
-,Armadura de escamas,Lanza,Martillo de destrucción
-Virginia2,25,1,Cetro de sabiduría
-
-Virginia3,33,8,Poción de curación,Cinturón de levitación,Armadura de cuero,Poción de resistencia,Hacha de relámpago,Escudo de espinas,Armadura de mithril,Poción de escarcha
-
-Chris,55,1,Cuchillo de viento
-
-Becky,74,3,Cetro de fuego,Armadura de huesos,Espada de cristal
-
-Roscoe,75,2,Anillo de vida,Hacha de piedra
-
-Elmer,43,4,Arco de viento,Varita de estrellas,Varita de rayos
-,Casco de visión
-Shenika,91,8,Anillo de protección,Cadenas de restricción,Botas de resistencia,Cinturón de levitación,Cuchillo de sombras
-,Armadura de acero,Hacha de piedra,Pergamino de tormenta
-Jesse,69,4,Martillo de destrucción,Piedra de fuerza,Ballesta,Pergamino de sellado
-
-Debbie2,32,8,Poción de velocidad,Espada,Guantes de destreza,Amuleto de curación,Botas de resistencia
-,Anillo de teletransporte,Armadura de cristal,Hacha de piedra
-Eloise,50,3,Lanza de oscuridad
-,Piedra de revivir,Poción de rapidez
-Hester,66,6,Grimorio de sombras
-,Escudo,Casco de cuero,Poción de regeneración,Anillo de teletransporte,Casco de visión
-Bernice,26,8,Capa de sombras
-,Poción de regeneración,Grimorio de sombras,Hacha doble,Daga,Collar de serpiente,Armadura de mithril,Martillo de guerra
-Graciela,11,7,Brazalete de fuerza,Capa de sombras,Ballesta pesada,Casco de hierro
-,Amuleto de curación,Daga,Grimorio antiguo
-Francis,30,6,Cetro de sabiduría,Poción de resistencia,Espada,Poción de sueño,Guantes de destreza
-,Poción de armadura
-Nelson,65,7,Poción de curación,Escudo de espinas
-,Piedra de iluminación,Espada de cristal,Hacha de guerra,Varita de control mental,Arco de hielo
-Allan,85,2,Cuchillo arrojadizo
-,Poción de vida
-Jaime2,13,1,Hacha de relámpago
-
-Georgiana,66,2,Poción de curación,Amuleto de poder
-
-Jesus,42,3,Espada de fuego
-,Piedra de fuerza,Anillo de teletransporte
-Helen,50,4,Lanza de oscuridad,Armadura de huesos,Lanza
-,Casco de visión
-Hassan,26,1,Arco de viento
-
-Christopher,21,8,Cuchillo de viento,Capa de sombras,Poción de sueño,Libro de hechizos,Grimorio de sombras,Escudo
-,Cetro de hielo,Grimorio antiguo
-Jeffrey,95,4,Casco de cuero,Poción de velocidad
-,Grimorio de sombras,Escudo de madera
-Danny,85,2,Amuleto de curación
-,Poción de curación
-Valarie,84,7,Cetro de fuego,Lanza de oscuridad
-,Martillo de destrucción,Capa de sombras,Varita de control mental,Collar de serpiente,Martillo de guerra
-Pamela2,41,2,Cetro de fuego
-,Armadura de cuero
-Pamela3,18,8,Escudo de espinas
-,Piedra de iluminación,Espada,Casco de batalla,Poción de sueño,Flechas envenenadas,Lanza de luz,Martillo de guerra
-Pamela4,89,6,Libro de runas,Botas de agilidad,Poción de velocidad,Arco largo,Piedra de teletransporte,Armadura de huesos
-
-Danielle,12,8,Armadura de oscuridad,Poción de sueño,Varita de control mental,Guantes de destreza,Hacha doble,Flechas de fuego,Piedra de revivir,Hacha de piedra
-
-Debra2,62,3,Lanza de oscuridad,Guantes de escalada
-,Poción de regeneración
-Kurt,17,7,Varita mágica,Varita de rayos,Libro de runas
-,Poción de regeneración,Libro de hechizos,Amuleto de poder,Escudo de espinas
-Byron,51,8,Pergamino de sellado,Cetro de hielo
-,Varita de estrellas,Poción de resistencia,Grimorio de sombras,Anillo de teletransporte,Escudo de luz,Poción de rapidez
-Jaime,19,7,Anillo de protección
-,Varita de rayos,Pergamino de invocación,Ballesta,Bastón de tierra,Poción de velocidad,Amuleto de curación
-Juan2,79,6,Cetro de fuego,Poción de regeneración,Anillo de evasión,Cetro de hielo,Collar de serpiente,Cetro de sabiduría
-
-Harold,89,7,Poción de resistencia,Casco de batalla,Bastón de ilusiones
-,Cuchillo arrojadizo,Escudo de madera,Armadura de mithril,Poción de vida
-Jean2,30,7,Escudo de espinas
-,Ballesta,Casco de batalla,Anillo de evasión,Libro de encantamientos,Piedra de teletransporte,Grimorio antiguo
-Kristan,50,2,Armadura de cuero,Poción de velocidad
-
-Maria2,50,6,Cota de malla,Anillo de protección
-,Botas de agilidad,Armadura de cuero,Grimorio de sombras,Escudo de espinas
-Rosa,15,2,Espada
-,Flechas envenenadas
-Maria3,47,8,Espada de fuego,Armadura de acero
-,Cadenas de restricción,Poción de fuerza,Ballesta pesada,Antorcha mágica,Casco de visión,Poción de vida
-Maria4,81,6,Espada de fuego,Poción de escarcha,Armadura de cuero
-,Poción de sueño,Guantes de destreza,Armadura de cristal
-Maria5,79,8,Cetro de fuego,Capa del viento,Guantes de escalada,Amuleto de poder,Escudo de luz,Poción de vida,Grimorio antiguo,Cetro de sabiduría
-
-Rose,52,4,Cota de malla,Espada de cristal,Cuchillo de sombras
-,Amuleto de poder
-Maria6,64,6,Poción de velocidad
-,Hacha de relámpago,Arco largo,Cetro de hielo,Armadura de mithril,Poción de vida
-Juana,83,4,Poción de escarcha,Botas de salto
-,Bastón de tierra,Espada de cristal
-Cindy2,48,2,Armadura de escamas
-,Botas de salto
-Laura,59,5,Cuchillo de sombras,Capa del viento,Piedra de fuerza,Ballesta pesada,Armadura de oscuridad
-
-Inez,76,6,Anillo de teletransporte
-,Armadura de escamas,Ballesta,Lanza de luz,Escudo de madera,Libro de encantamientos
-Neil,81,2,Armadura de acero
-,Brazalete de fuerza
-Marjorie,57,4,Poción de escarcha,Amuleto de curación
-,Piedra de fuerza,Bastón de ilusiones
-Mark,51,8,Casco de cuero,Varita de estrellas,Armadura de cuero,Varita de control mental,Pergamino de sellado
-,Flechas de fuego,Hacha de piedra,Piedra de revivir
-Amber,55,4,Guantes de destreza,Poción de vuelo,Lanza de luz,Espada de cristal
-
-Myrna,94,5,Anillo de teletransporte
-,Poción de invisibilidad,Capa de sombras,Flechas envenenadas,Antorcha mágica
-Charles2,43,5,Cetro de fuego
-,Botas de resistencia,Cetro de hielo,Piedra de revivir,Poción de rapidez
-Charles3,54,6,Martillo de destrucción,Poción de vuelo
-,Poción de resistencia,Poción de sueño,Hacha doble,Casco de visión
-Charles4,94,5,Cetro de fuego,Varita mágica,Armadura de huesos,Poción de velocidad
-,Poción de sueño
-Charles5,33,7,Poción de escarcha,Cetro de fuego,Casco de hierro,Brazalete de fuerza
-,Libro de encantamientos,Piedra de teletransporte,Pergamino de resurrección
-Charles6,38,3,Cadenas de restricción,Lanza de luz
-,Martillo de guerra
-Mary,58,8,Varita mágica,Cota de malla,Espada
-,Casco de hierro,Cinturón de levitación,Libro de hechizos,Piedra de teletransporte,Martillo de guerra
-Charles7,91,5,Poción de resistencia,Ballesta pesada
-,Hacha de guerra,Amuleto de curación,Anillo de teletransporte
-Charles8,92,3,Casco de cuero,Armadura de cristal
-,Escudo de luz
-Marlene,63,5,Cetro de sabiduría,Flechas envenenadas
-,Poción de velocidad,Casco de batalla,Poción de rapidez
-Colleen,100,2,Ballesta pesada
-,Amuleto de poder
-Charles9,17,5,Grimorio de sombras
-,Escudo,Varita de rayos,Ballesta pesada,Espada de cristal
-Ernest,96,2,Arco y flechas
-,Guantes de escalada
-Gloria,23,6,Poción de escarcha,Cota de malla,Poción de invisibilidad,Armadura de huesos,Cuchillo de sombras
-,Amuleto de curación
-Krystle,53,8,Espada de fuego,Lanza,Martillo de destrucción,Arco de viento,Casco de batalla,Libro de hechizos,Arco de hielo,Cetro de sabiduría
-
-Earl2,84,4,Armadura de escamas,Antorcha mágica
-,Espada,Hacha doble
-Earl3,71,6,Poción de curación,Poción de rapidez
-,Espada,Botas de salto,Cetro de hielo,Daga
-Stephen,94,1,Varita de estrellas
-
-Frederick,34,5,Armadura de escamas,Espada de fuego
-,Casco de respiración,Armadura de cristal,Piedra de revivir
-Jane2,31,7,Varita mágica,Cadenas de restricción,Poción de resistencia,Hacha doble,Brazalete de fuerza
-,Escudo de madera,Collar de serpiente
-Kendall,89,3,Pergamino de tormenta
-,Poción de resistencia,Armadura de cristal
-Belinda,50,4,Collar de serpiente
-,Lanza,Capa de invisibilidad,Poción de armadura
-Jefferey,44,7,Cadenas de restricción,Libro de hechizos
-,Botas de agilidad,Arco de viento,Hacha de guerra,Antorcha mágica,Bastón de ilusiones
-Lynn,66,1,Hacha de guerra
-
-Allie,25,7,Pergamino de sellado,Lanza de oscuridad,Capa de sombras,Bastón de tierra,Capa de invisibilidad,Guantes de escalada,Brazalete de fuerza
-
-Marie2,96,4,Lanza de oscuridad,Piedra de iluminación,Cuchillo de sombras
-,Escudo de madera
-Deanna,74,3,Pergamino de invocación,Botas de resistencia
-,Piedra de revivir
-Roy2,29,2,Daga
-,Arco de viento
-Janet,23,5,Varita de rayos,Ballesta,Poción de regeneración,Capa de invisibilidad,Armadura de oscuridad
-
-Paulette,16,2,Capa del viento,Cadenas de restricción
-
-Hector,77,3,Poción de regeneración
-,Cuchillo de viento,Casco de visión
-Patricia,18,7,Cetro de fuego,Varita de rayos,Bastón de tierra,Espada,Guantes de destreza,Bastón de ilusiones
-,Martillo de guerra
-Tina,46,1,Hacha doble
-
-Joyce,17,6,Libro de runas,Armadura de escamas,Piedra de iluminación,Casco de visión
-,Lanza de luz,Piedra de teletransporte
-Patrick2,81,7,Armadura de acero
-,Arco de viento,Varita de estrellas,Ballesta pesada,Poción de vuelo,Piedra de revivir,Martillo de guerra
-Russell,87,6,Poción de escarcha,Anillo de evasión
-,Varita de estrellas,Capa de invisibilidad,Poción de vuelo,Poción de vida
-Janice,17,2,Espada de fuego
-,Guantes de destreza
-Larry2,94,4,Escudo de luz
-,Arco y flechas,Botas de resistencia,Poción de resistencia
-Beverly,17,7,Anillo de protección,Lanza de oscuridad,Poción de resistencia,Capa de invisibilidad,Botas de resistencia
-,Arco largo,Flechas de fuego
-Micheal,23,7,Cetro de fuego,Lanza de oscuridad
-,Poción de regeneración,Hacha de guerra,Grimorio de sombras,Lanza de luz,Hacha de piedra
-Alan,88,3,Poción de rapidez
-,Hacha de guerra,Capa de invisibilidad
-Marilyn,32,6,Casco de cuero,Varita de estrellas,Piedra de fuerza,Arco largo,Piedra de revivir
-,Martillo de guerra
-Michelle,37,5,Anillo de teletransporte
-,Brazalete de fuerza,Arco y flechas,Armadura de oscuridad,Pergamino de resurrección
-Kent2,86,4,Arco de viento,Lanza
-,Armadura de oscuridad,Libro de encantamientos
-Derick,90,4,Casco de cuero,Armadura de cuero,Hacha de guerra
-,Pergamino de resurrección
-Harold2,77,1,Armadura de acero
-
-Harold3,53,6,Pergamino de sellado,Ballesta,Hacha de relámpago,Poción de velocidad,Hacha de guerra
-,Collar de serpiente
-Clara,82,6,Poción de invisibilidad,Daga,Escudo de madera,Libro de encantamientos,Arco de hielo
-,Poción de vida
-Karen2,55,8,Escudo,Libro de encantamientos
-,Varita de rayos,Piedra de fuerza,Ballesta pesada,Guantes de destreza,Escudo de espinas,Escudo de luz
-Karen3,34,8,Anillo de evasión
-,Casco de sabiduría,Escudo,Botas de agilidad,Capa del viento,Capa de invisibilidad,Piedra de revivir,Poción de vida
-Karen4,65,5,Anillo de evasión
-,Cadenas de restricción,Varita de rayos,Piedra de iluminación,Casco de visión
-Robin2,96,2,Antorcha mágica,Piedra de revivir
-
-Robin3,46,4,Hacha doble
-,Anillo de vida,Espada,Daga
-Robin4,28,7,Lanza de oscuridad,Hacha doble
-,Arco de viento,Pergamino de invocación,Casco de batalla,Poción de sueño,Casco de respiración
-Robin5,36,7,Cetro de fuego,Pergamino de invocación,Guantes de escalada
-,Espada de cristal,Flechas envenenadas,Escudo de espinas,Martillo de guerra
-Robin6,45,4,Cuchillo arrojadizo
-,Poción de resistencia,Armadura de oscuridad,Poción de rapidez
-Eldon,21,8,Espada de fuego,Libro de runas,Cetro de sabiduría,Escudo,Anillo de protección
-,Varita de control mental,Botas de salto,Anillo de evasión
-Shirley,69,1,Casco de hierro
-
-David2,19,8,Collar de serpiente
-,Poción de invisibilidad,Casco de hierro,Cinturón de levitación,Espada de cristal,Daga,Bastón de ilusiones,Martillo de guerra
-Ryan,37,4,Martillo de guerra
-,Casco de sabiduría,Arco y flechas,Lanza de luz
-David3,17,5,Botas de salto
-,Poción de fuerza,Grimorio de sombras,Antorcha mágica,Poción de armadura
-David4,79,4,Brazalete de fuerza,Hacha doble
-,Poción de regeneración,Anillo de teletransporte
-David5,63,8,Armadura de escamas,Botas de agilidad,Lanza
-,Capa de invisibilidad,Armadura de acero,Armadura de cristal,Piedra de teletransporte,Pergamino de resurrección
-David6,66,8,Armadura de escamas,Botas de resistencia,Armadura de huesos,Armadura de cuero,Capa de sombras,Bastón de tierra,Amuleto de curación,Hacha de piedra
-
-David7,33,5,Escudo de luz
-,Arco y flechas,Amuleto de poder,Casco de visión,Daga
-David8,57,7,Piedra de iluminación,Cinturón de levitación,Cuchillo de viento,Capa del viento
-,Grimorio de sombras,Pergamino de resurrección,Poción de rapidez
-David9,73,7,Anillo de protección,Casco de hierro,Ballesta,Hacha de guerra,Grimorio antiguo
-,Flechas envenenadas,Cetro de hielo
-Miguel,76,8,Lanza,Arco largo
-,Armadura de huesos,Cuchillo de sombras,Poción de armadura,Piedra de revivir,Bastón de ilusiones,Martillo de guerra
-Catalina,69,7,Pergamino de invocación,Poción de resistencia,Poción de vida
-,Poción de sueño,Cetro de hielo,Escudo de madera,Armadura de mithril
-Aldo,22,2,Martillo de guerra
-,Escudo de luz
-Millie,45,7,Poción de escarcha,Botas de agilidad,Botas de resistencia,Flechas de fuego
-,Espada,Antorcha mágica,Armadura de mithril
-Theresa2,10,7,Espada de fuego,Cadenas de restricción,Ballesta,Capa del viento
-,Guantes de escalada,Amuleto de curación,Pergamino de tormenta
-Theresa3,98,8,Armadura de acero
-,Armadura de escamas,Lanza,Botas de resistencia,Cinturón de levitación,Armadura de huesos,Armadura de cristal,Hacha de piedra
-Theresa4,69,8,Varita mágica,Anillo de vida,Casco de hierro,Martillo de destrucción
-,Casco de respiración,Armadura de acero,Libro de encantamientos,Armadura de mithril
-Theresa5,85,5,Casco de batalla
-,Espada de fuego,Casco de cuero,Poción de resistencia,Flechas envenenadas
-Martha2,88,3,Varita mágica,Cetro de fuego
-,Ballesta
-Martha3,45,4,Cinturón de levitación,Poción de vida
-,Libro de hechizos,Poción de armadura
-Martha4,42,5,Casco de sabiduría,Lanza,Libro de hechizos,Guantes de destreza,Poción de resistencia
-
-Melanie2,14,3,Anillo de protección
-,Botas de resistencia,Martillo de guerra
-Melanie3,45,5,Casco de hierro,Poción de velocidad
-,Flechas envenenadas,Anillo de evasión,Cuchillo arrojadizo
-Cathy,79,6,Libro de runas,Cetro de fuego
-,Piedra de iluminación,Botas de resistencia,Capa del viento,Cuchillo arrojadizo
-Alex,41,1,Poción de invisibilidad
-
-Elida,54,8,Piedra de teletransporte
-,Arco de viento,Poción de resistencia,Cuchillo de sombras,Ballesta,Casco de respiración,Antorcha mágica,Bastón de ilusiones
-Stephanie,95,3,Varita de control mental,Martillo de destrucción
-,Armadura de cristal
-James2,11,6,Anillo de teletransporte
-,Casco de cuero,Hacha de relámpago,Armadura de acero,Amuleto de poder,Piedra de teletransporte
-James3,14,5,Collar de serpiente
-,Antorcha mágica,Escudo de madera,Pergamino de resurrección,Escudo de luz
-James4,26,3,Piedra de fuerza
-,Hacha doble,Escudo de espinas
-James5,77,7,Cota de malla,Cadenas de restricción,Casco de sabiduría
-,Guantes de destreza,Poción de vuelo,Arco de hielo,Poción de vida
-Sandra2,100,3,Casco de batalla
-,Antorcha mágica,Arco de hielo
-James6,65,1,Lanza de luz
-
-James7,54,6,Lanza,Armadura de cuero,Capa del viento,Poción de fuerza,Bastón de tierra
-,Armadura de mithril
-James8,11,1,Hacha de relámpago
-
-James9,19,6,Pergamino de sellado,Cota de malla
-,Poción de resistencia,Anillo de evasión,Cuchillo arrojadizo,Bastón de ilusiones
-Sandra3,16,5,Armadura de huesos,Poción de fuerza,Guantes de destreza,Flechas de fuego,Varita de control mental
-
-Geraldine2,69,1,Casco de respiración
-
-Geraldine3,15,6,Lanza,Casco de cuero
-,Amuleto de curación,Anillo de evasión,Flechas de fuego,Piedra de teletransporte
-Charlotte,82,5,Pergamino de sellado,Cinturón de levitación
-,Armadura de huesos,Armadura de mithril,Piedra de revivir
-April,12,7,Cota de malla,Hacha de guerra,Capa de invisibilidad,Pergamino de invocación
-,Lanza de luz,Amuleto de poder,Casco de visión
-Mae,13,1,Casco de visión
-
-Roxanna,45,8,Arco de viento,Botas de resistencia,Armadura de cuero,Cuchillo arrojadizo,Escudo de madera,Guantes de destreza
-,Piedra de revivir,Martillo de guerra
-Charles,69,8,Poción de curación,Cuchillo de sombras,Pergamino de resurrección
-,Varita de control mental,Botas de salto,Casco de respiración,Arco largo,Piedra de revivir
-Patrick,66,4,Escudo de madera
-,Arco largo,Poción de armadura,Poción de rapidez
-Karen,39,6,Amuleto de curación
-,Casco de hierro,Poción de resistencia,Poción de regeneración,Poción de vuelo,Anillo de evasión
-Melanie,11,7,Espada de fuego,Lanza,Arco de viento,Ballesta pesada,Hacha de guerra,Pergamino de sellado
-,Cetro de hielo
-Ted2,37,6,Anillo de protección,Cetro de sabiduría,Capa del viento,Libro de runas
-,Espada de cristal,Poción de armadura
-Walter,43,3,Libro de runas,Poción de regeneración,Varita de control mental
-
-Beulah,72,7,Cetro de fuego,Escudo,Casco de hierro,Cinturón de levitación,Cetro de hielo,Varita de control mental
-,Poción de armadura
-Marcia2,29,1,Armadura de cuero
-
-Marion,20,3,Casco de sabiduría,Piedra de fuerza,Guantes de destreza
-
-Rosalinda2,88,6,Lanza,Piedra de iluminación,Arco de viento,Poción de velocidad
-,Poción de sueño,Antorcha mágica
-Margery,62,6,Pergamino de sellado,Lanza de oscuridad
-,Varita mágica,Casco de batalla,Poción de vuelo,Daga
-Cristine,13,7,Poción de curación,Anillo de protección,Libro de encantamientos
-,Lanza,Piedra de fuerza,Guantes de escalada,Amuleto de poder
-Edward2,94,5,Pergamino de invocación,Capa del viento,Collar de serpiente,Piedra de teletransporte,Hacha de piedra
-
-Edward3,51,2,Poción de regeneración
-,Bastón de tierra
-Edward4,50,7,Brazalete de fuerza,Lanza de oscuridad,Casco de cuero,Armadura de cuero,Ballesta,Piedra de iluminación
-,Antorcha mágica
-Edward5,15,2,Casco de respiración
-,Escudo de luz
-Alice2,51,5,Cetro de hielo
-,Martillo de destrucción,Cuchillo de sombras,Poción de vuelo,Bastón de ilusiones
-Alice3,98,3,Poción de invisibilidad,Botas de resistencia
-,Poción de vida
-Bonnie,47,3,Casco de cuero,Piedra de revivir
-,Cuchillo arrojadizo
-Luis,49,5,Escudo,Poción de fuerza,Amuleto de poder
-,Daga,Libro de encantamientos
-Alma,28,2,Anillo de protección
-,Anillo de teletransporte
-Cleveland,52,7,Armadura de cuero
-,Armadura de huesos,Capa del viento,Capa de sombras,Libro de hechizos,Anillo de teletransporte,Casco de visión
-Craig,61,5,Varita mágica,Ballesta
-,Armadura de cuero,Capa de sombras,Poción de sueño
-Gordon,73,1,Piedra de iluminación
-
-Carmen,56,5,Escudo,Cota de malla,Botas de agilidad,Ballesta pesada
-,Grimorio de sombras
-Liana,61,8,Casco de cuero,Poción de invisibilidad,Cuchillo de sombras,Poción de regeneración,Pergamino de resurrección
-,Poción de vuelo,Piedra de teletransporte,Escudo de luz
-Teresa2,71,5,Casco de sabiduría,Armadura de oscuridad,Casco de batalla,Cuchillo arrojadizo,Poción de escarcha
-
-Teresa3,88,8,Poción de curación,Brazalete de fuerza,Piedra de teletransporte
-,Poción de velocidad,Armadura de cristal,Arco largo,Poción de vida,Martillo de guerra
-Keisha,94,1,Pergamino de sellado
-
-Meagan,36,2,Poción de resistencia
-,Pergamino de tormenta
-Phyllis,67,4,Espada
-,Capa de sombras,Amuleto de poder,Bastón de ilusiones
-Jill2,94,7,Casco de sabiduría,Anillo de vida
-,Poción de sueño,Flechas envenenadas,Lanza de luz,Pergamino de tormenta,Escudo de luz
-Luke,88,7,Libro de runas,Botas de agilidad,Cuchillo de sombras,Piedra de fuerza,Arco y flechas
-,Armadura de cristal,Grimorio antiguo
-Nicole,97,5,Ballesta,Capa de sombras,Poción de invisibilidad
-,Casco de respiración,Anillo de evasión
-Sara,42,5,Amuleto de curación
-,Casco de sabiduría,Cadenas de restricción,Bastón de tierra,Varita de control mental
-Edna,61,3,Espada de fuego,Poción de velocidad,Arco de hielo
-
-Carl,15,6,Casco de hierro,Poción de fuerza,Poción de sueño,Martillo de destrucción
-,Casco de respiración,Poción de rapidez
-Lewis,41,1,Poción de curación
-
-Mickey,29,8,Libro de runas,Lanza,Poción de vida
-,Hacha de guerra,Flechas envenenadas,Cuchillo arrojadizo,Hacha de piedra,Armadura de mithril
-Jeffery2,14,4,Varita de estrellas,Flechas de fuego
-,Guantes de escalada,Collar de serpiente
-Luis2,56,5,Varita de rayos,Piedra de fuerza,Brazalete de fuerza
-,Flechas de fuego,Poción de rapidez
-Pearl,61,3,Pergamino de tormenta
-,Armadura de escamas,Pergamino de sellado
-Jonathan2,61,4,Armadura de huesos,Poción de resistencia,Poción de regeneración,Armadura de oscuridad
-
-Bernice2,55,6,Anillo de protección
-,Cinturón de levitación,Varita de estrellas,Armadura de huesos,Hacha doble,Poción de vida
-Jim2,62,5,Espada de fuego,Armadura de cuero,Poción de fuerza
-,Flechas envenenadas,Antorcha mágica
-Adam2,33,3,Escudo de luz
-,Capa de invisibilidad,Cuchillo arrojadizo
-Debra,64,5,Casco de cuero,Anillo de vida,Flechas de fuego
-,Escudo de espinas,Armadura de mithril
-Adam3,47,4,Lanza de oscuridad,Ballesta
-,Cuchillo de sombras,Arco de hielo
-Roberto2,20,5,Lanza de oscuridad,Piedra de iluminación,Martillo de destrucción,Cuchillo de viento
-,Piedra de revivir
-German,36,7,Lanza de oscuridad,Cinturón de levitación
-,Botas de agilidad,Arco de viento,Anillo de teletransporte,Escudo de espinas,Daga
-Geraldine,53,5,Cetro de sabiduría,Pergamino de invocación,Poción de resistencia,Bastón de ilusiones
-,Libro de encantamientos
-Jill,99,8,Grimorio de sombras
-,Cota de malla,Varita de rayos,Martillo de destrucción,Capa de sombras,Armadura de mithril,Poción de vida,Bastón de ilusiones
-Oleta,55,7,Brazalete de fuerza,Poción de invisibilidad,Arco de viento,Hacha de relámpago,Pergamino de resurrección
-,Hacha doble,Armadura de acero
-Roger2,76,5,Armadura de cuero,Poción de fuerza,Martillo de destrucción
-,Escudo de espinas,Piedra de teletransporte
-Eric,25,1,Poción de sueño
-
-Erik,93,7,Pergamino de sellado,Cadenas de restricción,Espada de fuego
-,Poción de resistencia,Casco de batalla,Casco de respiración,Poción de vida
-Erin,81,4,Piedra de fuerza,Martillo de destrucción
-,Lanza de luz,Grimorio antiguo
-Joshua2,88,2,Cinturón de levitación,Pergamino de invocación
-
-Joshua3,96,2,Pergamino de tormenta
-,Cetro de hielo
-Christy,60,3,Casco de hierro
-,Armadura de cristal,Poción de vida
-Kathy2,65,1,Espada
-
-Kenneth2,35,6,Varita de rayos,Piedra de fuerza,Poción de regeneración,Botas de agilidad
-,Armadura de cristal,Escudo de espinas
-Kenneth3,41,3,Anillo de protección,Pergamino de invocación,Lanza de luz
-
-Thomas,71,6,Cetro de sabiduría,Casco de sabiduría,Cota de malla,Pergamino de invocación,Espada,Varita mágica
-
-Regina,34,6,Cota de malla,Ballesta pesada
-,Poción de sueño,Guantes de escalada,Arco largo,Poción de rapidez
-Florine,94,7,Escudo de luz
-,Arco de viento,Cinturón de levitación,Cuchillo de sombras,Ballesta,Capa de invisibilidad,Amuleto de poder
-Maryjane,88,3,Varita de estrellas,Varita de rayos
-,Arco de hielo
-Mary10,88,3,Lanza de oscuridad,Hacha de relámpago,Cadenas de restricción
-
-Mary11,78,1,Casco de visión
-
-Wendy,27,2,Pergamino de tormenta
-,Martillo de guerra
-Raymond2,70,2,Poción de vuelo
-,Escudo de espinas
-Raymond3,48,8,Piedra de teletransporte
-,Capa del viento,Espada de cristal,Guantes de destreza,Amuleto de curación,Escudo de espinas,Cetro de hielo,Armadura de mithril
-Christian,54,1,Antorcha mágica
-
-Raymond4,31,1,Pergamino de invocación
-
-Raymond5,44,5,Escudo de luz
-,Armadura de oscuridad,Poción de regeneración,Escudo de espinas,Bastón de ilusiones
-Refugio,57,6,Poción de invisibilidad,Capa de invisibilidad,Casco de batalla,Pergamino de resurrección
-,Armadura de acero,Collar de serpiente
-Nancy2,28,3,Piedra de iluminación,Lanza de luz,Bastón de ilusiones
-
-Eric2,81,7,Poción de curación,Cetro de sabiduría,Cota de malla,Cetro de fuego
-,Hacha de relámpago,Espada de cristal,Amuleto de curación
-Eric3,80,8,Arco y flechas,Poción de invisibilidad,Varita de estrellas,Cuchillo de viento,Cetro de hielo,Cuchillo arrojadizo,Pergamino de tormenta,Arco de hielo
-
-Eric4,60,3,Armadura de acero
-,Escudo,Cetro de hielo
-Francis2,100,4,Cota de malla
-,Flechas envenenadas,Amuleto de curación,Anillo de teletransporte
-Eric5,96,2,Poción de regeneración
-,Arco largo
-Leona2,33,5,Armadura de acero
-,Lanza,Piedra de iluminación,Piedra de fuerza,Piedra de teletransporte
-Samuel,54,7,Brazalete de fuerza,Lanza de oscuridad,Arco de viento,Poción de vuelo,Anillo de teletransporte,Amuleto de poder,Hacha de piedra
-
-Jason,64,6,Cetro de fuego,Poción de regeneración
-,Ballesta,Poción de velocidad,Arco de hielo,Piedra de teletransporte
-Kathleen,16,5,Anillo de protección
-,Varita de rayos,Poción de invisibilidad,Casco de batalla,Martillo de guerra
-Louise,49,3,Armadura de acero
-,Casco de sabiduría,Poción de resistencia
-Miriam2,94,7,Ballesta
-,Casco de hierro,Pergamino de invocación,Poción de resistencia,Capa del viento,Capa de sombras,Martillo de guerra
-Erica,73,5,Casco de hierro,Arco largo
-,Ballesta pesada,Armadura de acero,Libro de encantamientos
-Peter,70,8,Cota de malla,Botas de agilidad,Ballesta,Casco de batalla,Arco de hielo,Poción de vida,Poción de rapidez,Cetro de sabiduría
-
-Mathew,31,3,Grimorio de sombras
-,Varita mágica,Flechas de fuego
-Cheryl,25,7,Lanza de oscuridad,Cadenas de restricción,Espada de cristal,Casco de respiración,Pergamino de sellado
-,Escudo de espinas,Poción de vida
-Dewayne,49,6,Pergamino de sellado,Poción de vuelo,Lanza de luz,Hacha de guerra
-,Piedra de teletransporte,Grimorio antiguo
-Dominga,44,8,Armadura de huesos,Armadura de mithril
-,Capa del viento,Cuchillo de viento,Espada de cristal,Cetro de hielo,Cuchillo arrojadizo,Poción de armadura
-Craig2,36,8,Espada de fuego,Lanza de oscuridad,Varita mágica,Armadura de huesos,Pergamino de invocación
-,Hacha de piedra,Daga,Armadura de mithril
-Amanda,94,6,Armadura de cuero
-,Poción de curación,Cetro de sabiduría,Lanza de oscuridad,Hacha de relámpago,Amuleto de curación
-Michael,73,8,Espada
-,Poción de sueño,Casco de respiración,Guantes de escalada,Arco de hielo,Arco largo,Piedra de teletransporte,Pergamino de resurrección
-Brandi,42,8,Brazalete de fuerza,Cota de malla,Casco de cuero,Martillo de destrucción,Cinturón de levitación,Varita de estrellas,Casco de respiración,Capa de invisibilidad
-
-Roland,73,4,Pergamino de sellado,Lanza de oscuridad,Espada
-,Piedra de fuerza
-Shirley2,37,1,Poción de velocidad
-
-Jean,64,3,Botas de resistencia,Cuchillo de sombras
-,Casco de visión
-David10,73,7,Escudo,Varita mágica,Antorcha mágica
-,Poción de velocidad,Anillo de evasión,Collar de serpiente,Grimorio antiguo
-David11,14,1,Poción de velocidad
-
-David12,96,4,Arco y flechas,Flechas envenenadas,Poción de armadura,Hacha de piedra
-
-David13,12,2,Antorcha mágica
-,Pergamino de tormenta
-David14,70,4,Amuleto de curación
-,Casco de cuero,Armadura de huesos,Grimorio antiguo
-David15,28,8,Espada de fuego,Casco de sabiduría,Poción de resistencia,Poción de regeneración,Poción de vuelo,Varita de rayos
-,Escudo de madera,Martillo de guerra
-David16,24,7,Libro de runas,Poción de escarcha,Cuchillo arrojadizo
-,Poción de invisibilidad,Casco de hierro,Hacha de piedra,Martillo de guerra
-Ian,34,2,Casco de batalla,Botas de agilidad
-
-Ashlie,27,8,Poción de curación,Brazalete de fuerza,Cota de malla
-,Poción de resistencia,Ballesta,Guantes de destreza,Lanza de luz,Collar de serpiente
-Tracy,77,2,Brazalete de fuerza,Grimorio de sombras
-
-Alexander,15,6,Arco largo
-,Poción de velocidad,Hacha de guerra,Poción de vuelo,Flechas envenenadas,Poción de vida
-Pauline,14,3,Piedra de fuerza
-,Guantes de destreza,Piedra de revivir
-Eliza,21,6,Libro de runas,Cetro de sabiduría,Anillo de protección
-,Grimorio de sombras,Flechas de fuego,Martillo de guerra
-Rashida,27,3,Libro de runas,Martillo de destrucción
-,Flechas de fuego
-Santos,90,4,Espada de cristal,Casco de hierro
-,Casco de visión,Bastón de ilusiones
-Shana,55,3,Capa de sombras,Cadenas de restricción
-,Pergamino de resurrección
-Robert,79,2,Poción de vuelo,Espada de cristal
-
-Tracey,74,2,Ballesta
-,Anillo de teletransporte
+Nombre,Puntos de habilidad,#items,Item 1,Item 2,Item 3,Item 4,Item 5,Item 6,Item 7,Item 8
 Gracie,96,3,Casco de cuero,Hacha de relámpago,Hacha de piedra
-
-Haley,97,6,Casco de sabiduría,Piedra de fuerza,Poción de velocidad,Pergamino de invocación
-,Poción de armadura,Piedra de revivir
-Ida,22,6,Libro de runas,Poción de invisibilidad,Varita de estrellas,Armadura de cuero,Guantes de escalada
-,Piedra de revivir
-Myra,43,5,Casco de cuero,Poción de fuerza,Poción de sueño
-,Lanza de luz,Poción de rapidez
-Carolyn,32,6,Lanza,Capa del viento,Casco de visión
-,Guantes de destreza,Flechas de fuego,Grimorio antiguo
-Carrie,78,1,Capa de sombras
-
-Cindy,76,5,Piedra de iluminación,Ballesta pesada,Casco de visión
-,Poción de vuelo,Anillo de evasión
-Rhonda,24,8,Poción de escarcha,Poción de curación,Poción de invisibilidad,Armadura de cuero,Poción de fuerza,Pergamino de invocación
-,Hacha de piedra,Collar de serpiente
-Edward,63,4,Poción de escarcha,Casco de cuero,Poción de rapidez
-,Pergamino de resurrección
-John10,15,6,Escudo,Lanza,Armadura de escamas
-,Casco de respiración,Anillo de teletransporte,Pergamino de resurrección
-John11,43,7,Cota de malla,Armadura de cuero,Grimorio de sombras,Flechas envenenadas,Piedra de iluminación
-,Cuchillo arrojadizo,Poción de armadura
-John12,13,1,Poción de armadura
-
-Jeffery,61,7,Brazalete de fuerza,Varita de estrellas,Cuchillo de sombras,Martillo de destrucción
-,Poción de vuelo,Libro de encantamientos,Martillo de guerra
-John13,16,2,Brazalete de fuerza,Escudo
-
-John14,55,7,Daga
-,Lanza,Anillo de vida,Piedra de iluminación,Poción de sueño,Hacha doble,Escudo de espinas
-John15,38,6,Poción de invisibilidad,Poción de regeneración,Flechas envenenadas,Casco de respiración
-,Anillo de teletransporte,Casco de visión
-John16,47,7,Cetro de fuego,Martillo de destrucción,Capa de sombras,Lanza de luz,Casco de respiración
-,Poción de armadura,Grimorio antiguo
-John17,78,4,Amuleto de curación
-,Armadura de escamas,Cetro de hielo,Poción de vida
-John18,19,3,Cetro de fuego,Cetro de sabiduría,Guantes de destreza
-
-John19,83,5,Varita mágica,Poción de regeneración,Cuchillo de sombras
-,Anillo de teletransporte,Piedra de teletransporte
-Claudia,78,7,Libro de runas,Poción de curación
-,Anillo de vida,Casco de hierro,Arco de viento,Antorcha mágica,Poción de vida
-Catherine,29,4,Anillo de vida,Casco de batalla,Guantes de escalada,Casco de respiración
-
-John20,52,6,Libro de runas,Piedra de iluminación,Anillo de vida
-,Capa del viento,Espada de cristal,Arco largo
-Carmela,76,6,Espada de fuego,Antorcha mágica
-,Casco de respiración,Cuchillo arrojadizo,Armadura de mithril,Piedra de teletransporte
-Yesenia,29,3,Cetro de hielo
-,Poción de regeneración,Botas de salto
-Carmen2,19,3,Armadura de acero
-,Hacha de guerra,Amuleto de curación
-Genia,56,8,Armadura de escamas,Armadura de huesos,Poción de resistencia,Cuchillo de viento,Poción de fuerza
-,Varita de control mental,Hacha doble,Collar de serpiente
-Richard,43,4,Amuleto de curación
-,Cetro de sabiduría,Cuchillo de sombras,Armadura de mithril
-Renee,65,7,Brazalete de fuerza,Poción de resistencia,Hacha doble,Varita mágica
-,Escudo de madera,Collar de serpiente,Escudo de luz
-Shari,85,8,Botas de salto
-,Lanza,Martillo de destrucción,Capa de sombras,Casco de batalla,Casco de respiración,Piedra de teletransporte,Grimorio antiguo
-Erin2,35,1,Armadura de acero
-
-Lillian2,13,4,Casco de batalla
-,Martillo de destrucción,Collar de serpiente,Bastón de ilusiones
-Christina,68,4,Daga
-,Armadura de huesos,Casco de batalla,Casco de visión
-Jennifer,69,1,Casco de batalla
-
-William,98,6,Cadenas de restricción,Lanza,Arco de viento,Armadura de huesos,Arco y flechas
-,Hacha de guerra
-Ashlie2,44,5,Cetro de sabiduría,Lanza de oscuridad,Cadenas de restricción,Capa de invisibilidad,Piedra de revivir
-
-Rod,31,5,Cadenas de restricción,Piedra de teletransporte
-,Ballesta,Anillo de evasión,Poción de armadura
-Jordan,25,1,Espada
-
-Kelly2,78,5,Lanza de oscuridad,Casco de sabiduría,Martillo de destrucción
-,Flechas envenenadas,Armadura de cristal
-Kelly3,58,2,Espada de fuego,Armadura de escamas
-
-Kelly4,47,4,Libro de runas,Cota de malla
-,Cadenas de restricción,Bastón de ilusiones
-Toby,69,3,Poción de armadura
-,Poción de velocidad,Escudo de espinas
-Roy,63,5,Poción de vuelo
-,Bastón de tierra,Botas de salto,Amuleto de curación,Poción de vida
-Janet2,68,2,Espada
-,Collar de serpiente
-Stella,42,1,Espada de cristal
-
-Jonathan,68,2,Escudo de luz
-,Amuleto de curación
-Carrol,52,3,Botas de agilidad,Armadura de mithril
-,Flechas de fuego
-Miguel2,22,2,Pergamino de tormenta
-,Collar de serpiente
-Vivian2,56,8,Libro de runas,Lanza
-,Grimorio de sombras,Botas de salto,Lanza de luz,Piedra de revivir,Grimorio antiguo,Bastón de ilusiones
-Franklin,47,5,Armadura de cuero
-,Grimorio de sombras,Botas de salto,Libro de encantamientos,Piedra de teletransporte
-Dale,23,2,Guantes de destreza,Cuchillo de sombras
-
-Kimberly2,93,2,Armadura de oscuridad,Lanza de luz
-
-Kimberly3,60,3,Poción de invisibilidad,Armadura de escamas
-,Piedra de revivir
-Kimberly4,84,3,Anillo de vida,Piedra de iluminación,Guantes de destreza
-
-Kimberly5,68,6,Varita mágica,Martillo de destrucción,Lanza
-,Espada,Casco de visión,Escudo de luz
-Kimberly6,73,8,Poción de escarcha,Ballesta
-,Botas de resistencia,Cinturón de levitación,Varita de estrellas,Ballesta pesada,Casco de respiración,Cetro de hielo
-Angel,59,5,Casco de batalla
-,Espada de fuego,Amuleto de curación,Anillo de evasión,Poción de rapidez
-Patricia2,69,2,Armadura de cuero,Casco de hierro
-
-Patricia3,63,6,Libro de runas,Cota de malla,Anillo de vida,Botas de agilidad,Armadura de mithril
-,Pergamino de resurrección
-Patricia4,38,6,Anillo de protección,Piedra de fuerza
-,Poción de resistencia,Capa del viento,Cuchillo de viento,Poción de regeneración
-Patricia5,17,2,Armadura de mithril
-,Botas de salto
-Jeremiah,15,3,Pergamino de invocación,Casco de cuero
-,Guantes de destreza
-Glenn2,97,3,Lanza de oscuridad
-,Casco de hierro,Poción de vuelo
-Glenn3,40,6,Capa de sombras
-,Ballesta,Armadura de oscuridad,Arco largo,Poción de armadura,Bastón de ilusiones
-Israel,100,8,Cetro de sabiduría,Cadenas de restricción,Anillo de vida,Arco de viento
-,Ballesta,Espada,Guantes de escalada,Armadura de cristal
-Barbara2,27,5,Escudo de espinas
-,Lanza de oscuridad,Cadenas de restricción,Anillo de evasión,Poción de vida
-Barbara3,15,2,Antorcha mágica,Armadura de cristal
-
-Barbara4,62,5,Arco y flechas,Arco de viento,Lanza
-,Poción de regeneración,Escudo de luz
-Barbara5,16,3,Anillo de teletransporte
-,Poción de sueño,Hacha de piedra
-Barbara6,66,6,Armadura de huesos,Espada,Amuleto de curación,Amuleto de poder,Libro de encantamientos,Poción de escarcha
-
-Barbara7,38,7,Pergamino de tormenta
-,Poción de curación,Arco y flechas,Capa del viento,Poción de fuerza,Espada de cristal,Flechas de fuego
-Bessie,60,8,Casco de cuero,Cinturón de levitación,Armadura de mithril
-,Piedra de fuerza,Capa de sombras,Casco de batalla,Anillo de evasión,Poción de vida
-Adam,64,5,Libro de runas,Martillo de destrucción,Armadura de huesos,Botas de resistencia
-,Flechas de fuego
-Sally,25,7,Espada de fuego,Poción de escarcha,Armadura de cuero
-,Poción de curación,Botas de resistencia,Cuchillo de viento,Hacha de piedra
-Christy2,88,3,Anillo de teletransporte
-,Armadura de cuero,Armadura de mithril
-Timothy2,78,2,Armadura de cristal,Cetro de sabiduría
-
-Timothy3,52,6,Anillo de protección,Botas de agilidad,Libro de hechizos,Botas de salto,Flechas envenenadas,Cetro de sabiduría
-
-Timothy4,100,3,Espada de fuego,Cuchillo de viento
-,Poción de armadura
-Timothy5,100,8,Amuleto de curación
-,Armadura de escamas,Casco de cuero,Cuchillo de sombras,Poción de regeneración,Casco de batalla,Flechas envenenadas,Piedra de teletransporte
-Aaron,61,5,Poción de rapidez
-,Capa de sombras,Capa de invisibilidad,Guantes de destreza,Grimorio de sombras
-Frances2,40,2,Pergamino de invocación,Piedra de revivir
-
-Frances3,53,3,Brazalete de fuerza,Botas de salto
-,Guantes de escalada
-Fred,52,3,Escudo,Libro de hechizos
-,Bastón de ilusiones
-Stacey2,38,6,Pergamino de sellado,Libro de encantamientos
-,Pergamino de invocación,Bastón de tierra,Flechas envenenadas,Amuleto de poder
-Norma,88,4,Armadura de oscuridad
-,Grimorio de sombras,Arco largo,Flechas de fuego
-Ruth,84,8,Libro de runas,Poción de curación,Escudo,Ballesta
-,Pergamino de invocación,Guantes de destreza,Casco de respiración,Piedra de teletransporte
-Dovie,55,6,Espada de fuego,Poción de escarcha,Piedra de teletransporte
-,Armadura de cuero,Ballesta pesada,Guantes de destreza
-Samuel2,33,4,Armadura de huesos,Pergamino de resurrección
-,Escudo de madera,Poción de armadura
-Tara,62,2,Cetro de fuego,Poción de resistencia
-
-Emily,60,4,Botas de agilidad,Flechas envenenadas
-,Hacha de relámpago,Varita de control mental
-Shannon2,46,4,Casco de cuero,Poción de regeneración,Poción de sueño,Casco de hierro
-
-Shannon3,28,4,Poción de regeneración,Cuchillo de sombras
-,Armadura de cristal,Poción de rapidez
-Julia2,24,2,Casco de batalla
-,Guantes de escalada
-Bernard,35,7,Cetro de fuego,Arco y flechas,Botas de agilidad,Bastón de tierra,Arco de hielo,Piedra de teletransporte,Armadura de huesos
-
-Jimmy2,52,3,Armadura de huesos,Capa del viento,Piedra de revivir
-
-Alice,21,4,Espada de fuego,Anillo de vida,Ballesta
-,Daga
-Kim2,32,4,Poción de armadura
-,Brazalete de fuerza,Capa de invisibilidad,Anillo de teletransporte
-Kim3,59,5,Escudo,Varita de rayos,Espada de cristal,Armadura de oscuridad
-,Escudo de espinas
-Tina2,85,2,Casco de respiración
-,Martillo de guerra
-Tommy,63,3,Hacha de relámpago,Casco de visión
-,Poción de armadura
-Shannon,61,5,Botas de agilidad,Anillo de vida
-,Ballesta,Hacha de guerra,Grimorio antiguo
-Albert,73,3,Poción de invisibilidad,Armadura de huesos,Botas de agilidad
-
-Hilary,27,8,Pergamino de sellado,Cuchillo arrojadizo
-,Poción de velocidad,Ballesta pesada,Espada,Piedra de teletransporte,Piedra de revivir,Grimorio antiguo
-Cynthia,87,7,Libro de runas,Armadura de escamas,Cetro de sabiduría,Armadura de cuero,Espada de fuego
-,Piedra de fuerza,Armadura de mithril
-Deborah,12,4,Collar de serpiente
-,Anillo de evasión,Grimorio antiguo,Bastón de ilusiones
-Daniel2,41,7,Anillo de protección,Cetro de sabiduría,Poción de invisibilidad,Arco de viento,Cuchillo de sombras,Flechas envenenadas,Bastón de tierra
-
-Daniel3,83,1,Martillo de guerra
-
-Tony,43,4,Lanza de oscuridad,Cadenas de restricción,Armadura de cristal
-,Armadura de mithril
-Dave,12,4,Casco de batalla
-,Grimorio de sombras,Lanza de luz,Arco largo
-Jack,65,5,Botas de resistencia,Capa del viento,Botas de salto,Bastón de ilusiones
-,Poción de vida
-Bobby2,69,1,Martillo de guerra
-
-Bobby3,73,1,Poción de rapidez
-
-Kathryn,95,4,Cota de malla
-,Hacha de guerra,Libro de encantamientos,Martillo de guerra
-Julie2,98,8,Cetro de sabiduría,Escudo,Hacha de guerra,Grimorio de sombras,Antorcha mágica,Botas de resistencia
-,Anillo de teletransporte,Escudo de luz
-Amos,70,8,Antorcha mágica
-,Pergamino de invocación,Amuleto de curación,Anillo de evasión,Libro de encantamientos,Escudo de luz,Poción de vida,Grimorio antiguo
-Dawn,43,7,Casco de sabiduría,Piedra de teletransporte
-,Casco de hierro,Varita de estrellas,Bastón de tierra,Poción de velocidad,Hacha de piedra
-Hugo,35,2,Escudo de espinas
-,Poción de resistencia
-Larry,51,5,Espada de fuego,Collar de serpiente
-,Casco de sabiduría,Hacha de relámpago,Pergamino de resurrección
-Ismael,50,3,Armadura de escamas,Cuchillo arrojadizo
-,Poción de vuelo
-Walter2,31,1,Armadura de oscuridad
-
-Carroll,77,6,Cetro de sabiduría,Lanza,Armadura de acero,Varita mágica
-,Armadura de mithril,Grimorio antiguo
-Julia,10,3,Espada de fuego,Botas de agilidad,Casco de sabiduría
-
-Jimmy,65,6,Poción de escarcha,Poción de regeneración
-,Varita de estrellas,Bastón de tierra,Hacha de guerra,Grimorio de sombras
-Julie,41,8,Cetro de sabiduría,Escudo,Botas de agilidad,Varita de estrellas,Ballesta pesada,Botas de salto,Hacha de relámpago
-,Poción de armadura
-Dora,58,7,Armadura de cuero
-,Arco y flechas,Varita de rayos,Cuchillo de sombras,Espada,Arco de hielo,Poción de armadura
-Martin2,51,2,Daga
-,Casco de respiración
-Martin3,54,4,Cetro de sabiduría,Botas de salto
-,Anillo de vida,Poción de regeneración
-Martin4,72,8,Poción de curación,Escudo,Arco y flechas,Capa de invisibilidad,Hacha doble,Poción de sueño
-,Escudo de espinas,Grimorio antiguo
-Tyrone,61,5,Cinturón de levitación,Hacha de relámpago,Capa de invisibilidad
-,Armadura de cristal,Martillo de guerra
-Joyce2,95,1,Cuchillo de viento
-
-Peggy,63,2,Casco de batalla
-,Daga
-Enrique,83,8,Espada de fuego,Poción de curación,Cuchillo de sombras,Varita de estrellas
-,Capa de sombras,Antorcha mágica,Escudo de espinas,Poción de armadura
-Scott,100,3,Cetro de fuego,Varita de control mental
-,Poción de armadura
-Joan,19,5,Casco de sabiduría,Pergamino de invocación,Piedra de fuerza,Libro de runas
-,Bastón de ilusiones
-Tabatha,94,2,Pergamino de invocación
-,Piedra de revivir
-Vanessa,74,7,Libro de runas,Cadenas de restricción,Piedra de iluminación,Varita de estrellas
-,Poción de vuelo,Flechas envenenadas,Piedra de teletransporte
-Travis,25,8,Anillo de vida,Espada,Guantes de escalada,Armadura de acero,Pergamino de sellado
-,Amuleto de poder,Cuchillo arrojadizo,Hacha de piedra
-Steve2,55,7,Cetro de sabiduría,Casco de cuero,Poción de resistencia,Hacha de relámpago,Botas de salto,Anillo de teletransporte,Pergamino de sellado
-
-Steve3,98,4,Amuleto de curación
-,Lanza de oscuridad,Arco y flechas,Piedra de iluminación
-John2,97,3,Pergamino de sellado,Arco y flechas
-,Casco de batalla
-John3,31,5,Libro de runas,Arco de viento,Guantes de destreza
-,Piedra de revivir,Grimorio antiguo
-John4,30,8,Lanza de oscuridad,Botas de agilidad,Casco de sabiduría
-,Martillo de destrucción,Ballesta pesada,Antorcha mágica,Pergamino de tormenta,Bastón de ilusiones
-John5,26,8,Botas de agilidad,Cinturón de levitación,Poción de resistencia,Capa de sombras,Hacha de relámpago,Casco de hierro
-,Arco de hielo,Escudo de madera
-John6,64,5,Casco de sabiduría,Poción de sueño,Capa de invisibilidad
-,Escudo de luz,Martillo de guerra
-John7,70,1,Arco de hielo
-
-John8,51,4,Armadura de cuero
-,Botas de resistencia,Arco de hielo,Cetro de hielo
-John9,14,7,Cetro de fuego,Brazalete de fuerza,Arco de viento,Poción de fuerza,Pergamino de resurrección
-,Amuleto de curación,Pergamino de tormenta
-Richard10,53,8,Escudo,Cetro de fuego
-,Lanza,Armadura de huesos,Casco de batalla,Flechas envenenadas,Amuleto de curación,Daga
-Richard11,33,6,Cetro de fuego,Piedra de iluminación,Capa de sombras,Hacha de relámpago,Piedra de revivir
-,Poción de rapidez
-Joe2,37,6,Escudo,Hacha de relámpago,Espada,Casco de cuero
-,Guantes de escalada,Casco de visión
-Richard12,94,6,Daga
-,Casco de batalla,Grimorio de sombras,Amuleto de curación,Escudo de espinas,Cuchillo arrojadizo
-Steve,72,4,Libro de runas,Capa de invisibilidad,Escudo de madera,Poción de escarcha
-
-Rachel,16,8,Espada de fuego,Cetro de fuego,Pergamino de sellado,Cetro de hielo
-,Anillo de vida,Martillo de destrucción,Hacha de guerra,Capa de invisibilidad
-Kathleen2,24,5,Lanza,Ballesta pesada,Botas de salto,Varita mágica
-,Grimorio antiguo
-Kathleen3,16,7,Poción de curación,Anillo de vida,Lanza de luz,Cuchillo arrojadizo,Escudo de madera,Guantes de destreza
-,Poción de vida
-Wesley,50,7,Daga
-,Cadenas de restricción,Anillo de vida,Grimorio de sombras,Armadura de cristal,Arco largo,Poción de vida
-Steven,36,2,Pergamino de sellado
-,Poción de armadura
-Terry2,10,1,Varita de rayos
-
-Terry3,79,2,Espada,Hacha de guerra
-
-Terry4,48,5,Varita mágica,Botas de agilidad,Armadura de cuero,Cuchillo de viento,Cetro de sabiduría
-
-Terry5,78,4,Armadura de escamas,Pergamino de sellado,Ballesta,Hacha de relámpago
-
-Terry6,23,3,Martillo de destrucción,Amuleto de curación,Poción de escarcha
-
-Sheila,97,8,Ballesta
-,Arco de viento,Poción de resistencia,Amuleto de poder,Hacha de piedra,Armadura de mithril,Escudo de luz,Grimorio antiguo
-Nellie,86,6,Casco de sabiduría,Cuchillo de sombras,Flechas envenenadas,Poción de sueño
-,Antorcha mágica,Cetro de hielo
-Stacy,78,5,Varita de estrellas,Cuchillo de viento,Varita de control mental,Pergamino de invocación
-,Flechas envenenadas
-Elizabeth,76,6,Escudo,Botas de agilidad,Poción de invisibilidad,Cuchillo de viento
-,Varita de estrellas,Guantes de escalada
-Amy2,93,4,Varita de rayos,Cinturón de levitación,Botas de agilidad
-,Grimorio antiguo
-Sherry,85,6,Poción de escarcha,Grimorio de sombras
-,Botas de agilidad,Poción de fuerza,Cetro de hielo,Poción de armadura
-Numbers,21,3,Capa de invisibilidad,Libro de hechizos,Lanza de luz
-
-Weldon,54,6,Libro de runas,Pergamino de sellado,Cota de malla,Cuchillo de viento
-,Armadura de acero,Escudo de madera
-Kevin2,38,2,Armadura de cristal
-,Armadura de mithril
-Kevin3,93,6,Armadura de escamas,Cinturón de levitación
-,Pergamino de invocación,Botas de salto,Hacha doble,Armadura de acero
-Wanda,42,8,Poción de invisibilidad,Arco de viento,Varita de estrellas,Hacha de guerra,Capa de invisibilidad,Piedra de revivir
-,Daga,Bastón de ilusiones
-Donald2,64,1,Botas de agilidad
-
-Donald3,36,2,Botas de resistencia,Cuchillo de sombras
-
-Donald4,100,1,Casco de sabiduría
-
-Donald5,64,3,Casco de sabiduría,Armadura de escamas
-,Hacha de piedra
-Jane,90,8,Anillo de teletransporte
-,Pergamino de invocación,Armadura de cuero,Bastón de tierra,Guantes de destreza,Guantes de escalada,Armadura de cristal,Hacha de piedra
-Donald6,74,1,Lanza de oscuridad
-
-Donald7,62,7,Cetro de sabiduría,Ballesta pesada,Hacha de guerra,Capa de invisibilidad,Hacha doble,Casco de visión,Hacha de relámpago
-
-Darryl,61,7,Brazalete de fuerza,Lanza de oscuridad,Ballesta,Amuleto de curación,Varita de control mental
-,Pergamino de resurrección,Martillo de guerra
-Leona,79,3,Grimorio de sombras,Botas de salto,Armadura de cristal
-
-Janice2,64,3,Libro de hechizos,Capa de invisibilidad
-,Escudo de espinas
-Fernando,83,8,Escudo,Armadura de cuero,Cuchillo de sombras,Poción de invisibilidad
-,Guantes de destreza,Hacha doble,Antorcha mágica,Pergamino de resurrección
-Russell2,63,3,Poción de regeneración,Armadura de oscuridad
-,Poción de sueño
-Winston,78,5,Libro de runas,Poción de curación,Ballesta
-,Anillo de evasión,Pergamino de resurrección
-John,77,3,Anillo de teletransporte
-,Varita mágica,Bastón de tierra
-Madie,65,7,Arco largo
-,Hacha de relámpago,Arco de hielo,Anillo de teletransporte,Casco de visión,Escudo de madera,Collar de serpiente
-Jan,10,3,Martillo de guerra
-,Botas de agilidad,Piedra de iluminación
-Katherine,100,8,Poción de escarcha,Amuleto de curación
-,Capa de invisibilidad,Libro de hechizos,Grimorio de sombras,Flechas de fuego,Escudo de espinas,Piedra de revivir
-Jay,41,1,Brazalete de fuerza
-
-Helen2,68,8,Poción de curación,Brazalete de fuerza,Cetro de sabiduría,Lanza de oscuridad
-,Lanza,Poción de sueño,Armadura de acero,Flechas de fuego
-Helen3,37,2,Escudo de madera
-,Amuleto de curación
-Helen4,95,5,Casco de hierro,Botas de resistencia
-,Arco de hielo,Daga,Armadura de mithril
-Dennis,73,3,Casco de hierro,Arco de viento
-,Escudo de espinas
-Helen5,81,2,Pergamino de invocación
-,Poción de vida
-Helen6,43,5,Poción de regeneración
-,Arco de viento,Hacha de relámpago,Poción de velocidad,Varita de control mental
-Yvonne,95,5,Espada
-,Armadura de cuero,Cuchillo de viento,Poción de vuelo,Pergamino de resurrección
-Helen7,50,6,Cetro de fuego,Pergamino de sellado,Lanza
-,Libro de hechizos,Anillo de evasión,Arco largo
-Douglas2,11,3,Cetro de sabiduría,Armadura de huesos
-,Pergamino de resurrección
-Douglas3,32,7,Varita de rayos,Piedra de fuerza,Varita de estrellas
-,Cuchillo de viento,Hacha de guerra,Anillo de evasión,Casco de visión
-Douglas4,25,8,Piedra de fuerza
-,Anillo de vida,Espada,Capa de invisibilidad,Amuleto de poder,Cetro de hielo,Armadura de mithril,Piedra de teletransporte
-Teddy,23,3,Varita de rayos,Ballesta,Botas de resistencia
-
-Josephine,37,8,Lanza,Armadura de cuero,Poción de velocidad
-,Hacha de relámpago,Anillo de teletransporte,Pergamino de resurrección,Piedra de revivir,Poción de rapidez
-Marco,42,7,Varita de rayos,Hacha doble
-,Poción de resistencia,Hacha de guerra,Guantes de destreza,Grimorio de sombras,Casco de visión
-Laura2,36,4,Botas de agilidad,Arco y flechas
-,Hacha de guerra,Anillo de teletransporte
-Laura3,55,3,Cadenas de restricción,Cuchillo de viento
-,Cuchillo de sombras
-Laura4,50,7,Casco de sabiduría,Casco de hierro,Poción de velocidad
-,Bastón de tierra,Espada de cristal,Varita de control mental,Daga
-Laura5,98,2,Anillo de evasión
-,Armadura de cristal
-Laura6,44,3,Bastón de tierra
-,Daga,Pergamino de resurrección
-Rachel2,73,3,Amuleto de curación
-,Casco de batalla,Bastón de ilusiones
-Cleo,51,2,Cadenas de restricción,Hacha de piedra
-
-Nicholas,66,6,Armadura de escamas,Escudo,Casco de cuero,Poción de invisibilidad,Hacha de piedra,Cetro de sabiduría
-
-Martha,76,2,Pergamino de invocación,Guantes de escalada
-
-Jackie,77,4,Armadura de cuero,Poción de regeneración,Hacha doble,Espada de cristal
-
-Joshua,28,5,Poción de fuerza,Poción de vida
-,Casco de batalla,Lanza de luz,Escudo de madera
-Sherlyn,49,3,Botas de agilidad,Martillo de destrucción
-,Piedra de teletransporte
-Martin,57,7,Libro de hechizos,Anillo de teletransporte,Flechas de fuego,Escudo de espinas,Poción de resistencia
-,Pergamino de tormenta,Poción de armadura
-Donald,48,7,Casco de cuero,Anillo de vida,Ballesta
-,Cuchillo de sombras,Grimorio de sombras,Flechas envenenadas,Cetro de hielo
-Michael10,81,6,Anillo de protección,Anillo de vida,Casco de hierro,Brazalete de fuerza
-,Arco largo,Piedra de teletransporte
-Michael11,86,3,Cetro de fuego
-,Cinturón de levitación,Libro de hechizos
-Michael12,84,5,Anillo de protección,Capa de sombras,Espada de cristal,Pergamino de resurrección
-,Escudo de espinas
-Otis,38,1,Capa del viento
-
-Michael13,90,3,Lanza de oscuridad,Cuchillo de sombras,Amuleto de poder
-
-Abigail,77,4,Armadura de oscuridad,Espada de cristal,Casco de cuero
-,Capa de invisibilidad
-Francisco2,92,4,Cetro de sabiduría,Varita de control mental,Grimorio de sombras,Varita mágica
-
-Margo,12,3,Lanza de oscuridad,Piedra de iluminación
-,Poción de vida
-Marjorie2,55,1,Pergamino de resurrección
-
-Marjorie3,12,7,Poción de escarcha,Botas de salto
-,Botas de resistencia,Capa de sombras,Arco largo,Daga,Pergamino de tormenta
-Gary2,59,7,Grimorio de sombras
-,Escudo,Cota de malla,Varita de estrellas,Escudo de madera,Poción de vida,Martillo de guerra
-Gary3,33,8,Libro de runas,Cetro de fuego,Escudo de espinas
-,Cadenas de restricción,Piedra de iluminación,Casco de hierro,Casco de visión,Cuchillo arrojadizo
-Marjorie4,96,7,Anillo de protección,Cuchillo de sombras,Flechas envenenadas,Hacha de piedra,Armadura de mithril,Poción de escarcha
-,Piedra de teletransporte
-Logan,34,8,Poción de invisibilidad,Piedra de iluminación,Guantes de destreza,Flechas envenenadas,Cuchillo de sombras
-,Antorcha mágica,Cetro de hielo,Martillo de guerra
-Monique,52,2,Botas de agilidad,Flechas envenenadas
-
-Jasmine,15,2,Pergamino de sellado
-,Collar de serpiente
-Andres2,84,7,Espada de fuego,Cetro de fuego,Piedra de iluminación,Varita de estrellas
-,Espada,Grimorio de sombras,Poción de rapidez
-Matthew,61,2,Amuleto de poder
-,Poción de rapidez
-Dale2,16,2,Hacha de guerra,Espada de cristal
-
-Maria,19,3,Casco de batalla
-,Botas de agilidad,Martillo de guerra
-Marie,79,3,Botas de resistencia
-,Anillo de teletransporte,Amuleto de poder
-Kent,43,8,Capa del viento,Cuchillo de viento,Poción de velocidad,Armadura de escamas
-,Varita de control mental,Anillo de evasión,Daga,Escudo de luz
-Theresa,24,7,Cadenas de restricción,Lanza,Armadura de huesos,Guantes de escalada
-,Espada,Casco de batalla,Bastón de ilusiones
-Lauren,79,1,Casco de sabiduría
-
-Mark2,57,5,Varita mágica,Armadura de huesos,Poción de resistencia,Piedra de iluminación
-,Amuleto de curación
-Brenda2,52,1,Varita de rayos
-
-Brenda3,78,8,Poción de curación,Cadenas de restricción,Espada,Guantes de destreza,Amuleto de poder,Varita de control mental
-,Pergamino de resurrección,Martillo de guerra
-Jim,33,8,Collar de serpiente
-,Capa de sombras,Casco de batalla,Varita de control mental,Arco largo,Hacha de piedra,Escudo de madera,Poción de armadura
-Brenda4,90,7,Espada de fuego,Lanza,Piedra de teletransporte
-,Pergamino de invocación,Arco de hielo,Armadura de mithril,Bastón de ilusiones
-Gwendolyn,49,2,Amuleto de curación
-,Capa de invisibilidad
-Brenda5,52,2,Cadenas de restricción,Armadura de huesos
-
-Mark3,64,4,Escudo de espinas
-,Cota de malla,Guantes de destreza,Arco largo
-Mark4,60,1,Cetro de hielo
-
-Brenda6,61,4,Arco largo
-,Capa de sombras,Piedra de teletransporte,Martillo de guerra
-Miriam,11,7,Armadura de cuero
-,Pergamino de sellado,Varita mágica,Bastón de tierra,Libro de hechizos,Daga,Martillo de guerra
-Brenda7,55,7,Anillo de protección,Pergamino de sellado,Piedra de iluminación,Bastón de tierra,Poción de invisibilidad
-,Armadura de cristal,Arco largo
-Mark5,23,2,Brazalete de fuerza
-,Escudo de espinas
-Caroline,40,6,Espada de fuego,Cota de malla,Casco de hierro,Brazalete de fuerza
-,Cetro de hielo,Collar de serpiente
-Maurice,68,8,Poción de curación,Armadura de escamas,Brazalete de fuerza,Botas de agilidad,Armadura de cuero,Poción de fuerza,Escudo
-,Daga
-Ada,90,4,Escudo,Libro de hechizos
-,Poción de fuerza,Poción de velocidad
-Janette,24,8,Poción de curación,Daga
-,Lanza,Botas de agilidad,Varita de estrellas,Anillo de evasión,Flechas de fuego,Hacha de piedra
-Nicole2,28,6,Botas de resistencia,Poción de velocidad
-,Bastón de tierra,Hacha de guerra,Flechas envenenadas,Piedra de revivir
-Nicole3,85,5,Pergamino de sellado,Escudo,Cinturón de levitación,Bastón de tierra,Casco de cuero
-
-Arthur,18,2,Arco de hielo,Bastón de ilusiones
-
-Lawrence,33,7,Poción de curación,Anillo de protección,Varita de estrellas,Cuchillo de sombras,Lanza de luz,Hacha de guerra
-,Pergamino de resurrección
-Cynthia2,62,4,Arco de viento
-,Varita de estrellas,Hacha doble,Daga
-Agnes,10,8,Amuleto de curación
-,Cetro de fuego,Cinturón de levitación,Varita de estrellas,Capa de invisibilidad,Lanza de luz,Flechas de fuego,Armadura de mithril
-Susan,17,5,Cadenas de restricción,Piedra de teletransporte
-,Daga,Armadura de mithril,Poción de armadura
-Greg,29,8,Collar de serpiente
-,Armadura de escamas,Escudo,Varita de rayos,Lanza,Arco largo,Pergamino de resurrección,Grimorio antiguo
-Henry,54,4,Varita de rayos,Ballesta
-,Poción de fuerza,Armadura de acero
-Randy,59,3,Cadenas de restricción,Arco largo
-,Capa del viento
-Jose,79,7,Libro de encantamientos
-,Cota de malla,Arco de viento,Espada,Poción de sueño,Guantes de escalada,Pergamino de tormenta
-Andrew2,30,4,Pergamino de sellado,Poción de regeneración
-,Amuleto de poder,Pergamino de resurrección
-Mitchell,12,6,Piedra de fuerza,Flechas envenenadas
-,Poción de sueño,Anillo de teletransporte,Arco largo,Flechas de fuego
-Thomas2,83,3,Libro de runas,Libro de hechizos
-,Armadura de cuero
-Thomas3,53,2,Casco de cuero,Anillo de vida
-
-Thomas4,69,2,Espada de fuego
-,Escudo de espinas
-Thomas5,39,2,Guantes de escalada,Pergamino de sellado
-
-Laurie,38,5,Casco de hierro,Cuchillo de viento
-,Cuchillo de sombras,Piedra de fuerza,Libro de encantamientos
-Thomas6,12,7,Cuchillo arrojadizo
-,Casco de hierro,Arco de viento,Cinturón de levitación,Espada de cristal,Poción de vuelo,Anillo de evasión
-Thomas7,51,7,Armadura de escamas,Escudo,Piedra de iluminación,Arco y flechas
-,Antorcha mágica,Libro de encantamientos,Piedra de teletransporte
-Thomas8,78,2,Piedra de iluminación
-,Flechas de fuego
-Thomas9,47,5,Espada de fuego,Cetro de fuego,Poción de curación,Poción de resistencia
-,Poción de armadura
-Melvin,39,3,Libro de runas,Piedra de revivir
-,Poción de rapidez
-Tyrone2,14,1,Botas de resistencia
-
-Pamela,26,1,Casco de sabiduría
-
-Earl,29,8,Cetro de fuego,Botas de agilidad,Ballesta
-,Martillo de destrucción,Poción de resistencia,Guantes de destreza,Armadura de acero,Cetro de hielo
-Wesley2,45,7,Casco de sabiduría,Casco de hierro,Martillo de destrucción,Poción de regeneración,Amuleto de poder,Hacha de piedra,Armadura de cristal
-
-Dennis2,62,3,Casco de cuero,Espada,Guantes de destreza
-
-Babara,46,8,Cetro de fuego,Botas de resistencia,Capa del viento,Bastón de tierra,Daga,Piedra de revivir,Poción de rapidez,Hacha de piedra
-
-Barry,98,5,Casco de sabiduría,Poción de sueño,Flechas envenenadas,Poción de resistencia
-,Bastón de ilusiones
-Stacey,99,6,Libro de runas,Cetro de fuego,Martillo de destrucción,Poción de invisibilidad
-,Daga,Grimorio antiguo
-Clayton,24,6,Poción de resistencia,Hacha de relámpago,Varita de control mental,Escudo de madera,Pergamino de resurrección,Cetro de sabiduría
-
-Eddie,35,2,Casco de hierro
-,Escudo de luz
-Sophia,67,6,Libro de runas,Hacha doble
-,Guantes de destreza,Armadura de cristal,Casco de visión,Grimorio antiguo
-Suzanne,84,7,Brazalete de fuerza,Poción de curación
-,Escudo,Hacha de relámpago,Guantes de destreza,Cuchillo arrojadizo,Bastón de ilusiones
-Sophie,69,8,Pergamino de sellado,Martillo de destrucción,Arco de viento
-,Cuchillo de viento,Libro de hechizos,Flechas envenenadas,Escudo de espinas,Poción de vida
-Lawrence2,39,1,Arco de viento
-
-Lawrence3,50,7,Brazalete de fuerza,Anillo de protección,Escudo de espinas
-,Casco de sabiduría,Cadenas de restricción,Anillo de vida,Armadura de huesos
-Joe,37,7,Brazalete de fuerza,Arco y flechas,Piedra de iluminación,Espada de cristal,Poción de vuelo,Varita de rayos
-,Cetro de hielo
-Richard2,63,8,Piedra de fuerza,Cuchillo de viento,Ballesta pesada,Guantes de escalada,Flechas de fuego,Cuchillo arrojadizo,Armadura de cristal
-,Martillo de guerra
-Richard3,83,1,Amuleto de poder
-
-Sara2,20,6,Varita mágica,Botas de agilidad,Cinturón de levitación,Libro de hechizos,Botas de salto,Poción de sueño
-
-Richard4,48,7,Poción de invisibilidad,Armadura de huesos,Armadura de oscuridad,Guantes de escalada,Hacha de guerra
-,Flechas de fuego,Martillo de guerra
-Richard5,13,7,Poción de armadura
-,Poción de velocidad,Espada de cristal,Casco de batalla,Poción de vuelo,Botas de salto,Daga
-Richard6,98,4,Piedra de fuerza,Arco y flechas
-,Flechas envenenadas,Bastón de ilusiones
-Sara3,46,1,Pergamino de sellado
-
-Richard7,88,4,Amuleto de curación
-,Poción de sueño,Flechas envenenadas,Antorcha mágica
-Richard8,80,1,Casco de visión
-
-Richard9,82,6,Botas de resistencia,Anillo de vida
-,Anillo de teletransporte,Anillo de evasión,Casco de visión,Bastón de ilusiones
-Rebecca,33,4,Libro de runas,Poción de fuerza,Lanza
-,Poción de sueño
-Rickey,93,1,Anillo de teletransporte
-
-Deborah2,23,7,Varita de rayos,Poción de vuelo
-,Capa del viento,Cuchillo de viento,Poción de sueño,Grimorio de sombras,Libro de encantamientos
-Sarah,99,2,Capa de sombras,Armadura de cristal
-
-Steven2,55,4,Lanza de oscuridad,Cetro de hielo
-,Escudo de espinas,Martillo de guerra
-Steven3,80,3,Varita de estrellas
-,Armadura de oscuridad,Poción de rapidez
-Patsy,32,4,Anillo de teletransporte
-,Varita mágica,Capa del viento,Hacha doble
-Steven4,64,5,Lanza de oscuridad,Casco de hierro,Capa de sombras,Poción de velocidad,Pergamino de resurrección
-
-Steven5,75,3,Pergamino de sellado,Hacha doble
-,Amuleto de curación
-Opal,100,1,Piedra de iluminación
-
-Steven6,78,2,Flechas de fuego
-,Poción de vida
-Wilma,77,5,Libro de runas,Anillo de teletransporte
-,Casco de sabiduría,Bastón de tierra,Pergamino de tormenta
-Valerie2,84,5,Martillo de destrucción,Armadura de huesos,Armadura de mithril
-,Antorcha mágica,Pergamino de resurrección
-Stacie,93,5,Espada de cristal,Grimorio de sombras,Amuleto de curación,Cuchillo arrojadizo,Armadura de cristal
-
-Robin,36,5,Libro de runas,Martillo de destrucción
-,Grimorio de sombras,Armadura de acero,Casco de visión
-Teresa,20,6,Poción de escarcha,Lanza de oscuridad,Ballesta pesada,Flechas envenenadas,Botas de resistencia
-,Escudo de espinas
-Kathy,27,3,Armadura de huesos,Poción de sueño
-,Piedra de teletransporte
-Patty,13,6,Poción de invisibilidad,Pergamino de invocación,Cinturón de levitación,Amuleto de poder
-,Escudo de espinas,Libro de encantamientos
-William10,42,1,Cuchillo de viento
-
-Katie,83,1,Lanza
-
-Joseph2,20,1,Arco de hielo
-
-Joseph3,33,6,Cetro de sabiduría,Casco de sabiduría,Botas de agilidad,Poción de resistencia,Amuleto de poder
-,Antorcha mágica
-Frank2,79,6,Poción de resistencia,Piedra de fuerza,Lanza de luz
-,Armadura de cristal,Pergamino de tormenta,Pergamino de resurrección
-Bobby,78,6,Cetro de fuego
-,Piedra de iluminación,Botas de resistencia,Varita de control mental,Guantes de destreza,Armadura de mithril
-Joseph4,44,2,Cuchillo de viento
-,Anillo de evasión
-Joseph5,27,6,Arco largo
-,Poción de resistencia,Casco de batalla,Guantes de destreza,Amuleto de poder,Grimorio antiguo
-Susie,49,6,Brazalete de fuerza,Casco de sabiduría,Escudo,Armadura de cuero,Poción de velocidad
-,Hacha de piedra
-Frank3,32,5,Martillo de destrucción,Grimorio de sombras,Hacha doble,Hacha de guerra
-,Arco de hielo
-Frank4,58,3,Cinturón de levitación
-,Capa de invisibilidad,Piedra de teletransporte
-Frank5,17,7,Espada de fuego,Poción de escarcha,Cota de malla,Cuchillo de viento
-,Capa del viento,Poción de sueño,Antorcha mágica
-Joseph6,71,3,Escudo de luz
-,Arco y flechas,Poción de fuerza
-Amy,71,1,Collar de serpiente
-
-Javier,23,4,Botas de agilidad,Varita de estrellas
-,Arco largo,Bastón de ilusiones
-Ricardo,54,5,Antorcha mágica
-,Bastón de tierra,Grimorio de sombras,Piedra de revivir,Poción de armadura
-Ann2,94,8,Poción de escarcha,Escudo,Cinturón de levitación,Varita de estrellas,Cuchillo de viento,Libro de runas
-,Escudo de espinas,Cetro de hielo
-Francisco,51,7,Casco de sabiduría,Varita de rayos,Capa de sombras,Armadura de oscuridad
-,Armadura de cristal,Arco largo,Poción de vida
-Ann3,10,6,Varita mágica,Armadura de huesos,Amuleto de poder
-,Anillo de evasión,Collar de serpiente,Pergamino de resurrección
-Cesar,38,2,Piedra de revivir
-,Cuchillo arrojadizo
-Linda2,88,7,Arco de viento,Anillo de evasión,Armadura de cristal,Cetro de hielo,Hacha de relámpago
-,Piedra de teletransporte,Pergamino de resurrección
-Linda3,90,4,Capa de sombras
-,Bastón de tierra,Libro de hechizos,Botas de salto
-Linda4,41,8,Pergamino de invocación,Poción de resistencia,Bastón de tierra,Poción de fuerza
-,Poción de vuelo,Hacha doble,Cetro de hielo,Poción de rapidez
-Linda5,59,8,Casco de sabiduría,Lanza,Piedra de iluminación,Cinturón de levitación,Capa del viento,Poción de invisibilidad
-,Antorcha mágica,Cuchillo arrojadizo
-Linda6,65,6,Armadura de escamas,Anillo de vida,Piedra de iluminación,Flechas envenenadas,Varita de control mental
-,Escudo de madera
-Ann,27,2,Casco de batalla
-,Daga
-Linda7,49,3,Daga
-,Lanza de luz,Cuchillo arrojadizo
-Linda8,18,2,Cetro de fuego
-,Martillo de guerra
-Linda9,55,5,Casco de cuero,Piedra de teletransporte
-,Casco de hierro,Cuchillo de viento,Capa de sombras
-Leslie,76,8,Brazalete de fuerza,Botas de agilidad,Casco de hierro,Cuchillo de viento,Capa de invisibilidad,Varita de control mental,Pergamino de invocación
-,Pergamino de tormenta
-Ronald,79,1,Poción de sueño
-
-Dorothy,75,6,Cuchillo de viento
-,Poción de resistencia,Botas de salto,Flechas envenenadas,Piedra de teletransporte,Martillo de guerra
-Anna,44,4,Casco de cuero,Armadura de escamas
-,Casco de batalla,Pergamino de tormenta
-Anne,78,6,Anillo de vida,Bastón de tierra,Botas de agilidad
-,Arco de hielo,Hacha de piedra,Piedra de teletransporte
-Chuck,73,5,Libro de runas,Pergamino de sellado,Pergamino de invocación,Guantes de escalada,Arco de hielo
-
-Bret,15,6,Anillo de vida,Pergamino de invocación,Espada,Varita de rayos
-,Arco de hielo,Casco de visión
-Ruth2,79,5,Anillo de protección,Lanza de oscuridad,Cota de malla,Lanza,Varita de rayos
-
-Ruth3,88,3,Pergamino de sellado
-,Amuleto de poder,Poción de vida
-Lisa,60,7,Casco de sabiduría,Cinturón de levitación,Poción de velocidad,Lanza de luz,Hacha de guerra
-,Escudo de espinas,Hacha de piedra
-Virginia,63,1,Escudo
-
-Debbie,48,1,Amuleto de curación
-
-Regina2,13,4,Poción de curación,Pergamino de sellado,Casco de hierro,Escudo
-
-Regina3,40,7,Escudo de luz
-,Casco de sabiduría,Poción de invisibilidad,Botas de resistencia,Armadura de oscuridad,Poción de velocidad,Espada
-Regina4,64,3,Casco de hierro,Hacha de relámpago
-,Piedra de teletransporte
-Demetrice,63,1,Capa de invisibilidad
-
-Kelli,58,6,Varita de rayos,Anillo de vida,Botas de resistencia,Poción de vuelo,Poción de escarcha
-,Piedra de revivir
-Mary2,39,6,Armadura de escamas,Casco de cuero,Varita de control mental,Guantes de escalada,Hacha de relámpago
-,Bastón de ilusiones
-Mary3,73,6,Cetro de sabiduría,Cota de malla,Lanza,Varita de control mental,Poción de resistencia
-,Poción de vida
-Mary4,32,2,Pergamino de invocación
-,Hacha de piedra
-Mary5,60,7,Lanza,Piedra de iluminación,Poción de fuerza
-,Hacha de piedra,Escudo de madera,Poción de vida,Grimorio antiguo
-Mary6,46,5,Cinturón de levitación
-,Anillo de vida,Capa de sombras,Arco de hielo,Grimorio antiguo
-Mary7,91,4,Lanza,Escudo
-,Cetro de hielo,Collar de serpiente
-Mary8,16,1,Poción de escarcha
-
-Theodore,26,4,Poción de velocidad,Antorcha mágica,Armadura de cristal
-,Escudo de luz
-Mary9,34,3,Cetro de fuego,Anillo de protección
-,Armadura de huesos
-Louis,81,4,Poción de curación
-,Casco de hierro,Hacha doble,Arco de hielo
-Kelly,81,3,Cinturón de levitación,Lanza
-,Amuleto de poder
-Beverly2,12,1,Escudo
-
-Beverly3,95,5,Armadura de escamas,Lanza de oscuridad,Grimorio antiguo
-,Amuleto de curación,Pergamino de resurrección
-Daniel,98,5,Collar de serpiente
-,Lanza,Espada de cristal,Hacha doble,Amuleto de curación
-Terry,21,3,Cuchillo arrojadizo
-,Capa del viento,Piedra de teletransporte
-Peter2,77,5,Casco de sabiduría,Cota de malla
-,Poción de fuerza,Espada de cristal,Poción de rapidez
-Peter3,55,2,Escudo de luz
-,Pergamino de resurrección
-Alex2,46,8,Anillo de protección,Lanza
-,Espada,Poción de vuelo,Guantes de escalada,Cetro de hielo,Daga,Poción de armadura
-Peter4,52,8,Arco y flechas,Casco de sabiduría
-,Arco de viento,Botas de resistencia,Varita de estrellas,Armadura de cuero,Casco de batalla,Grimorio antiguo
-Rich,17,2,Lanza de oscuridad,Arco de hielo
-
-Rochelle,19,8,Cetro de fuego
-,Pergamino de invocación,Poción de velocidad,Varita de control mental,Botas de salto,Guantes de escalada,Lanza de luz,Poción de rapidez
-Paul,64,1,Bastón de tierra
-
-Carol2,67,7,Libro de encantamientos
-,Varita mágica,Ballesta pesada,Espada,Arco de hielo,Arco largo,Cetro de hielo
-Carol3,57,8,Lanza,Botas de agilidad,Armadura de cuero,Piedra de fuerza,Amuleto de curación,Armadura de acero,Hacha de relámpago
-,Hacha de piedra
-Carol4,34,6,Pergamino de invocación,Poción de resistencia,Espada de cristal,Armadura de escamas
-,Hacha de piedra,Escudo de luz
-Kali,85,7,Cetro de sabiduría,Anillo de vida,Arco y flechas
-,Poción de velocidad,Armadura de acero,Anillo de teletransporte,Arco largo
-Tiffany,23,7,Cetro de fuego,Martillo de destrucción,Anillo de vida
-,Poción de resistencia,Varita de control mental,Guantes de escalada,Anillo de teletransporte
-Anthony2,91,1,Armadura de mithril
-
-Anthony3,15,6,Casco de sabiduría,Casco de cuero,Arco de viento,Libro de hechizos,Casco de visión,Poción de resistencia
-
-Anthony4,97,7,Cetro de fuego,Escudo,Guantes de escalada
-,Bastón de tierra,Ballesta pesada,Grimorio de sombras,Daga
-Anthony5,61,1,Libro de encantamientos
-
-Anthony6,55,2,Armadura de oscuridad
-,Flechas de fuego
-Sheila2,84,7,Casco de hierro,Arco de viento,Capa de invisibilidad,Armadura de acero,Bastón de tierra
-,Piedra de teletransporte,Poción de armadura
+Jessica,90,1,Casco de hierro
+Charles,69,8,Varita de control mental,Poción de curación,Arco largo,Piedra de revivir,Casco de respiración,Cuchillo de sombras,Botas de salto,Pergamino de resurrección
+Bobby,78,6,Piedra de iluminación,Varita de control mental,Armadura de mithril,Botas de resistencia,Guantes de destreza,Cetro de fuego
+Victor,51,5,Armadura de acero,Daga,Poción de rapidez,Cinturón de levitación,Amuleto de poder
 Angela,49,1,Poción de resistencia
-
-Alfredo,89,3,Poción de velocidad,Anillo de teletransporte,Escudo
-
-Rebecca2,76,1,Martillo de destrucción
-
-Rebecca3,36,3,Cetro de fuego
-,Armadura de oscuridad,Arco de hielo
-Rebecca4,93,1,Arco de viento
-
-Rebecca5,26,2,Grimorio antiguo
-,Collar de serpiente
-Roger,76,3,Anillo de vida,Arco de viento
-,Piedra de fuerza
-Gerald,37,3,Arco y flechas,Casco de batalla,Poción de escarcha
-
-Donna,66,1,Capa del viento
-
-Rich2,97,1,Libro de runas
-
-Nellie2,46,7,Espada de fuego,Libro de runas,Amuleto de curación
-,Poción de curación,Cota de malla,Cuchillo de sombras,Guantes de destreza
-Nellie3,38,7,Espada de fuego,Arco y flechas,Cota de malla,Antorcha mágica
-,Arco de hielo,Anillo de evasión,Piedra de revivir
-Rufus,48,5,Escudo,Casco de cuero,Poción de invisibilidad,Espada de fuego
-,Martillo de guerra
-Marion2,59,5,Cetro de fuego,Escudo de espinas
-,Pergamino de invocación,Poción de velocidad,Lanza de luz
-Marion3,62,3,Botas de salto
-,Cinturón de levitación,Piedra de teletransporte
-Jerry2,56,2,Pergamino de sellado,Poción de fuerza
-
-Jerry3,27,4,Libro de runas,Hacha de guerra,Guantes de escalada,Amuleto de poder
-
-Sabrina,71,3,Poción de sueño,Arco de hielo,Hacha de relámpago
-
-Dustin,20,3,Martillo de guerra
-,Pergamino de sellado,Varita mágica
-Evelyn,39,5,Botas de agilidad,Poción de fuerza,Casco de hierro
-,Escudo de madera,Martillo de guerra
-Tonya,51,1,Anillo de evasión
-
-Dixie,16,7,Cinturón de levitación,Poción de fuerza,Poción de vuelo,Flechas envenenadas,Hacha de guerra
-,Armadura de cristal,Libro de encantamientos
+Sara,42,5,Casco de sabiduría,Bastón de tierra,Varita de control mental,Cadenas de restricción,Amuleto de curación
+Leona,79,3,Botas de salto,Grimorio de sombras,Armadura de cristal
+Theresa,24,7,Lanza,Cadenas de restricción,Armadura de huesos,Casco de batalla,Espada,Bastón de ilusiones,Guantes de escalada
+Anthony,92,8,Lanza,Cuchillo de viento,Pergamino de tormenta,Poción de vuelo,Piedra de teletransporte,Collar de serpiente,Varita de rayos,Poción de resistencia
+Cheryl,25,7,Casco de respiración,Lanza de oscuridad,Cadenas de restricción,Espada de cristal,Poción de vida,Escudo de espinas,Pergamino de sellado
+Nicki,77,7,Bastón de tierra,Cuchillo de sombras,Botas de resistencia,Ballesta,Guantes de escalada,Espada de fuego,Espada de cristal
+Neil,81,2,Brazalete de fuerza,Armadura de acero
+Andrew,87,8,Poción de regeneración,Casco de visión,Ballesta pesada,Cuchillo arrojadizo,Arco de viento,Anillo de protección,Brazalete de fuerza,Grimorio de sombras
+Lisa,60,7,Escudo de espinas,Hacha de piedra,Casco de sabiduría,Lanza de luz,Poción de velocidad,Cinturón de levitación,Hacha de guerra
+Pedro,16,5,Botas de agilidad,Libro de runas,Casco de respiración,Poción de escarcha,Anillo de vida
+Micheal,23,7,Hacha de guerra,Poción de regeneración,Grimorio de sombras,Hacha de piedra,Lanza de luz,Cetro de fuego,Lanza de oscuridad
+Christopher,21,8,Cuchillo de viento,Capa de sombras,Cetro de hielo,Grimorio de sombras,Libro de hechizos,Poción de sueño,Grimorio antiguo,Escudo
+Michael,73,8,Piedra de teletransporte,Poción de sueño,Pergamino de resurrección,Arco de hielo,Guantes de escalada,Arco largo,Casco de respiración,Espada
+George,33,6,Espada,Arco y flechas,Libro de runas,Cadenas de restricción,Casco de batalla,Ballesta pesada
+Babara,46,8,Capa del viento,Poción de rapidez,Piedra de revivir,Botas de resistencia,Daga,Cetro de fuego,Bastón de tierra,Hacha de piedra
+Phyllis,67,4,Capa de sombras,Bastón de ilusiones,Amuleto de poder,Espada
+Amanda,94,6,Cetro de sabiduría,Amuleto de curación,Poción de curación,Lanza de oscuridad,Hacha de relámpago,Armadura de cuero
+Russell,87,6,Poción de vida,Varita de estrellas,Poción de vuelo,Capa de invisibilidad,Poción de escarcha,Anillo de evasión
+Joseph,70,6,Poción de velocidad,Casco de cuero,Varita de control mental,Anillo de protección,Guantes de escalada,Pergamino de sellado
+Sophie,69,8,Libro de hechizos,Flechas envenenadas,Cuchillo de viento,Escudo de espinas,Martillo de destrucción,Pergamino de sellado,Poción de vida,Arco de viento
+Kelly,81,3,Amuleto de poder,Cinturón de levitación,Lanza
+Stacy,78,5,Cuchillo de viento,Varita de estrellas,Varita de control mental,Flechas envenenadas,Pergamino de invocación
+Jan,10,3,Botas de agilidad,Piedra de iluminación,Martillo de guerra
+Hector,77,3,Cuchillo de viento,Casco de visión,Poción de regeneración
+Paul,64,1,Bastón de tierra
+Linda,54,2,Armadura de cristal,Escudo
+Marjorie,57,4,Bastón de ilusiones,Poción de escarcha,Piedra de fuerza,Amuleto de curación
+Elizabeth,76,6,Escudo,Guantes de escalada,Poción de invisibilidad,Varita de estrellas,Botas de agilidad,Cuchillo de viento
+Peter,70,8,Poción de rapidez,Casco de batalla,Ballesta,Arco de hielo,Botas de agilidad,Cota de malla,Poción de vida,Cetro de sabiduría
+Steven,36,2,Poción de armadura,Pergamino de sellado
+Janette,24,8,Anillo de evasión,Botas de agilidad,Hacha de piedra,Flechas de fuego,Varita de estrellas,Poción de curación,Lanza,Daga
+Stella,42,1,Espada de cristal
+Debbie,48,1,Amuleto de curación
+Walter,43,3,Libro de runas,Poción de regeneración,Varita de control mental
+Janice,17,2,Guantes de destreza,Espada de fuego
+Ellis,27,1,Ballesta pesada
+Linda2,88,7,Armadura de cristal,Pergamino de resurrección,Arco de viento,Piedra de teletransporte,Anillo de evasión,Cetro de hielo,Hacha de relámpago
+Jennifer,69,1,Casco de batalla
+Jeffrey,95,4,Escudo de madera,Grimorio de sombras,Casco de cuero,Poción de velocidad
+Marcia,54,4,Escudo de espinas,Casco de respiración,Piedra de teletransporte,Poción de invisibilidad
+Jordan,25,1,Espada
+Regina,34,6,Arco largo,Poción de sueño,Cota de malla,Poción de rapidez,Guantes de escalada,Ballesta pesada
+Jim,33,8,Varita de control mental,Capa de sombras,Escudo de madera,Hacha de piedra,Casco de batalla,Arco largo,Poción de armadura,Collar de serpiente
 Brian,35,2,Varita de rayos,Hacha de piedra
-
-Alisha,68,7,Pergamino de tormenta
-,Poción de curación,Casco de sabiduría,Arco y flechas,Cota de malla,Pergamino de invocación,Cuchillo arrojadizo
-Melissa2,13,2,Martillo de destrucción,Piedra de iluminación
-
-Ted,53,2,Flechas envenenadas
-,Ballesta pesada
-Peggy2,83,6,Grimorio de sombras
-,Anillo de vida,Cuchillo de sombras,Guantes de escalada,Daga,Poción de rapidez
+Robin,36,5,Libro de runas,Armadura de acero,Casco de visión,Grimorio de sombras,Martillo de destrucción
+Daniel,98,5,Lanza,Hacha doble,Espada de cristal,Amuleto de curación,Collar de serpiente
+Gertrude,25,7,Poción de fuerza,Cetro de hielo,Armadura de cristal,Capa de sombras,Poción de velocidad,Casco de cuero,Libro de hechizos
+Jeffery,61,7,Poción de vuelo,Varita de estrellas,Libro de encantamientos,Martillo de guerra,Cuchillo de sombras,Brazalete de fuerza,Martillo de destrucción
+Kendall,89,3,Armadura de cristal,Poción de resistencia,Pergamino de tormenta
+Brian2,11,8,Poción de curación,Arco y flechas,Escudo de luz,Piedra de revivir,Poción de sueño,Espada,Guantes de destreza,Arco de hielo
+Barbara,66,2,Arco largo,Poción de vida
+Mae,13,1,Casco de visión
+Luis,49,5,Daga,Libro de encantamientos,Poción de fuerza,Escudo,Amuleto de poder
+April,12,7,Cota de malla,Hacha de guerra,Amuleto de poder,Lanza de luz,Capa de invisibilidad,Casco de visión,Pergamino de invocación
+Jeffrey2,37,4,Pergamino de invocación,Hacha doble,Varita de estrellas,Flechas de fuego
+Wanda,42,8,Capa de invisibilidad,Varita de estrellas,Poción de invisibilidad,Arco de viento,Hacha de guerra,Bastón de ilusiones,Daga,Piedra de revivir
+Glenn,54,8,Flechas envenenadas,Anillo de teletransporte,Pergamino de sellado,Varita de rayos,Arco largo,Cota de malla,Arco y flechas,Cuchillo de sombras
+Ernest,96,2,Guantes de escalada,Arco y flechas
+Cheryl2,26,1,Poción de resistencia
+David,10,2,Escudo de espinas,Cuchillo de viento
+Melanie,11,7,Espada de fuego,Cetro de hielo,Ballesta pesada,Lanza,Arco de viento,Hacha de guerra,Pergamino de sellado
+Javier,23,4,Bastón de ilusiones,Botas de agilidad,Arco largo,Varita de estrellas
+Demetria,72,4,Anillo de evasión,Grimorio de sombras,Casco de batalla,Armadura de huesos
+Geraldine,53,5,Cetro de sabiduría,Poción de resistencia,Pergamino de invocación,Libro de encantamientos,Bastón de ilusiones
+Robert,79,2,Poción de vuelo,Espada de cristal
+Rachel,16,8,Pergamino de sellado,Cetro de fuego,Anillo de vida,Martillo de destrucción,Espada de fuego,Hacha de guerra,Capa de invisibilidad,Cetro de hielo
+Dennis,73,3,Escudo de espinas,Casco de hierro,Arco de viento
+Patricia,18,7,Guantes de destreza,Espada,Bastón de tierra,Cetro de fuego,Varita de rayos,Martillo de guerra,Bastón de ilusiones
+Kimberly,65,1,Grimorio de sombras
+Wilma,77,5,Bastón de tierra,Libro de runas,Pergamino de tormenta,Casco de sabiduría,Anillo de teletransporte
+Gertrude2,16,2,Armadura de huesos,Hacha de guerra
+Jeremy,85,4,Hacha doble,Armadura de escamas,Capa del viento,Espada de fuego
+John,77,3,Bastón de tierra,Varita mágica,Anillo de teletransporte
+Ashlie,27,8,Ballesta,Guantes de destreza,Poción de resistencia,Poción de curación,Collar de serpiente,Lanza de luz,Brazalete de fuerza,Cota de malla
+Debra,64,5,Anillo de vida,Armadura de mithril,Casco de cuero,Escudo de espinas,Flechas de fuego
+Kevin,21,2,Casco de cuero,Hacha de relámpago
+Jaime,19,7,Ballesta,Poción de velocidad,Amuleto de curación,Pergamino de invocación,Varita de rayos,Bastón de tierra,Anillo de protección
+Helen,50,4,Lanza de oscuridad,Armadura de huesos,Casco de visión,Lanza
+Jay,41,1,Brazalete de fuerza
+Matthew,61,2,Poción de rapidez,Amuleto de poder
+Greg,29,8,Arco largo,Varita de rayos,Lanza,Pergamino de resurrección,Grimorio antiguo,Escudo,Armadura de escamas,Collar de serpiente
+Millie,45,7,Espada,Armadura de mithril,Poción de escarcha,Antorcha mágica,Botas de agilidad,Botas de resistencia,Flechas de fuego
+Raymond,72,5,Espada de fuego,Pergamino de invocación,Escudo de espinas,Bastón de ilusiones,Escudo
+Cleveland,52,7,Libro de hechizos,Casco de visión,Anillo de teletransporte,Capa de sombras,Capa del viento,Armadura de huesos,Armadura de cuero
+Linda3,90,4,Bastón de tierra,Libro de hechizos,Botas de salto,Capa de sombras
+Robert2,47,1,Martillo de destrucción
+Angel,59,5,Anillo de evasión,Amuleto de curación,Poción de rapidez,Espada de fuego,Casco de batalla
+Mark,51,8,Flechas de fuego,Varita de control mental,Piedra de revivir,Armadura de cuero,Varita de estrellas,Casco de cuero,Hacha de piedra,Pergamino de sellado
+Linda4,41,8,Poción de resistencia,Pergamino de invocación,Hacha doble,Cetro de hielo,Poción de vuelo,Bastón de tierra,Poción de rapidez,Poción de fuerza
+Timothy,18,4,Amuleto de poder,Ballesta pesada,Pergamino de sellado,Armadura de escamas
+Victor2,72,2,Cadenas de restricción,Daga
+Donna,66,1,Capa del viento
+Darrell,33,8,Bastón de tierra,Casco de respiración,Ballesta,Flechas envenenadas,Arco y flechas,Varita de control mental,Cuchillo de viento,Libro de hechizos
+Christina,68,4,Casco de batalla,Armadura de huesos,Casco de visión,Daga
+Rich,17,2,Lanza de oscuridad,Arco de hielo
+Paul2,27,6,Ballesta,Cetro de hielo,Grimorio antiguo,Anillo de evasión,Amuleto de curación,Lanza de oscuridad
+Shari,85,8,Capa de sombras,Casco de batalla,Lanza,Casco de respiración,Grimorio antiguo,Piedra de teletransporte,Martillo de destrucción,Botas de salto
+Susan,17,5,Daga,Armadura de mithril,Cadenas de restricción,Poción de armadura,Piedra de teletransporte
+Roy,63,5,Botas de salto,Bastón de tierra,Amuleto de curación,Poción de vida,Poción de vuelo
+Fernando,83,8,Pergamino de resurrección,Armadura de cuero,Hacha doble,Antorcha mágica,Escudo,Guantes de destreza,Cuchillo de sombras,Poción de invisibilidad
+Jessica2,97,7,Piedra de fuerza,Cadenas de restricción,Amuleto de curación,Escudo,Arco de viento,Poción de fuerza,Armadura de cristal
+Pamela,26,1,Casco de sabiduría
+Kelly2,78,5,Lanza de oscuridad,Flechas envenenadas,Armadura de cristal,Casco de sabiduría,Martillo de destrucción
+Mary,58,8,Martillo de guerra,Piedra de teletransporte,Libro de hechizos,Cota de malla,Cinturón de levitación,Varita mágica,Casco de hierro,Espada
+Roger,76,3,Anillo de vida,Piedra de fuerza,Arco de viento
+Brandi,42,8,Casco de cuero,Casco de respiración,Martillo de destrucción,Brazalete de fuerza,Cota de malla,Cinturón de levitación,Varita de estrellas,Capa de invisibilidad
+Douglas,66,7,Poción de invisibilidad,Cota de malla,Arco y flechas,Collar de serpiente,Pergamino de tormenta,Casco de respiración,Arco de viento
+Cheryl3,35,8,Hacha doble,Lanza,Libro de runas,Antorcha mágica,Escudo,Piedra de fuerza,Poción de escarcha,Poción de invisibilidad
+Rosalinda,15,1,Lanza de luz
+Mathew,31,3,Varita mágica,Flechas de fuego,Grimorio de sombras
+Rufus,48,5,Casco de cuero,Martillo de guerra,Escudo,Poción de invisibilidad,Espada de fuego
+Valerie,44,1,Bastón de tierra
+Marion,20,3,Casco de sabiduría,Piedra de fuerza,Guantes de destreza
+Stephanie,95,3,Varita de control mental,Armadura de cristal,Martillo de destrucción
+David2,19,8,Daga,Martillo de guerra,Cinturón de levitación,Casco de hierro,Espada de cristal,Poción de invisibilidad,Bastón de ilusiones,Collar de serpiente
+Carrie,78,1,Capa de sombras
+Martha,76,2,Pergamino de invocación,Guantes de escalada
+Jessica3,70,1,Poción de velocidad
+John2,97,3,Pergamino de sellado,Casco de batalla,Arco y flechas
+Krystle,53,8,Libro de hechizos,Arco de viento,Lanza,Martillo de destrucción,Casco de batalla,Arco de hielo,Espada de fuego,Cetro de sabiduría
+Miguel,76,8,Lanza,Poción de armadura,Martillo de guerra,Piedra de revivir,Armadura de huesos,Cuchillo de sombras,Bastón de ilusiones,Arco largo
+Alice,21,4,Daga,Anillo de vida,Espada de fuego,Ballesta
+Kelly3,58,2,Espada de fuego,Armadura de escamas
+Demetrice,63,1,Capa de invisibilidad
+William,98,6,Armadura de huesos,Arco de viento,Hacha de guerra,Lanza,Cadenas de restricción,Arco y flechas
+John3,31,5,Arco de viento,Piedra de revivir,Grimorio antiguo,Libro de runas,Guantes de destreza
+Julie,41,8,Poción de armadura,Ballesta pesada,Botas de salto,Botas de agilidad,Escudo,Cetro de sabiduría,Varita de estrellas,Hacha de relámpago
+Gail,52,5,Armadura de oscuridad,Casco de hierro,Cetro de sabiduría,Cetro de hielo,Cadenas de restricción
+Mildred,46,1,Collar de serpiente
+Charles2,43,5,Piedra de revivir,Cetro de hielo,Poción de rapidez,Botas de resistencia,Cetro de fuego
+Jesse,69,4,Ballesta,Martillo de destrucción,Piedra de fuerza,Pergamino de sellado
+Margaret,14,7,Flechas de fuego,Capa del viento,Poción de vida,Hacha de relámpago,Hacha de piedra,Botas de agilidad,Piedra de iluminación
+Margaret2,18,5,Espada de cristal,Guantes de destreza,Anillo de vida,Armadura de escamas,Poción de regeneración
+Catalina,69,7,Poción de sueño,Poción de resistencia,Escudo de madera,Armadura de mithril,Pergamino de invocación,Cetro de hielo,Poción de vida
+Madie,65,7,Anillo de teletransporte,Arco de hielo,Collar de serpiente,Casco de visión,Escudo de madera,Hacha de relámpago,Arco largo
+Juan,74,4,Cinturón de levitación,Guantes de destreza,Ballesta,Poción de invisibilidad
+Michael2,97,4,Amuleto de poder,Martillo de guerra,Anillo de vida,Poción de vuelo
+Debra2,62,3,Lanza de oscuridad,Poción de regeneración,Guantes de escalada
+Roy2,29,2,Arco de viento,Daga
+Bernard,35,7,Arco y flechas,Bastón de tierra,Cetro de fuego,Botas de agilidad,Piedra de teletransporte,Arco de hielo,Armadura de huesos
+Eric,25,1,Poción de sueño
+Beverly,17,7,Lanza de oscuridad,Poción de resistencia,Anillo de protección,Capa de invisibilidad,Flechas de fuego,Arco largo,Botas de resistencia
+Bernice,26,8,Poción de regeneración,Collar de serpiente,Armadura de mithril,Martillo de guerra,Hacha doble,Daga,Grimorio de sombras,Capa de sombras
+Alisha,68,7,Cuchillo arrojadizo,Cota de malla,Poción de curación,Arco y flechas,Casco de sabiduría,Pergamino de invocación,Pergamino de tormenta
+Jennifer2,49,5,Escudo,Armadura de escamas,Escudo de luz,Collar de serpiente,Libro de hechizos
+Marcia2,29,1,Armadura de cuero
+Henry,54,4,Poción de fuerza,Armadura de acero,Varita de rayos,Ballesta
+Teddy,23,3,Varita de rayos,Ballesta,Botas de resistencia
+Lawrence,33,7,Anillo de protección,Cuchillo de sombras,Lanza de luz,Pergamino de resurrección,Poción de curación,Varita de estrellas,Hacha de guerra
+Beverly2,12,1,Escudo
+Nellie,86,6,Cuchillo de sombras,Antorcha mágica,Cetro de hielo,Casco de sabiduría,Flechas envenenadas,Poción de sueño
+Daniel2,41,7,Poción de invisibilidad,Arco de viento,Flechas envenenadas,Anillo de protección,Cuchillo de sombras,Cetro de sabiduría,Bastón de tierra
+Elizabeth2,17,5,Casco de visión,Armadura de acero,Anillo de teletransporte,Antorcha mágica,Martillo de guerra
+Patty,13,6,Escudo de espinas,Libro de encantamientos,Poción de invisibilidad,Cinturón de levitación,Pergamino de invocación,Amuleto de poder
+Linda5,59,8,Lanza,Cinturón de levitación,Piedra de iluminación,Cuchillo arrojadizo,Capa del viento,Casco de sabiduría,Antorcha mágica,Poción de invisibilidad
+Ricardo,54,5,Piedra de revivir,Grimorio de sombras,Poción de armadura,Bastón de tierra,Antorcha mágica
+Timothy2,78,2,Armadura de cristal,Cetro de sabiduría
+Jose,79,7,Poción de sueño,Pergamino de tormenta,Arco de viento,Cota de malla,Guantes de escalada,Espada,Libro de encantamientos
+Ryan,37,4,Casco de sabiduría,Arco y flechas,Lanza de luz,Martillo de guerra
+Nicole,97,5,Casco de respiración,Ballesta,Capa de sombras,Anillo de evasión,Poción de invisibilidad
+Elizabeth3,14,3,Antorcha mágica,Lanza,Varita de estrellas
+Darryl,61,7,Martillo de guerra,Amuleto de curación,Brazalete de fuerza,Ballesta,Pergamino de resurrección,Lanza de oscuridad,Varita de control mental
+John4,30,8,Botas de agilidad,Bastón de ilusiones,Lanza de oscuridad,Antorcha mágica,Martillo de destrucción,Ballesta pesada,Pergamino de tormenta,Casco de sabiduría
+Stephen,94,1,Varita de estrellas
+Monique,52,2,Botas de agilidad,Flechas envenenadas
+Thomas,71,6,Espada,Pergamino de invocación,Cota de malla,Cetro de sabiduría,Casco de sabiduría,Varita mágica
+Bessie,60,8,Casco de batalla,Anillo de evasión,Casco de cuero,Cinturón de levitación,Piedra de fuerza,Capa de sombras,Poción de vida,Armadura de mithril
+Richard,43,4,Cuchillo de sombras,Cetro de sabiduría,Armadura de mithril,Amuleto de curación
+Lee,14,7,Martillo de guerra,Botas de salto,Flechas de fuego,Martillo de destrucción,Botas de resistencia,Cuchillo de viento,Capa del viento
+Monica,61,4,Escudo de luz,Cadenas de restricción,Poción de invisibilidad,Cuchillo de viento
+Rashida,27,3,Libro de runas,Flechas de fuego,Martillo de destrucción
+James,82,3,Anillo de evasión,Guantes de destreza,Lanza de oscuridad
+Rochelle,19,8,Poción de rapidez,Guantes de escalada,Poción de velocidad,Varita de control mental,Lanza de luz,Pergamino de invocación,Botas de salto,Cetro de fuego
+Julia,10,3,Botas de agilidad,Espada de fuego,Casco de sabiduría
+Elmer,43,4,Casco de visión,Arco de viento,Varita de estrellas,Varita de rayos
+David3,17,5,Grimorio de sombras,Antorcha mágica,Poción de fuerza,Poción de armadura,Botas de salto
+Sandy,46,2,Capa del viento,Armadura de mithril
+Jeanine,30,8,Poción de invisibilidad,Escudo de madera,Cetro de fuego,Grimorio antiguo,Arco de hielo,Anillo de protección,Guantes de destreza,Armadura de huesos
+Kali,85,7,Anillo de vida,Armadura de acero,Cetro de sabiduría,Anillo de teletransporte,Arco largo,Poción de velocidad,Arco y flechas
+Raymond2,70,2,Escudo de espinas,Poción de vuelo
+Linda6,65,6,Armadura de escamas,Piedra de iluminación,Escudo de madera,Anillo de vida,Flechas envenenadas,Varita de control mental
 Reginia,33,1,Casco de visión
-
-Peggy3,12,3,Bastón de tierra,Pergamino de resurrección
-,Escudo de espinas
-James10,94,8,Espada de fuego,Anillo de vida,Hacha de guerra,Varita de control mental,Pergamino de invocación
-,Flechas envenenadas,Daga,Pergamino de resurrección
+Jessica4,31,6,Amuleto de curación,Cuchillo arrojadizo,Antorcha mágica,Libro de runas,Grimorio de sombras,Cadenas de restricción
+Lisa2,64,8,Hacha de guerra,Poción de regeneración,Casco de visión,Botas de agilidad,Cetro de sabiduría,Poción de resistencia,Casco de batalla,Botas de salto
+Nellie2,46,7,Poción de curación,Libro de runas,Cota de malla,Guantes de destreza,Espada de fuego,Cuchillo de sombras,Amuleto de curación
+Ruth,84,8,Pergamino de invocación,Libro de runas,Casco de respiración,Poción de curación,Piedra de teletransporte,Guantes de destreza,Escudo,Ballesta
+Alan,88,3,Capa de invisibilidad,Hacha de guerra,Poción de rapidez
+Valerie2,84,5,Antorcha mágica,Armadura de huesos,Pergamino de resurrección,Martillo de destrucción,Armadura de mithril
+Marlene,63,5,Poción de velocidad,Casco de batalla,Cetro de sabiduría,Poción de rapidez,Flechas envenenadas
+Martha2,88,3,Ballesta,Varita mágica,Cetro de fuego
+Rebecca,33,4,Poción de sueño,Poción de fuerza,Libro de runas,Lanza
+Laura,59,5,Piedra de fuerza,Cuchillo de sombras,Ballesta pesada,Capa del viento,Armadura de oscuridad
+Teresa,20,6,Flechas envenenadas,Poción de escarcha,Ballesta pesada,Escudo de espinas,Lanza de oscuridad,Botas de resistencia
+Steve,72,4,Libro de runas,Capa de invisibilidad,Escudo de madera,Poción de escarcha
+Jason,64,6,Poción de velocidad,Ballesta,Cetro de fuego,Piedra de teletransporte,Arco de hielo,Poción de regeneración
+Terry,21,3,Piedra de teletransporte,Capa del viento,Cuchillo arrojadizo
+John5,26,8,Arco de hielo,Escudo de madera,Capa de sombras,Poción de resistencia,Botas de agilidad,Hacha de relámpago,Cinturón de levitación,Casco de hierro
+Jose2,42,8,Casco de batalla,Armadura de cristal,Armadura de escamas,Cuchillo de viento,Poción de fuerza,Varita mágica,Armadura de acero,Piedra de iluminación
+Martin,57,7,Flechas de fuego,Libro de hechizos,Pergamino de tormenta,Escudo de espinas,Anillo de teletransporte,Poción de armadura,Poción de resistencia
+Charles3,54,6,Hacha doble,Casco de visión,Poción de resistencia,Martillo de destrucción,Poción de sueño,Poción de vuelo
+Catherine,29,4,Anillo de vida,Guantes de escalada,Casco de batalla,Casco de respiración
+Shannon,61,5,Hacha de guerra,Ballesta,Botas de agilidad,Grimorio antiguo,Anillo de vida
+Robin2,96,2,Antorcha mágica,Piedra de revivir
+Brenda,44,1,Martillo de guerra
+Michael3,25,7,Poción de vida,Escudo de madera,Grimorio de sombras,Armadura de cuero,Guantes de escalada,Martillo de destrucción,Escudo de luz
+Evelyn,39,5,Martillo de guerra,Escudo de madera,Botas de agilidad,Poción de fuerza,Casco de hierro
+Beverly3,95,5,Lanza de oscuridad,Amuleto de curación,Pergamino de resurrección,Armadura de escamas,Grimorio antiguo
+Harold,89,7,Poción de resistencia,Armadura de mithril,Poción de vida,Casco de batalla,Cuchillo arrojadizo,Escudo de madera,Bastón de ilusiones
+Anna,44,4,Pergamino de tormenta,Casco de batalla,Casco de cuero,Armadura de escamas
+Rebecca2,76,1,Martillo de destrucción
+Sarah,99,2,Capa de sombras,Armadura de cristal
+Michael4,24,8,Varita mágica,Capa de sombras,Lanza de luz,Cuchillo de sombras,Guantes de escalada,Lanza,Cetro de hielo,Grimorio de sombras
+Robin3,46,4,Daga,Espada,Anillo de vida,Hacha doble
+Tara,62,2,Cetro de fuego,Poción de resistencia
+Nathaniel,52,7,Guantes de escalada,Ballesta,Poción de armadura,Capa del viento,Botas de salto,Armadura de acero,Collar de serpiente
+Joyce,17,6,Libro de runas,Armadura de escamas,Piedra de iluminación,Lanza de luz,Piedra de teletransporte,Casco de visión
+Cathy,79,6,Piedra de iluminación,Cuchillo arrojadizo,Botas de resistencia,Capa del viento,Libro de runas,Cetro de fuego
+William2,75,1,Escudo de luz
+Allan,85,2,Poción de vida,Cuchillo arrojadizo
+Jerome,75,1,Poción de armadura
+Dorothy,75,6,Botas de salto,Flechas envenenadas,Poción de resistencia,Martillo de guerra,Piedra de teletransporte,Cuchillo de viento
+Frances,46,1,Anillo de evasión
+Brian3,12,3,Armadura de cristal,Hacha doble,Flechas envenenadas
+Clifford,91,2,Poción de invisibilidad,Libro de hechizos
+Robert3,30,5,Cuchillo de viento,Hacha de guerra,Anillo de evasión,Piedra de teletransporte,Casco de cuero
+Clara,82,6,Poción de vida,Escudo de madera,Daga,Poción de invisibilidad,Libro de encantamientos,Arco de hielo
+Iris,28,6,Pergamino de resurrección,Espada de cristal,Piedra de revivir,Poción de fuerza,Cuchillo de viento,Poción de armadura
+Christina2,51,7,Hacha de guerra,Varita de rayos,Antorcha mágica,Poción de sueño,Cetro de fuego,Poción de resistencia,Poción de velocidad
+Martin2,51,2,Casco de respiración,Daga
+Mark2,57,5,Varita mágica,Amuleto de curación,Poción de resistencia,Armadura de huesos,Piedra de iluminación
+Elizabeth4,34,4,Ballesta,Daga,Lanza de oscuridad,Cuchillo de sombras
+Edward,63,4,Casco de cuero,Pergamino de resurrección,Poción de escarcha,Poción de rapidez
+Harold2,77,1,Armadura de acero
+Robert4,59,2,Ballesta pesada,Escudo de madera
+Robyn,28,3,Collar de serpiente,Poción de vida,Martillo de guerra
+Kimberly2,93,2,Armadura de oscuridad,Lanza de luz
+Oleta,55,7,Brazalete de fuerza,Poción de invisibilidad,Hacha de relámpago,Arco de viento,Hacha doble,Armadura de acero,Pergamino de resurrección
+Deborah,12,4,Bastón de ilusiones,Anillo de evasión,Grimorio antiguo,Collar de serpiente
+Marie,79,3,Anillo de teletransporte,Amuleto de poder,Botas de resistencia
+Joyce2,95,1,Cuchillo de viento
+Patrick,66,4,Poción de rapidez,Arco largo,Poción de armadura,Escudo de madera
+James2,11,6,Amuleto de poder,Casco de cuero,Piedra de teletransporte,Hacha de relámpago,Armadura de acero,Anillo de teletransporte
+Sarah2,79,8,Poción de armadura,Botas de agilidad,Poción de rapidez,Anillo de evasión,Poción de sueño,Capa del viento,Poción de resistencia,Escudo de espinas
+Michelle,37,5,Armadura de oscuridad,Pergamino de resurrección,Arco y flechas,Brazalete de fuerza,Anillo de teletransporte
+Fred,52,3,Bastón de ilusiones,Escudo,Libro de hechizos
+Emily,60,4,Varita de control mental,Botas de agilidad,Hacha de relámpago,Flechas envenenadas
+Pamela2,41,2,Armadura de cuero,Cetro de fuego
+Betty,74,4,Casco de visión,Guantes de destreza,Armadura de escamas,Pergamino de tormenta
+Donald,48,7,Cuchillo de sombras,Cetro de hielo,Anillo de vida,Casco de cuero,Grimorio de sombras,Flechas envenenadas,Ballesta
+Jimmy,65,6,Varita de estrellas,Bastón de tierra,Hacha de guerra,Grimorio de sombras,Poción de escarcha,Poción de regeneración
+Jaime2,13,1,Hacha de relámpago
+Paulette,16,2,Capa del viento,Cadenas de restricción
+Georgia,77,4,Antorcha mágica,Arco de hielo,Escudo de luz,Varita de rayos
+Jerry,28,5,Poción de rapidez,Casco de sabiduría,Armadura de escamas,Anillo de teletransporte,Libro de hechizos
+Jonathan,68,2,Amuleto de curación,Escudo de luz
+Juan2,79,6,Cetro de fuego,Cetro de hielo,Collar de serpiente,Anillo de evasión,Poción de regeneración,Cetro de sabiduría
+Danny,85,2,Poción de curación,Amuleto de curación
+Frances2,40,2,Pergamino de invocación,Piedra de revivir
+Brenda2,52,1,Varita de rayos
+Ann,27,2,Daga,Casco de batalla
+Rosalie,72,4,Hacha de relámpago,Daga,Poción de fuerza,Botas de agilidad
+George2,71,4,Armadura de oscuridad,Cetro de fuego,Varita mágica,Casco de batalla
+Ken,82,4,Armadura de huesos,Capa de invisibilidad,Botas de salto,Martillo de guerra
+Megan,19,1,Hacha de guerra
+Rebecca3,36,3,Armadura de oscuridad,Arco de hielo,Cetro de fuego
+Clinton,88,3,Ballesta pesada,Pergamino de sellado,Libro de runas
+Leo,59,8,Cuchillo arrojadizo,Varita de control mental,Cuchillo de sombras,Piedra de iluminación,Lanza de oscuridad,Ballesta pesada,Flechas de fuego,Antorcha mágica
+Mary2,39,6,Armadura de escamas,Guantes de escalada,Bastón de ilusiones,Casco de cuero,Varita de control mental,Hacha de relámpago
+Eric2,81,7,Cota de malla,Amuleto de curación,Poción de curación,Cetro de sabiduría,Espada de cristal,Hacha de relámpago,Cetro de fuego
+Pauline,14,3,Piedra de revivir,Guantes de destreza,Piedra de fuerza
+Michael5,80,7,Bastón de ilusiones,Antorcha mágica,Piedra de teletransporte,Piedra de iluminación,Grimorio de sombras,Escudo de madera,Cadenas de restricción
+Albert,73,3,Armadura de huesos,Poción de invisibilidad,Botas de agilidad
+Kristan,50,2,Armadura de cuero,Poción de velocidad
+Luetta,99,8,Poción de curación,Armadura de cuero,Daga,Cuchillo arrojadizo,Botas de agilidad,Casco de sabiduría,Libro de encantamientos,Capa del viento
+William3,32,5,Escudo de madera,Varita mágica,Poción de vuelo,Libro de runas,Bastón de ilusiones
+Earl,29,8,Guantes de destreza,Cetro de fuego,Botas de agilidad,Cetro de hielo,Armadura de acero,Poción de resistencia,Martillo de destrucción,Ballesta
+Stacey,99,6,Grimorio antiguo,Cetro de fuego,Daga,Libro de runas,Martillo de destrucción,Poción de invisibilidad
+David4,79,4,Brazalete de fuerza,Anillo de teletransporte,Poción de regeneración,Hacha doble
+Williams,10,4,Poción de armadura,Varita mágica,Armadura de mithril,Poción de regeneración
+Nicholas,66,6,Hacha de piedra,Casco de cuero,Armadura de escamas,Poción de invisibilidad,Escudo,Cetro de sabiduría
+John6,64,5,Martillo de guerra,Escudo de luz,Casco de sabiduría,Poción de sueño,Capa de invisibilidad
+Jerry2,56,2,Pergamino de sellado,Poción de fuerza
+Tracy,77,2,Brazalete de fuerza,Grimorio de sombras
 Karl,51,1,Anillo de teletransporte
-
-Stephanie2,53,3,Amuleto de curación,Escudo de espinas,Armadura de huesos
-
-Stephanie3,98,2,Poción de escarcha,Escudo
-
-Edna2,48,1,Armadura de cristal
-
-James11,54,1,Escudo de madera
-
-James12,46,5,Cinturón de levitación
-,Arco de viento,Capa del viento,Poción de regeneración,Casco de batalla
-James13,20,4,Anillo de teletransporte
-,Armadura de oscuridad,Hacha de relámpago,Escudo de madera
-James14,90,8,Casco de sabiduría,Botas de resistencia,Capa del viento,Antorcha mágica,Arco de hielo,Cuchillo arrojadizo,Poción de resistencia
-,Pergamino de resurrección
-Raymond,72,5,Espada de fuego,Pergamino de invocación,Escudo
-,Escudo de espinas,Bastón de ilusiones
-Stacy2,78,3,Libro de runas,Brazalete de fuerza,Bastón de tierra
-
-Stacy3,94,7,Espada de fuego,Piedra de iluminación,Armadura de cuero,Poción de rapidez
-,Poción de fuerza,Hacha doble,Poción de armadura
-Sharon,52,8,Lanza,Cuchillo de viento
-,Poción de resistencia,Piedra de fuerza,Flechas envenenadas,Escudo de espinas,Pergamino de resurrección,Poción de vida
-Glenn,54,8,Pergamino de sellado,Arco y flechas,Cota de malla,Varita de rayos,Flechas envenenadas,Cuchillo de sombras
-,Anillo de teletransporte,Arco largo
-Eleanor,99,2,Flechas envenenadas,Amuleto de poder
-
-Harrison,86,5,Casco de hierro,Poción de regeneración,Botas de salto,Casco de respiración,Cuchillo de sombras
-
-Micheal2,26,3,Armadura de oscuridad
-,Guantes de escalada,Poción de rapidez
-Robyn,28,3,Martillo de guerra
-,Collar de serpiente,Poción de vida
-Demetria,72,4,Casco de batalla,Grimorio de sombras,Anillo de evasión,Armadura de huesos
-
-Myles,89,5,Armadura de cuero,Poción de resistencia,Amuleto de poder,Hacha de piedra,Cetro de sabiduría
-
-Carl2,10,6,Anillo de evasión
-,Casco de sabiduría,Anillo de vida,Botas de resistencia,Bastón de tierra,Botas de salto
-Carter,75,3,Arco y flechas
-,Casco de respiración,Flechas envenenadas
-Diana,16,5,Poción de curación
-,Espada,Poción de vuelo,Libro de encantamientos,Pergamino de resurrección
-Lela,41,5,Cetro de sabiduría,Casco de cuero,Flechas de fuego
-,Ballesta pesada,Collar de serpiente
-Kay,22,5,Ballesta,Poción de sueño,Amuleto de poder
-,Arco largo,Libro de encantamientos
-Diane,94,8,Martillo de guerra
-,Varita mágica,Cinturón de levitación,Capa de invisibilidad,Botas de salto,Arco largo,Pergamino de tormenta,Bastón de ilusiones
-Latricia,81,1,Hacha de relámpago
-
-Dave2,11,8,Libro de runas,Varita de estrellas,Ballesta,Varita de control mental,Piedra de iluminación
-,Amuleto de curación,Antorcha mágica,Poción de vida
-Dave3,81,2,Grimorio antiguo
-,Poción de vuelo
-Jacqueline,21,2,Cinturón de levitación
-,Amuleto de curación
-Jeanine,30,8,Cetro de fuego,Anillo de protección,Poción de invisibilidad,Guantes de destreza,Arco de hielo,Escudo de madera,Armadura de huesos
-,Grimorio antiguo
-Sylvia,84,6,Lanza de oscuridad,Antorcha mágica
-,Arco de viento,Poción de regeneración,Grimorio de sombras,Casco de visión
-Gloria2,86,4,Botas de agilidad,Casco de hierro,Capa de invisibilidad
-,Anillo de teletransporte
-Tim,94,7,Poción de curación,Piedra de iluminación,Hacha de relámpago,Varita de control mental,Flechas envenenadas,Escudo
-,Daga
+Aaron,61,5,Grimorio de sombras,Capa de invisibilidad,Capa de sombras,Guantes de destreza,Poción de rapidez
+Laurie,38,5,Libro de encantamientos,Casco de hierro,Piedra de fuerza,Cuchillo de sombras,Cuchillo de viento
+Frank,65,5,Cuchillo de sombras,Armadura de cuero,Poción de curación,Capa de invisibilidad,Espada de cristal
+Elizabeth5,68,3,Anillo de evasión,Poción de armadura,Collar de serpiente
+Louise,49,3,Poción de resistencia,Casco de sabiduría,Armadura de acero
+Janelle,33,8,Hacha de relámpago,Poción de sueño,Ballesta pesada,Amuleto de poder,Casco de sabiduría,Cinturón de levitación,Hacha doble,Cota de malla
+Tracey,74,2,Anillo de teletransporte,Ballesta
+Helen2,68,8,Brazalete de fuerza,Cetro de sabiduría,Armadura de acero,Flechas de fuego,Lanza,Poción de sueño,Poción de curación,Lanza de oscuridad
+Kimberly3,60,3,Piedra de revivir,Poción de invisibilidad,Armadura de escamas
+Mary3,73,6,Poción de vida,Cetro de sabiduría,Varita de control mental,Lanza,Cota de malla,Poción de resistencia
+Jerry3,27,4,Guantes de escalada,Hacha de guerra,Libro de runas,Amuleto de poder
+Daniel3,83,1,Martillo de guerra
+Maria,19,3,Botas de agilidad,Martillo de guerra,Casco de batalla
+Elida,54,8,Casco de respiración,Cuchillo de sombras,Antorcha mágica,Poción de resistencia,Bastón de ilusiones,Ballesta,Arco de viento,Piedra de teletransporte
+Inez,76,6,Escudo de madera,Armadura de escamas,Lanza de luz,Ballesta,Libro de encantamientos,Anillo de teletransporte
+Tina,46,1,Hacha doble
+Robert5,52,4,Guantes de escalada,Poción de resistencia,Piedra de fuerza,Guantes de destreza
+Hugo,35,2,Poción de resistencia,Escudo de espinas
+John7,70,1,Arco de hielo
+Rickey,93,1,Anillo de teletransporte
+James3,14,5,Antorcha mágica,Escudo de luz,Escudo de madera,Pergamino de resurrección,Collar de serpiente
+Myles,89,5,Hacha de piedra,Armadura de cuero,Poción de resistencia,Amuleto de poder,Cetro de sabiduría
+Willow,96,3,Varita mágica,Hacha doble,Lanza de oscuridad
+Jill,99,8,Poción de vida,Varita de rayos,Martillo de destrucción,Bastón de ilusiones,Capa de sombras,Cota de malla,Armadura de mithril,Grimorio de sombras
+Wendy,27,2,Martillo de guerra,Pergamino de tormenta
+Rosalinda2,88,6,Poción de sueño,Lanza,Piedra de iluminación,Arco de viento,Antorcha mágica,Poción de velocidad
+Frederick,34,5,Armadura de cristal,Casco de respiración,Piedra de revivir,Armadura de escamas,Espada de fuego
+Larry,51,5,Hacha de relámpago,Espada de fuego,Pergamino de resurrección,Casco de sabiduría,Collar de serpiente
+Brenda3,78,8,Amuleto de poder,Espada,Guantes de destreza,Poción de curación,Pergamino de resurrección,Cadenas de restricción,Martillo de guerra,Varita de control mental
+Thomas2,83,3,Armadura de cuero,Libro de runas,Libro de hechizos
+Eric3,80,8,Cuchillo de viento,Poción de invisibilidad,Pergamino de tormenta,Arco y flechas,Varita de estrellas,Cetro de hielo,Cuchillo arrojadizo,Arco de hielo
+Ruth2,79,5,Lanza,Lanza de oscuridad,Anillo de protección,Cota de malla,Varita de rayos
+Stephanie2,53,3,Escudo de espinas,Amuleto de curación,Armadura de huesos
+Steven2,55,4,Escudo de espinas,Martillo de guerra,Lanza de oscuridad,Cetro de hielo
+Andres,70,6,Espada de cristal,Anillo de evasión,Armadura de cuero,Armadura de acero,Varita mágica,Capa de invisibilidad
+William4,47,2,Guantes de escalada,Botas de salto
+Sandra,14,2,Varita de estrellas,Casco de sabiduría
+Eric4,60,3,Cetro de hielo,Escudo,Armadura de acero
+Otis,38,1,Capa del viento
+Vivian,70,1,Lanza de oscuridad
+Lisa3,94,6,Capa del viento,Cinturón de levitación,Armadura de acero,Bastón de tierra,Cetro de fuego,Armadura de mithril
+Vanessa,74,7,Piedra de iluminación,Libro de runas,Piedra de teletransporte,Cadenas de restricción,Flechas envenenadas,Poción de vuelo,Varita de estrellas
+Jeffery2,14,4,Varita de estrellas,Guantes de escalada,Collar de serpiente,Flechas de fuego
+Charles4,94,5,Armadura de huesos,Cetro de fuego,Poción de sueño,Varita mágica,Poción de velocidad
+Anna2,97,3,Cinturón de levitación,Libro de encantamientos,Guantes de escalada
+Roberto,53,7,Pergamino de resurrección,Varita de control mental,Arco largo,Cuchillo de sombras,Espada de fuego,Piedra de fuerza,Anillo de evasión
+Allie,25,7,Guantes de escalada,Capa de invisibilidad,Pergamino de sellado,Capa de sombras,Lanza de oscuridad,Bastón de tierra,Brazalete de fuerza
+Israel,100,8,Anillo de vida,Espada,Guantes de escalada,Armadura de cristal,Cadenas de restricción,Ballesta,Cetro de sabiduría,Arco de viento
+Thomas3,53,2,Casco de cuero,Anillo de vida
+Karen,39,6,Poción de vuelo,Poción de regeneración,Casco de hierro,Anillo de evasión,Poción de resistencia,Amuleto de curación
+George3,100,8,Capa de invisibilidad,Poción de regeneración,Ballesta pesada,Collar de serpiente,Cuchillo de viento,Grimorio de sombras,Hacha doble,Lanza de oscuridad
+Tracey2,37,8,Poción de regeneración,Poción de escarcha,Arco largo,Lanza de oscuridad,Grimorio de sombras,Armadura de cristal,Poción de armadura,Anillo de protección
+Dominga,44,8,Armadura de huesos,Poción de armadura,Cuchillo de viento,Cuchillo arrojadizo,Capa del viento,Cetro de hielo,Espada de cristal,Armadura de mithril
+Paula,76,5,Armadura de cuero,Capa del viento,Amuleto de poder,Bastón de tierra,Poción de vuelo
+Gertrude3,12,4,Poción de vida,Armadura de cristal,Casco de cuero,Hacha de relámpago
 Gregory,12,2,Anillo de vida,Pergamino de invocación
-
-Elizabeth2,17,5,Martillo de guerra
-,Antorcha mágica,Armadura de acero,Anillo de teletransporte,Casco de visión
-Elizabeth3,14,3,Lanza,Varita de estrellas
-,Antorcha mágica
-Elizabeth4,34,4,Lanza de oscuridad,Ballesta,Cuchillo de sombras
-,Daga
-Elizabeth5,68,3,Collar de serpiente
-,Anillo de evasión,Poción de armadura
-Darlene,86,1,Poción de regeneración
-
-Timothy,18,4,Pergamino de sellado,Ballesta pesada,Armadura de escamas
-,Amuleto de poder
-Ken,82,4,Martillo de guerra
-,Armadura de huesos,Capa de invisibilidad,Botas de salto
-Alyson,36,3,Cetro de sabiduría,Libro de hechizos
-,Casco de batalla
-Carol,30,6,Arco y flechas,Cuchillo de sombras,Poción de rapidez
-,Ballesta pesada,Espada de cristal,Armadura de mithril
-Christina2,51,7,Cetro de fuego,Varita de rayos,Poción de resistencia,Poción de velocidad
-,Hacha de guerra,Poción de sueño,Antorcha mágica
+Francis,30,6,Poción de sueño,Cetro de sabiduría,Espada,Poción de armadura,Poción de resistencia,Guantes de destreza
+Gary,99,8,Armadura de escamas,Bastón de tierra,Pergamino de resurrección,Ballesta pesada,Poción de curación,Libro de runas,Poción de escarcha,Arco de viento
+Martha3,45,4,Poción de armadura,Libro de hechizos,Cinturón de levitación,Poción de vida
+Joseph2,20,1,Arco de hielo
+Kent,43,8,Varita de control mental,Escudo de luz,Poción de velocidad,Daga,Capa del viento,Anillo de evasión,Cuchillo de viento,Armadura de escamas
+Betty2,56,7,Collar de serpiente,Poción de curación,Varita de control mental,Martillo de guerra,Lanza de luz,Cinturón de levitación,Bastón de ilusiones
+Carl,15,6,Poción de sueño,Poción de rapidez,Poción de fuerza,Casco de hierro,Casco de respiración,Martillo de destrucción
+Stephanie3,98,2,Poción de escarcha,Escudo
+Guy,38,5,Arco de viento,Piedra de teletransporte,Grimorio antiguo,Botas de agilidad,Capa de sombras
+Michael6,52,8,Arco y flechas,Cota de malla,Capa de sombras,Piedra de iluminación,Espada,Casco de respiración,Botas de agilidad,Brazalete de fuerza
+Kerry,21,3,Armadura de acero,Botas de salto,Pergamino de invocación
+Lloyd,17,1,Arco y flechas
+Weldon,54,6,Armadura de acero,Escudo de madera,Cota de malla,Pergamino de sellado,Libro de runas,Cuchillo de viento
+Carol,30,6,Ballesta pesada,Cuchillo de sombras,Armadura de mithril,Arco y flechas,Espada de cristal,Poción de rapidez
+Norma,88,4,Flechas de fuego,Arco largo,Grimorio de sombras,Armadura de oscuridad
+Hester,66,6,Escudo,Poción de regeneración,Anillo de teletransporte,Casco de cuero,Casco de visión,Grimorio de sombras
+Terry2,10,1,Varita de rayos
+Raymond3,48,8,Espada de cristal,Amuleto de curación,Guantes de destreza,Capa del viento,Cetro de hielo,Armadura de mithril,Escudo de espinas,Piedra de teletransporte
+William5,37,7,Arco y flechas,Cetro de hielo,Poción de vida,Casco de respiración,Espada,Cadenas de restricción,Grimorio de sombras
+Amber,55,4,Lanza de luz,Guantes de destreza,Poción de vuelo,Espada de cristal
+Sherlyn,49,3,Botas de agilidad,Piedra de teletransporte,Martillo de destrucción
+Kim,95,5,Grimorio antiguo,Arco largo,Cetro de sabiduría,Escudo de madera,Pergamino de tormenta
+Edward2,94,5,Pergamino de invocación,Piedra de teletransporte,Collar de serpiente,Capa del viento,Hacha de piedra
+Gary2,59,7,Varita de estrellas,Martillo de guerra,Escudo de madera,Escudo,Cota de malla,Poción de vida,Grimorio de sombras
+Edna,61,3,Espada de fuego,Poción de velocidad,Arco de hielo
+Amy,71,1,Collar de serpiente
+Laura2,36,4,Hacha de guerra,Anillo de teletransporte,Botas de agilidad,Arco y flechas
+Michael7,24,7,Botas de salto,Collar de serpiente,Poción de sueño,Libro de runas,Anillo de evasión,Piedra de fuerza,Pergamino de resurrección
+Susan2,69,1,Arco de hielo
+Deborah2,23,7,Grimorio de sombras,Libro de encantamientos,Poción de sueño,Capa del viento,Varita de rayos,Cuchillo de viento,Poción de vuelo
+Laura3,55,3,Cuchillo de sombras,Cadenas de restricción,Cuchillo de viento
+Robert6,66,5,Armadura de oscuridad,Armadura de huesos,Anillo de teletransporte,Poción de sueño,Armadura de cuero
+Kenneth,52,5,Pergamino de tormenta,Cetro de sabiduría,Hacha doble,Armadura de huesos,Varita mágica
+Richard2,63,8,Cuchillo de viento,Piedra de fuerza,Flechas de fuego,Martillo de guerra,Cuchillo arrojadizo,Guantes de escalada,Ballesta pesada,Armadura de cristal
+Edna2,48,1,Armadura de cristal
+Georgiana,66,2,Poción de curación,Amuleto de poder
+Douglas2,11,3,Pergamino de resurrección,Cetro de sabiduría,Armadura de huesos
+Tiffany,23,7,Cetro de fuego,Guantes de escalada,Anillo de teletransporte,Varita de control mental,Martillo de destrucción,Poción de resistencia,Anillo de vida
+Dustin,20,3,Pergamino de sellado,Varita mágica,Martillo de guerra
+Maria2,50,6,Armadura de cuero,Grimorio de sombras,Cota de malla,Escudo de espinas,Botas de agilidad,Anillo de protección
+Jimmy2,52,3,Armadura de huesos,Capa del viento,Piedra de revivir
+William6,38,6,Poción de curación,Armadura de acero,Casco de visión,Antorcha mágica,Varita mágica,Varita de estrellas
+John8,51,4,Cetro de hielo,Arco de hielo,Botas de resistencia,Armadura de cuero
+Lori,69,6,Escudo de luz,Poción de vuelo,Capa de sombras,Grimorio antiguo,Poción de fuerza,Escudo de madera
+Donald2,64,1,Botas de agilidad
+Roberto2,20,5,Piedra de iluminación,Piedra de revivir,Martillo de destrucción,Lanza de oscuridad,Cuchillo de viento
 Christina3,17,1,Botas de salto
-
-Christina4,41,3,Poción de armadura
-,Poción de invisibilidad,Armadura de huesos
+David5,63,8,Armadura de escamas,Armadura de acero,Armadura de cristal,Botas de agilidad,Capa de invisibilidad,Pergamino de resurrección,Piedra de teletransporte,Lanza
+Shannon2,46,4,Poción de regeneración,Poción de sueño,Casco de cuero,Casco de hierro
+Melissa,27,5,Flechas de fuego,Pergamino de sellado,Anillo de teletransporte,Lanza de luz,Anillo de evasión
+Richard3,83,1,Amuleto de poder
+William7,68,1,Poción de resistencia
+Willie,100,8,Grimorio antiguo,Poción de rapidez,Poción de velocidad,Casco de visión,Libro de encantamientos,Casco de sabiduría,Botas de agilidad,Ballesta pesada
+Betty3,36,4,Piedra de teletransporte,Bastón de tierra,Pergamino de invocación,Pergamino de tormenta
+David6,66,8,Bastón de tierra,Armadura de huesos,Botas de resistencia,Armadura de cuero,Armadura de escamas,Capa de sombras,Amuleto de curación,Hacha de piedra
+Lydia,95,2,Casco de visión,Lanza
+Craig,61,5,Capa de sombras,Armadura de cuero,Poción de sueño,Varita mágica,Ballesta
+Anthony2,91,1,Armadura de mithril
+Nelson,65,7,Piedra de iluminación,Hacha de guerra,Poción de curación,Arco de hielo,Espada de cristal,Varita de control mental,Escudo de espinas
+Brett,24,7,Pergamino de sellado,Bastón de ilusiones,Poción de escarcha,Armadura de oscuridad,Grimorio antiguo,Pergamino de tormenta,Lanza de oscuridad
+Carmen,56,5,Grimorio de sombras,Cota de malla,Botas de agilidad,Escudo,Ballesta pesada
+Renee,65,7,Escudo de madera,Hacha doble,Collar de serpiente,Poción de resistencia,Escudo de luz,Brazalete de fuerza,Varita mágica
+Bernice2,55,6,Cinturón de levitación,Poción de vida,Armadura de huesos,Hacha doble,Varita de estrellas,Anillo de protección
+Dave,12,4,Arco largo,Lanza de luz,Grimorio de sombras,Casco de batalla
+Charles5,33,7,Libro de encantamientos,Piedra de teletransporte,Casco de hierro,Cetro de fuego,Pergamino de resurrección,Poción de escarcha,Brazalete de fuerza
+Barbara2,27,5,Lanza de oscuridad,Cadenas de restricción,Anillo de evasión,Poción de vida,Escudo de espinas
+Ronald,79,1,Poción de sueño
+Lloyd2,20,2,Libro de encantamientos,Armadura de cristal
+Susan3,84,1,Poción de regeneración
+James4,26,3,Escudo de espinas,Hacha doble,Piedra de fuerza
+Rebecca4,93,1,Arco de viento
+Hassan,26,1,Arco de viento
+Gertrude4,76,4,Piedra de iluminación,Cetro de sabiduría,Hacha de guerra,Poción de regeneración
+William8,35,5,Lanza de oscuridad,Martillo de destrucción,Poción de velocidad,Ballesta,Espada de cristal
+Paul3,46,3,Arco y flechas,Escudo de madera,Varita mágica
+Vivian2,56,8,Grimorio antiguo,Botas de salto,Libro de runas,Grimorio de sombras,Lanza de luz,Piedra de revivir,Bastón de ilusiones,Lanza
+David7,33,5,Daga,Amuleto de poder,Arco y flechas,Casco de visión,Escudo de luz
+Brenda4,90,7,Armadura de mithril,Espada de fuego,Arco de hielo,Lanza,Pergamino de invocación,Bastón de ilusiones,Piedra de teletransporte
+Laura4,50,7,Daga,Espada de cristal,Bastón de tierra,Varita de control mental,Casco de hierro,Casco de sabiduría,Poción de velocidad
+Jeffrey3,33,4,Armadura de escamas,Cinturón de levitación,Armadura de cuero,Daga
+Dave2,11,8,Antorcha mágica,Varita de control mental,Poción de vida,Ballesta,Libro de runas,Varita de estrellas,Amuleto de curación,Piedra de iluminación
+Jessica5,93,1,Capa del viento
+James5,77,7,Cota de malla,Cadenas de restricción,Arco de hielo,Guantes de destreza,Poción de vida,Poción de vuelo,Casco de sabiduría
+Andres2,84,7,Cetro de fuego,Piedra de iluminación,Poción de rapidez,Espada de fuego,Espada,Grimorio de sombras,Varita de estrellas
+Mary4,32,2,Hacha de piedra,Pergamino de invocación
+Christy,60,3,Armadura de cristal,Poción de vida,Casco de hierro
+Donald3,36,2,Botas de resistencia,Cuchillo de sombras
+Patricia2,69,2,Armadura de cuero,Casco de hierro
+Theodore,26,4,Antorcha mágica,Poción de velocidad,Escudo de luz,Armadura de cristal
+Robert7,91,2,Pergamino de invocación,Poción de curación
+Jacob,54,6,Ballesta,Amuleto de poder,Varita de rayos,Libro de runas,Collar de serpiente,Lanza
+Margaret3,57,2,Cinturón de levitación,Poción de sueño
+Ismael,50,3,Armadura de escamas,Poción de vuelo,Cuchillo arrojadizo
+Travis,25,8,Armadura de acero,Guantes de escalada,Amuleto de poder,Cuchillo arrojadizo,Espada,Anillo de vida,Hacha de piedra,Pergamino de sellado
+Jennifer3,45,8,Botas de salto,Lanza,Anillo de vida,Armadura de huesos,Varita de estrellas,Armadura de escamas,Arco de viento,Poción de escarcha
+Annie,69,6,Piedra de fuerza,Casco de batalla,Lanza de oscuridad,Poción de sueño,Anillo de teletransporte,Cota de malla
+Chris,55,1,Cuchillo de viento
+Rose,52,4,Cota de malla,Espada de cristal,Amuleto de poder,Cuchillo de sombras
+Roberta,95,1,Antorcha mágica
+Jacqueline,21,2,Amuleto de curación,Cinturón de levitación
+Sara2,20,6,Botas de agilidad,Botas de salto,Cinturón de levitación,Libro de hechizos,Varita mágica,Poción de sueño
+Christopher2,85,7,Ballesta pesada,Espada,Libro de encantamientos,Pergamino de invocación,Cetro de fuego,Poción de escarcha,Casco de sabiduría
+Terry3,79,2,Espada,Hacha de guerra
+Ronald2,52,8,Casco de sabiduría,Arco de viento,Piedra de iluminación,Capa de invisibilidad,Poción de fuerza,Armadura de oscuridad,Poción de velocidad,Poción de invisibilidad
+Ted,53,2,Ballesta pesada,Flechas envenenadas
+Richard4,48,7,Armadura de huesos,Poción de invisibilidad,Armadura de oscuridad,Flechas de fuego,Guantes de escalada,Martillo de guerra,Hacha de guerra
+Gary3,33,8,Piedra de iluminación,Casco de visión,Libro de runas,Cuchillo arrojadizo,Cetro de fuego,Casco de hierro,Cadenas de restricción,Escudo de espinas
+Betty4,45,3,Cuchillo arrojadizo,Grimorio de sombras,Armadura de mithril
+Tracey3,25,5,Arco largo,Armadura de acero,Cetro de fuego,Pergamino de sellado,Poción de curación
+Kimberly4,84,3,Piedra de iluminación,Anillo de vida,Guantes de destreza
+Christian,54,1,Antorcha mágica
+Bernard2,47,1,Guantes de destreza
+Diane,94,8,Pergamino de tormenta,Arco largo,Bastón de ilusiones,Capa de invisibilidad,Cinturón de levitación,Botas de salto,Varita mágica,Martillo de guerra
+Jim2,62,5,Antorcha mágica,Espada de fuego,Flechas envenenadas,Armadura de cuero,Poción de fuerza
+Christy2,88,3,Armadura de mithril,Armadura de cuero,Anillo de teletransporte
+Ashlie2,44,5,Cadenas de restricción,Lanza de oscuridad,Cetro de sabiduría,Capa de invisibilidad,Piedra de revivir
+Barbara3,15,2,Antorcha mágica,Armadura de cristal
+Leslie,76,8,Botas de agilidad,Capa de invisibilidad,Cuchillo de viento,Brazalete de fuerza,Pergamino de tormenta,Casco de hierro,Varita de control mental,Pergamino de invocación
+Jill2,94,7,Poción de sueño,Casco de sabiduría,Flechas envenenadas,Escudo de luz,Pergamino de tormenta,Lanza de luz,Anillo de vida
+Karen2,55,8,Guantes de destreza,Piedra de fuerza,Escudo,Escudo de luz,Escudo de espinas,Varita de rayos,Ballesta pesada,Libro de encantamientos
+Kathleen,16,5,Varita de rayos,Poción de invisibilidad,Martillo de guerra,Casco de batalla,Anillo de protección
+Helen3,37,2,Amuleto de curación,Escudo de madera
+Virginia,63,1,Escudo
+Joseph3,33,6,Poción de resistencia,Cetro de sabiduría,Casco de sabiduría,Antorcha mágica,Botas de agilidad,Amuleto de poder
+Lisa4,95,7,Poción de vida,Martillo de destrucción,Arco de viento,Armadura de mithril,Cuchillo arrojadizo,Cuchillo de sombras,Poción de resistencia
+Shannon3,28,4,Poción de rapidez,Poción de regeneración,Armadura de cristal,Cuchillo de sombras
+Tabatha,94,2,Piedra de revivir,Pergamino de invocación
+Kent2,86,4,Arco de viento,Armadura de oscuridad,Libro de encantamientos,Lanza
+Steve2,55,7,Poción de resistencia,Anillo de teletransporte,Hacha de relámpago,Casco de cuero,Botas de salto,Cetro de sabiduría,Pergamino de sellado
+Mattie,53,2,Anillo de teletransporte,Martillo de destrucción
+Roger2,76,5,Armadura de cuero,Poción de fuerza,Escudo de espinas,Piedra de teletransporte,Martillo de destrucción
+Helen4,95,5,Armadura de mithril,Casco de hierro,Arco de hielo,Daga,Botas de resistencia
+Donald4,100,1,Casco de sabiduría
+Donald5,64,3,Hacha de piedra,Casco de sabiduría,Armadura de escamas
+Kathleen2,24,5,Grimorio antiguo,Lanza,Botas de salto,Ballesta pesada,Varita mágica
+Mitchell,12,6,Poción de sueño,Flechas de fuego,Arco largo,Piedra de fuerza,Anillo de teletransporte,Flechas envenenadas
+Lauren,79,1,Casco de sabiduría
+Gerald,37,3,Casco de batalla,Arco y flechas,Poción de escarcha
+Kelly4,47,4,Bastón de ilusiones,Libro de runas,Cadenas de restricción,Cota de malla
+Haley,97,6,Poción de armadura,Piedra de fuerza,Piedra de revivir,Casco de sabiduría,Poción de velocidad,Pergamino de invocación
+Richard5,13,7,Espada de cristal,Botas de salto,Casco de batalla,Poción de vuelo,Daga,Poción de velocidad,Poción de armadura
+Timothy3,52,6,Anillo de protección,Libro de hechizos,Flechas envenenadas,Botas de agilidad,Botas de salto,Cetro de sabiduría
+Patricia3,63,6,Anillo de vida,Pergamino de resurrección,Botas de agilidad,Cota de malla,Libro de runas,Armadura de mithril
+Myra,43,5,Poción de rapidez,Casco de cuero,Lanza de luz,Poción de fuerza,Poción de sueño
+Shirley,69,1,Casco de hierro
+Deanna,74,3,Pergamino de invocación,Piedra de revivir,Botas de resistencia
+Eliza,21,6,Libro de runas,Cetro de sabiduría,Grimorio de sombras,Martillo de guerra,Flechas de fuego,Anillo de protección
+Jefferey,44,7,Botas de agilidad,Arco de viento,Hacha de guerra,Antorcha mágica,Cadenas de restricción,Bastón de ilusiones,Libro de hechizos
+Karen3,34,8,Poción de vida,Escudo,Botas de agilidad,Casco de sabiduría,Capa de invisibilidad,Capa del viento,Piedra de revivir,Anillo de evasión
+Helen5,81,2,Poción de vida,Pergamino de invocación
+Carter,75,3,Flechas envenenadas,Casco de respiración,Arco y flechas
+Darlene,86,1,Poción de regeneración
+Diana,16,5,Espada,Libro de encantamientos,Pergamino de resurrección,Poción de vuelo,Poción de curación
+Carol2,67,7,Arco de hielo,Ballesta pesada,Varita mágica,Espada,Arco largo,Cetro de hielo,Libro de encantamientos
+Evelyn2,75,5,Amuleto de poder,Ballesta pesada,Brazalete de fuerza,Cuchillo de sombras,Botas de resistencia
+Ann2,94,8,Escudo,Poción de escarcha,Cetro de hielo,Varita de estrellas,Cinturón de levitación,Escudo de espinas,Cuchillo de viento,Libro de runas
+Karen4,65,5,Varita de rayos,Casco de visión,Piedra de iluminación,Cadenas de restricción,Anillo de evasión
+Jennifer4,66,5,Poción de velocidad,Ballesta,Martillo de guerra,Cuchillo de viento,Poción de armadura
+Helen6,43,5,Poción de velocidad,Arco de viento,Hacha de relámpago,Varita de control mental,Poción de regeneración
+John9,14,7,Cetro de fuego,Poción de fuerza,Arco de viento,Pergamino de tormenta,Brazalete de fuerza,Amuleto de curación,Pergamino de resurrección
+Robin4,28,7,Arco de viento,Lanza de oscuridad,Pergamino de invocación,Casco de batalla,Casco de respiración,Poción de sueño,Hacha doble
+Thomas4,69,2,Escudo de espinas,Espada de fuego
+Adam,64,5,Armadura de huesos,Flechas de fuego,Martillo de destrucción,Libro de runas,Botas de resistencia
+Rosa,15,2,Flechas envenenadas,Espada
+Robin5,36,7,Pergamino de invocación,Cetro de fuego,Espada de cristal,Escudo de espinas,Martillo de guerra,Flechas envenenadas,Guantes de escalada
+Robert8,33,3,Lanza de luz,Cuchillo de viento,Varita de estrellas
+Alfred,53,7,Poción de sueño,Hacha doble,Armadura de oscuridad,Poción de curación,Escudo de luz,Poción de vuelo,Poción de rapidez
+Marilyn,32,6,Martillo de guerra,Casco de cuero,Piedra de fuerza,Arco largo,Varita de estrellas,Piedra de revivir
+Valarie,84,7,Cetro de fuego,Capa de sombras,Martillo de guerra,Varita de control mental,Martillo de destrucción,Collar de serpiente,Lanza de oscuridad
+Carolyn,32,6,Lanza,Capa del viento,Guantes de destreza,Flechas de fuego,Grimorio antiguo,Casco de visión
+Mary5,60,7,Lanza,Poción de vida,Hacha de piedra,Grimorio antiguo,Piedra de iluminación,Escudo de madera,Poción de fuerza
+Ginger,29,6,Bastón de ilusiones,Varita de estrellas,Libro de encantamientos,Hacha de relámpago,Capa de sombras,Cadenas de restricción
+Thomas5,39,2,Guantes de escalada,Pergamino de sellado
+Carrol,52,3,Flechas de fuego,Botas de agilidad,Armadura de mithril
+Chuck,73,5,Pergamino de invocación,Libro de runas,Guantes de escalada,Pergamino de sellado,Arco de hielo
+Nancy,66,5,Daga,Pergamino de tormenta,Libro de hechizos,Escudo,Piedra de teletransporte
+Hilary,27,8,Pergamino de sellado,Espada,Piedra de revivir,Grimorio antiguo,Ballesta pesada,Piedra de teletransporte,Poción de velocidad,Cuchillo arrojadizo
+Robert9,91,2,Lanza,Bastón de tierra
+Melissa2,13,2,Martillo de destrucción,Piedra de iluminación
+Douglas3,32,7,Varita de rayos,Casco de visión,Piedra de fuerza,Anillo de evasión,Cuchillo de viento,Hacha de guerra,Varita de estrellas
+David8,57,7,Piedra de iluminación,Pergamino de resurrección,Cinturón de levitación,Poción de rapidez,Cuchillo de viento,Grimorio de sombras,Capa del viento
+Jasmine,15,2,Collar de serpiente,Pergamino de sellado
+Jose3,78,5,Ballesta pesada,Hacha doble,Martillo de guerra,Brazalete de fuerza,Arco largo
+Susan4,89,8,Armadura de huesos,Anillo de protección,Varita mágica,Casco de respiración,Piedra de iluminación,Poción de vuelo,Collar de serpiente,Lanza de oscuridad
+John10,15,6,Pergamino de resurrección,Lanza,Casco de respiración,Anillo de teletransporte,Escudo,Armadura de escamas
+Richard6,98,4,Flechas envenenadas,Piedra de fuerza,Bastón de ilusiones,Arco y flechas
+Tiffany2,12,6,Cetro de fuego,Libro de encantamientos,Amuleto de curación,Espada,Flechas envenenadas,Hacha de guerra
+Lillian,75,2,Lanza de oscuridad,Botas de agilidad
+Bobby2,69,1,Martillo de guerra
+Wesley,50,7,Armadura de cristal,Cadenas de restricción,Arco largo,Anillo de vida,Poción de vida,Grimorio de sombras,Daga
+Michael8,25,1,Varita de rayos
+Theresa2,10,7,Amuleto de curación,Pergamino de tormenta,Cadenas de restricción,Guantes de escalada,Espada de fuego,Ballesta,Capa del viento
+Peter2,77,5,Poción de fuerza,Espada de cristal,Casco de sabiduría,Poción de rapidez,Cota de malla
+Sandra2,100,3,Antorcha mágica,Arco de hielo,Casco de batalla
+Jonathan2,61,4,Armadura de huesos,Poción de regeneración,Poción de resistencia,Armadura de oscuridad
+Gwendolyn,49,2,Capa de invisibilidad,Amuleto de curación
+Lillian2,13,4,Bastón de ilusiones,Collar de serpiente,Martillo de destrucción,Casco de batalla
+Sara3,46,1,Pergamino de sellado
+Joe,37,7,Poción de vuelo,Cetro de hielo,Espada de cristal,Arco y flechas,Brazalete de fuerza,Piedra de iluminación,Varita de rayos
+Nicole2,28,6,Piedra de revivir,Botas de resistencia,Hacha de guerra,Flechas envenenadas,Bastón de tierra,Poción de velocidad
+Tara2,97,2,Poción de invisibilidad,Espada de fuego
+April2,56,7,Bastón de tierra,Anillo de teletransporte,Escudo de luz,Capa del viento,Arco de viento,Casco de visión,Poción de regeneración
+Lynn,66,1,Hacha de guerra
+Julia2,24,2,Guantes de escalada,Casco de batalla
+Ronald3,65,3,Capa de invisibilidad,Poción de resistencia,Cuchillo de viento
+Melanie2,14,3,Botas de resistencia,Martillo de guerra,Anillo de protección
+Wayne,45,1,Piedra de fuerza
+Shana,55,3,Capa de sombras,Pergamino de resurrección,Cadenas de restricción
+Edward3,51,2,Bastón de tierra,Poción de regeneración
+Roland,73,4,Lanza de oscuridad,Piedra de fuerza,Pergamino de sellado,Espada
+Chuck2,52,3,Poción de resistencia,Libro de encantamientos,Grimorio antiguo
+Gertrude5,87,5,Hacha de guerra,Arco y flechas,Armadura de cuero,Hacha doble,Poción de armadura
+Frank2,79,6,Armadura de cristal,Poción de resistencia,Piedra de fuerza,Pergamino de resurrección,Pergamino de tormenta,Lanza de luz
+Stacy2,78,3,Brazalete de fuerza,Libro de runas,Bastón de tierra
+Robert10,20,6,Poción de regeneración,Cota de malla,Martillo de guerra,Botas de salto,Hacha de guerra,Anillo de vida
+Yvonne,95,5,Cuchillo de viento,Armadura de cuero,Poción de vuelo,Pergamino de resurrección,Espada
+James6,65,1,Lanza de luz
+Barbara4,62,5,Arco de viento,Arco y flechas,Poción de regeneración,Escudo de luz,Lanza
+Carol3,57,8,Botas de agilidad,Armadura de acero,Amuleto de curación,Armadura de cuero,Hacha de piedra,Piedra de fuerza,Lanza,Hacha de relámpago
+Bernard3,49,5,Escudo de madera,Amuleto de poder,Hacha de guerra,Poción de escarcha,Hacha doble
+Tony,43,4,Lanza de oscuridad,Armadura de mithril,Cadenas de restricción,Armadura de cristal
+Greg2,80,7,Poción de rapidez,Poción de resistencia,Martillo de guerra,Pergamino de invocación,Piedra de iluminación,Lanza de oscuridad,Casco de sabiduría
+Arthur,18,2,Arco de hielo,Bastón de ilusiones
+Jane,90,8,Guantes de destreza,Hacha de piedra,Guantes de escalada,Armadura de cristal,Bastón de tierra,Armadura de cuero,Pergamino de invocación,Anillo de teletransporte
+Agnes,10,8,Varita de estrellas,Cetro de fuego,Flechas de fuego,Cinturón de levitación,Lanza de luz,Armadura de mithril,Capa de invisibilidad,Amuleto de curación
+Kenneth2,35,6,Escudo de espinas,Piedra de fuerza,Varita de rayos,Armadura de cristal,Poción de regeneración,Botas de agilidad
+Craig2,36,8,Varita mágica,Espada de fuego,Armadura de huesos,Lanza de oscuridad,Daga,Hacha de piedra,Armadura de mithril,Pergamino de invocación
+David9,73,7,Anillo de protección,Hacha de guerra,Cetro de hielo,Flechas envenenadas,Casco de hierro,Ballesta,Grimorio antiguo
+Jane2,31,7,Cadenas de restricción,Escudo de madera,Poción de resistencia,Hacha doble,Varita mágica,Collar de serpiente,Brazalete de fuerza
+Sophia,67,6,Guantes de destreza,Grimorio antiguo,Libro de runas,Casco de visión,Armadura de cristal,Hacha doble
+Walter2,31,1,Armadura de oscuridad
+Kim2,32,4,Capa de invisibilidad,Brazalete de fuerza,Anillo de teletransporte,Poción de armadura
+Frances3,53,3,Brazalete de fuerza,Guantes de escalada,Botas de salto
+Donald6,74,1,Lanza de oscuridad
+Alma,28,2,Anillo de teletransporte,Anillo de protección
+Sheila,97,8,Armadura de mithril,Amuleto de poder,Escudo de luz,Arco de viento,Grimorio antiguo,Poción de resistencia,Hacha de piedra,Ballesta
+Glenn2,97,3,Poción de vuelo,Casco de hierro,Lanza de oscuridad
+Sarah3,89,5,Armadura de cristal,Piedra de iluminación,Bastón de tierra,Escudo de luz,Ballesta pesada
+Charles6,38,3,Martillo de guerra,Cadenas de restricción,Lanza de luz
+James7,54,6,Lanza,Armadura de cuero,Capa del viento,Armadura de mithril,Poción de fuerza,Bastón de tierra
+Cesar,38,2,Cuchillo arrojadizo,Piedra de revivir
+Sherry,85,6,Botas de agilidad,Poción de escarcha,Cetro de hielo,Poción de armadura,Poción de fuerza,Grimorio de sombras
+Jesse2,39,8,Armadura de acero,Guantes de escalada,Casco de hierro,Armadura de oscuridad,Varita de control mental,Espada,Armadura de escamas,Ballesta
+Joshua,28,5,Escudo de madera,Poción de fuerza,Casco de batalla,Lanza de luz,Poción de vida
+Christina4,41,3,Poción de invisibilidad,Armadura de huesos,Poción de armadura
+Sarah4,67,4,Casco de respiración,Casco de sabiduría,Casco de hierro,Grimorio antiguo
+Ruth3,88,3,Poción de vida,Amuleto de poder,Pergamino de sellado
+Gloria,23,6,Poción de invisibilidad,Cota de malla,Armadura de huesos,Amuleto de curación,Poción de escarcha,Cuchillo de sombras
+Donald7,62,7,Ballesta pesada,Hacha doble,Casco de visión,Capa de invisibilidad,Hacha de guerra,Cetro de sabiduría,Hacha de relámpago
+Margaret4,42,1,Escudo de espinas
+Marvin,78,1,Anillo de teletransporte
+Michael9,50,6,Pergamino de resurrección,Libro de runas,Cuchillo de sombras,Guantes de escalada,Piedra de fuerza,Armadura de cristal
+Bret,15,6,Casco de visión,Anillo de vida,Arco de hielo,Pergamino de invocación,Espada,Varita de rayos
+Michael10,81,6,Casco de hierro,Anillo de protección,Arco largo,Piedra de teletransporte,Anillo de vida,Brazalete de fuerza
+Genia,56,8,Poción de resistencia,Armadura de escamas,Hacha doble,Armadura de huesos,Cuchillo de viento,Collar de serpiente,Varita de control mental,Poción de fuerza
+John11,43,7,Armadura de cuero,Flechas envenenadas,Grimorio de sombras,Cota de malla,Poción de armadura,Cuchillo arrojadizo,Piedra de iluminación
+Marjorie2,55,1,Pergamino de resurrección
+Juana,83,4,Poción de escarcha,Bastón de tierra,Espada de cristal,Botas de salto
+Luis2,56,5,Piedra de fuerza,Flechas de fuego,Poción de rapidez,Varita de rayos,Brazalete de fuerza
+Oscar,45,1,Varita de estrellas
+Raymond4,31,1,Pergamino de invocación
+David10,73,7,Varita mágica,Grimorio antiguo,Escudo,Poción de velocidad,Anillo de evasión,Collar de serpiente,Antorcha mágica
+Cynthia,87,7,Armadura de escamas,Armadura de cuero,Libro de runas,Cetro de sabiduría,Piedra de fuerza,Armadura de mithril,Espada de fuego
+Yesenia,29,3,Poción de regeneración,Botas de salto,Cetro de hielo
+Thomas6,12,7,Cinturón de levitación,Poción de vuelo,Anillo de evasión,Casco de hierro,Espada de cristal,Arco de viento,Cuchillo arrojadizo
+Regina2,13,4,Pergamino de sellado,Poción de curación,Casco de hierro,Escudo
+Christopher3,70,3,Piedra de teletransporte,Cuchillo de viento,Casco de sabiduría
+Marjorie3,12,7,Capa de sombras,Botas de resistencia,Arco largo,Daga,Pergamino de tormenta,Poción de escarcha,Botas de salto
+Lisa5,47,1,Espada de fuego
+Sharon,52,8,Lanza,Poción de vida,Pergamino de resurrección,Piedra de fuerza,Flechas envenenadas,Poción de resistencia,Escudo de espinas,Cuchillo de viento
+Brenda5,52,2,Cadenas de restricción,Armadura de huesos
+Enrique,83,8,Espada de fuego,Cuchillo de sombras,Poción de armadura,Poción de curación,Antorcha mágica,Capa de sombras,Escudo de espinas,Varita de estrellas
+Dale,23,2,Guantes de destreza,Cuchillo de sombras
+Michael11,86,3,Libro de hechizos,Cinturón de levitación,Cetro de fuego
+Jesus,42,3,Anillo de teletransporte,Piedra de fuerza,Espada de fuego
+Holly,43,3,Piedra de iluminación,Pergamino de invocación,Martillo de guerra
+Gene,57,4,Cetro de sabiduría,Poción de regeneración,Capa de sombras,Casco de cuero
+Sabrina,71,3,Poción de sueño,Arco de hielo,Hacha de relámpago
+Alice2,51,5,Cuchillo de sombras,Martillo de destrucción,Poción de vuelo,Bastón de ilusiones,Cetro de hielo
+Patricia4,38,6,Anillo de protección,Poción de resistencia,Capa del viento,Poción de regeneración,Cuchillo de viento,Piedra de fuerza
+Loyd,68,8,Poción de regeneración,Amuleto de poder,Botas de salto,Armadura de huesos,Cuchillo de viento,Capa de sombras,Varita mágica,Ballesta pesada
+Geraldine2,69,1,Casco de respiración
+Mary6,46,5,Anillo de vida,Grimorio antiguo,Capa de sombras,Arco de hielo,Cinturón de levitación
+Peggy,63,2,Daga,Casco de batalla
+Cleo,51,2,Cadenas de restricción,Hacha de piedra
+Myrna,94,5,Capa de sombras,Poción de invisibilidad,Flechas envenenadas,Antorcha mágica,Anillo de teletransporte
+Jean,64,3,Botas de resistencia,Casco de visión,Cuchillo de sombras
+Susie,49,6,Armadura de cuero,Casco de sabiduría,Brazalete de fuerza,Escudo,Hacha de piedra,Poción de velocidad
+Jerome2,56,4,Arco largo,Flechas de fuego,Martillo de guerra,Armadura de cuero
+Cindy,76,5,Anillo de evasión,Poción de vuelo,Ballesta pesada,Piedra de iluminación,Casco de visión
+Jared,94,5,Hacha doble,Varita mágica,Espada de fuego,Amuleto de poder,Libro de encantamientos
+Kathleen3,16,7,Poción de curación,Lanza de luz,Poción de vida,Anillo de vida,Escudo de madera,Cuchillo arrojadizo,Guantes de destreza
+Vaughn,30,7,Piedra de teletransporte,Espada de fuego,Hacha de guerra,Varita de control mental,Botas de salto,Capa de sombras,Arco de hielo
+Peggy2,83,6,Anillo de vida,Guantes de escalada,Daga,Cuchillo de sombras,Poción de rapidez,Grimorio de sombras
+Shirley2,37,1,Poción de velocidad
+Henry2,87,1,Espada
+Winston,78,5,Pergamino de resurrección,Libro de runas,Anillo de evasión,Poción de curación,Ballesta
+Ivan,62,4,Varita de control mental,Guantes de destreza,Arco y flechas,Grimorio antiguo
+Margaret5,33,8,Arco de viento,Lanza de oscuridad,Pergamino de invocación,Varita de rayos,Cuchillo de sombras,Ballesta pesada,Varita mágica,Capa de invisibilidad
+Tim,94,7,Hacha de relámpago,Daga,Poción de curación,Varita de control mental,Flechas envenenadas,Piedra de iluminación,Escudo
+Theresa3,98,8,Botas de resistencia,Hacha de piedra,Armadura de cristal,Lanza,Armadura de escamas,Cinturón de levitación,Armadura de huesos,Armadura de acero
+George4,97,3,Hacha de guerra,Pergamino de tormenta,Cuchillo de viento
+Brent,80,1,Armadura de huesos
+Nicole3,85,5,Bastón de tierra,Escudo,Cinturón de levitación,Pergamino de sellado,Casco de cuero
+Matthew2,54,4,Botas de resistencia,Varita de estrellas,Lanza,Casco de sabiduría
+Roscoe,75,2,Anillo de vida,Hacha de piedra
+Barbara5,16,3,Hacha de piedra,Poción de sueño,Anillo de teletransporte
+Barry,98,5,Flechas envenenadas,Casco de sabiduría,Poción de sueño,Bastón de ilusiones,Poción de resistencia
+Henry3,65,8,Cetro de fuego,Cuchillo de viento,Capa de invisibilidad,Poción de velocidad,Daga,Bastón de tierra,Piedra de revivir,Arco de hielo
+Kimberly5,68,6,Casco de visión,Espada,Varita mágica,Martillo de destrucción,Escudo de luz,Lanza
+Alexander,15,6,Hacha de guerra,Poción de vuelo,Flechas envenenadas,Poción de vida,Poción de velocidad,Arco largo
+Janice2,64,3,Escudo de espinas,Libro de hechizos,Capa de invisibilidad
+Erik,93,7,Casco de respiración,Pergamino de sellado,Casco de batalla,Poción de resistencia,Cadenas de restricción,Poción de vida,Espada de fuego
+Anne,78,6,Anillo de vida,Bastón de tierra,Piedra de teletransporte,Hacha de piedra,Arco de hielo,Botas de agilidad
+Dave3,81,2,Poción de vuelo,Grimorio antiguo
+Margaret6,45,6,Cadenas de restricción,Casco de visión,Casco de respiración,Poción de velocidad,Guantes de escalada,Armadura de mithril
+Tom,78,3,Martillo de destrucción,Arco largo,Armadura de oscuridad
+Rachel2,73,3,Bastón de ilusiones,Casco de batalla,Amuleto de curación
+Miriam,11,7,Martillo de guerra,Daga,Bastón de tierra,Varita mágica,Libro de hechizos,Pergamino de sellado,Armadura de cuero
+Anthony3,15,6,Casco de visión,Casco de sabiduría,Casco de cuero,Arco de viento,Libro de hechizos,Poción de resistencia
+Brian4,50,5,Flechas envenenadas,Piedra de fuerza,Anillo de teletransporte,Cuchillo arrojadizo,Espada de fuego
+Claudia,78,7,Anillo de vida,Poción de vida,Arco de viento,Libro de runas,Casco de hierro,Antorcha mágica,Poción de curación
+Mary7,91,4,Collar de serpiente,Lanza,Cetro de hielo,Escudo
+John12,13,1,Poción de armadura
+German,36,7,Lanza de oscuridad,Arco de viento,Daga,Botas de agilidad,Anillo de teletransporte,Escudo de espinas,Cinturón de levitación
+Joshua2,88,2,Cinturón de levitación,Pergamino de invocación
+Tina2,85,2,Martillo de guerra,Casco de respiración
+Dale2,16,2,Hacha de guerra,Espada de cristal
+Raymond5,44,5,Poción de regeneración,Armadura de oscuridad,Escudo de espinas,Bastón de ilusiones,Escudo de luz
+Cruz,49,2,Arco de viento,Grimorio antiguo
+Susan5,47,2,Varita de rayos,Espada
+Linda7,49,3,Lanza de luz,Cuchillo arrojadizo,Daga
+Robert11,53,7,Guantes de destreza,Ballesta,Poción de curación,Grimorio de sombras,Poción de rapidez,Anillo de protección,Guantes de escalada
+Patsy,32,4,Hacha doble,Varita mágica,Capa del viento,Anillo de teletransporte
+Miguel2,22,2,Collar de serpiente,Pergamino de tormenta
+Eleanor,99,2,Flechas envenenadas,Amuleto de poder
+Sheila2,84,7,Armadura de acero,Piedra de teletransporte,Casco de hierro,Arco de viento,Poción de armadura,Capa de invisibilidad,Bastón de tierra
+Sylvia,84,6,Arco de viento,Lanza de oscuridad,Casco de visión,Poción de regeneración,Grimorio de sombras,Antorcha mágica
+Alfredo,89,3,Anillo de teletransporte,Poción de velocidad,Escudo
+Dovie,55,6,Espada de fuego,Ballesta pesada,Armadura de cuero,Guantes de destreza,Poción de escarcha,Piedra de teletransporte
+Dixie,16,7,Armadura de cristal,Poción de fuerza,Libro de encantamientos,Poción de vuelo,Flechas envenenadas,Cinturón de levitación,Hacha de guerra
+Samuel,54,7,Poción de vuelo,Amuleto de poder,Lanza de oscuridad,Brazalete de fuerza,Anillo de teletransporte,Arco de viento,Hacha de piedra
+Paul4,43,1,Escudo de luz
+Lori2,52,8,Libro de hechizos,Lanza de luz,Escudo de madera,Armadura de cristal,Botas de salto,Escudo de espinas,Antorcha mágica,Libro de encantamientos
+Lisa6,39,4,Lanza,Armadura de escamas,Martillo de destrucción,Armadura de cuero
+Amos,70,8,Anillo de evasión,Amuleto de curación,Libro de encantamientos,Poción de vida,Pergamino de invocación,Escudo de luz,Grimorio antiguo,Antorcha mágica
+Sally,25,7,Poción de escarcha,Hacha de piedra,Botas de resistencia,Espada de fuego,Poción de curación,Cuchillo de viento,Armadura de cuero
+John13,16,2,Brazalete de fuerza,Escudo
+Janet,23,5,Ballesta,Poción de regeneración,Capa de invisibilidad,Varita de rayos,Armadura de oscuridad
+Barbara6,66,6,Armadura de huesos,Amuleto de poder,Amuleto de curación,Libro de encantamientos,Espada,Poción de escarcha
+Melvin,39,3,Libro de runas,Poción de rapidez,Piedra de revivir
+Douglas4,25,8,Capa de invisibilidad,Armadura de mithril,Anillo de vida,Piedra de teletransporte,Amuleto de poder,Espada,Cetro de hielo,Piedra de fuerza
+Laura5,98,2,Armadura de cristal,Anillo de evasión
+Logan,34,8,Antorcha mágica,Flechas envenenadas,Poción de invisibilidad,Guantes de destreza,Martillo de guerra,Cetro de hielo,Piedra de iluminación,Cuchillo de sombras
+Marjorie4,96,7,Cuchillo de sombras,Anillo de protección,Armadura de mithril,Flechas envenenadas,Piedra de teletransporte,Hacha de piedra,Poción de escarcha
+Nancy2,28,3,Piedra de iluminación,Lanza de luz,Bastón de ilusiones
+Stephen2,59,3,Ballesta,Pergamino de invocación,Casco de respiración
+Timothy4,100,3,Espada de fuego,Poción de armadura,Cuchillo de viento
+Jessica6,25,6,Casco de sabiduría,Poción de sueño,Ballesta,Pergamino de tormenta,Guantes de destreza,Piedra de revivir
+Charles7,91,5,Hacha de guerra,Amuleto de curación,Poción de resistencia,Anillo de teletransporte,Ballesta pesada
+Lewis,41,1,Poción de curación
+Kathy,27,3,Armadura de huesos,Piedra de teletransporte,Poción de sueño
+Francis2,100,4,Flechas envenenadas,Amuleto de curación,Anillo de teletransporte,Cota de malla
+Adam2,33,3,Capa de invisibilidad,Cuchillo arrojadizo,Escudo de luz
+Meagan,36,2,Pergamino de tormenta,Poción de resistencia
+Dawn,43,7,Casco de sabiduría,Poción de velocidad,Casco de hierro,Bastón de tierra,Varita de estrellas,Hacha de piedra,Piedra de teletransporte
+Robert12,20,8,Bastón de ilusiones,Cetro de hielo,Armadura de oscuridad,Poción de regeneración,Bastón de tierra,Casco de batalla,Botas de agilidad,Cuchillo arrojadizo
+Steve3,98,4,Arco y flechas,Piedra de iluminación,Lanza de oscuridad,Amuleto de curación
+Derrick,89,3,Poción de velocidad,Libro de hechizos,Piedra de fuerza
+Earl2,84,4,Hacha doble,Espada,Armadura de escamas,Antorcha mágica
+Erin,81,4,Grimorio antiguo,Lanza de luz,Piedra de fuerza,Martillo de destrucción
+Alex,41,1,Poción de invisibilidad
+Linda8,18,2,Martillo de guerra,Cetro de fuego
+James8,11,1,Hacha de relámpago
+Keisha,94,1,Pergamino de sellado
+Barbara7,38,7,Poción de curación,Espada de cristal,Arco y flechas,Capa del viento,Flechas de fuego,Poción de fuerza,Pergamino de tormenta
+Mark3,64,4,Arco largo,Guantes de destreza,Cota de malla,Escudo de espinas
+Stephen3,54,8,Antorcha mágica,Capa de sombras,Poción de sueño,Martillo de destrucción,Varita de rayos,Armadura de huesos,Arco de viento,Hacha de guerra
+Francisco,51,7,Arco largo,Capa de sombras,Varita de rayos,Casco de sabiduría,Poción de vida,Armadura de cristal,Armadura de oscuridad
+Bonnie,47,3,Casco de cuero,Cuchillo arrojadizo,Piedra de revivir
+Ronald4,81,3,Piedra de iluminación,Varita mágica,Grimorio antiguo
+Lawrence2,39,1,Arco de viento
+Judy,66,4,Poción de velocidad,Pergamino de invocación,Collar de serpiente,Capa de sombras
+Thomas7,51,7,Escudo,Armadura de escamas,Libro de encantamientos,Antorcha mágica,Piedra de teletransporte,Piedra de iluminación,Arco y flechas
+Scott,100,3,Cetro de fuego,Poción de armadura,Varita de control mental
+Katie,83,1,Lanza
+Byron,51,8,Poción de rapidez,Poción de resistencia,Grimorio de sombras,Escudo de luz,Varita de estrellas,Anillo de teletransporte,Pergamino de sellado,Cetro de hielo
+Liana,61,8,Piedra de teletransporte,Casco de cuero,Poción de invisibilidad,Poción de vuelo,Cuchillo de sombras,Poción de regeneración,Escudo de luz,Pergamino de resurrección
+Joe2,37,6,Espada,Guantes de escalada,Casco de visión,Hacha de relámpago,Escudo,Casco de cuero
+Patricia5,17,2,Botas de salto,Armadura de mithril
+Richard7,88,4,Poción de sueño,Flechas envenenadas,Antorcha mágica,Amuleto de curación
+Jared2,75,7,Pergamino de tormenta,Poción de armadura,Cadenas de restricción,Poción de invisibilidad,Cinturón de levitación,Poción de vuelo,Escudo de luz
+William9,84,3,Bastón de tierra,Arco de hielo,Ballesta pesada
+Stacy3,94,7,Espada de fuego,Poción de fuerza,Hacha doble,Armadura de cuero,Poción de armadura,Piedra de iluminación,Poción de rapidez
+Sherry2,38,6,Varita de control mental,Casco de batalla,Escudo de madera,Martillo de destrucción,Poción de escarcha,Grimorio de sombras
+Rhonda,24,8,Poción de escarcha,Collar de serpiente,Poción de curación,Poción de fuerza,Hacha de piedra,Armadura de cuero,Poción de invisibilidad,Pergamino de invocación
+Daphne,64,8,Anillo de vida,Antorcha mágica,Lanza de oscuridad,Cuchillo arrojadizo,Casco de hierro,Cetro de hielo,Poción de vuelo,Casco de batalla
+Jose4,26,2,Anillo de vida,Flechas envenenadas
+Bobby3,73,1,Poción de rapidez
+John14,55,7,Escudo de espinas,Anillo de vida,Hacha doble,Lanza,Piedra de iluminación,Poción de sueño,Daga
+Roxanna,45,8,Botas de resistencia,Cuchillo arrojadizo,Piedra de revivir,Arco de viento,Armadura de cuero,Escudo de madera,Martillo de guerra,Guantes de destreza
+Josephine,37,8,Piedra de revivir,Poción de rapidez,Lanza,Hacha de relámpago,Pergamino de resurrección,Armadura de cuero,Anillo de teletransporte,Poción de velocidad
+Carl2,10,6,Bastón de tierra,Botas de resistencia,Casco de sabiduría,Anillo de vida,Botas de salto,Anillo de evasión
+Thomas8,78,2,Flechas de fuego,Piedra de iluminación
+Jack,65,5,Botas de resistencia,Botas de salto,Capa del viento,Poción de vida,Bastón de ilusiones
+Beulah,72,7,Cetro de hielo,Escudo,Cetro de fuego,Poción de armadura,Casco de hierro,Cinturón de levitación,Varita de control mental
+Eric5,96,2,Arco largo,Poción de regeneración
+Frederick2,27,3,Varita de estrellas,Hacha doble,Cuchillo de sombras
+Robert13,92,4,Ballesta,Arco de hielo,Arco de viento,Casco de batalla
+Lela,41,5,Cetro de sabiduría,Collar de serpiente,Casco de cuero,Ballesta pesada,Flechas de fuego
+Michael12,84,5,Espada de cristal,Escudo de espinas,Anillo de protección,Capa de sombras,Pergamino de resurrección
+Mary8,16,1,Poción de escarcha
+Francisco2,92,4,Grimorio de sombras,Cetro de sabiduría,Varita de control mental,Varita mágica
+Rich2,97,1,Libro de runas
+Richard8,80,1,Casco de visión
+Eldon,21,8,Cetro de sabiduría,Varita de control mental,Botas de salto,Libro de runas,Escudo,Anillo de evasión,Espada de fuego,Anillo de protección
+David11,14,1,Poción de velocidad
+Joseph4,44,2,Anillo de evasión,Cuchillo de viento
+Aldo,22,2,Escudo de luz,Martillo de guerra
+Kurt,17,7,Varita mágica,Varita de rayos,Libro de hechizos,Amuleto de poder,Escudo de espinas,Poción de regeneración,Libro de runas
+Russell2,63,3,Poción de sueño,Poción de regeneración,Armadura de oscuridad
+Santos,90,4,Bastón de ilusiones,Espada de cristal,Casco de visión,Casco de hierro
+Robert14,66,6,Armadura de huesos,Brazalete de fuerza,Lanza,Anillo de teletransporte,Capa de invisibilidad,Ballesta pesada
+Mark4,60,1,Cetro de hielo
+Graciela,11,7,Amuleto de curación,Brazalete de fuerza,Grimorio antiguo,Ballesta pesada,Daga,Capa de sombras,Casco de hierro
+Dorothy2,17,4,Espada de fuego,Varita de rayos,Varita de estrellas,Anillo de teletransporte
+Larry2,94,4,Botas de resistencia,Arco y flechas,Poción de resistencia,Escudo de luz
+Suzanne,84,7,Cuchillo arrojadizo,Escudo,Guantes de destreza,Brazalete de fuerza,Hacha de relámpago,Bastón de ilusiones,Poción de curación
+Minh,73,6,Casco de visión,Casco de sabiduría,Hacha de guerra,Casco de cuero,Armadura de acero,Espada
+Richard9,82,6,Botas de resistencia,Anillo de evasión,Bastón de ilusiones,Anillo de teletransporte,Casco de visión,Anillo de vida
+Tammy,68,5,Cetro de hielo,Guantes de destreza,Arco de viento,Cetro de fuego,Daga
+Belinda,50,4,Lanza,Poción de armadura,Capa de invisibilidad,Collar de serpiente
+Alyson,36,3,Casco de batalla,Cetro de sabiduría,Libro de hechizos
+Marie2,96,4,Escudo de madera,Lanza de oscuridad,Piedra de iluminación,Cuchillo de sombras
+Steven3,80,3,Armadura de oscuridad,Poción de rapidez,Varita de estrellas
+Jenna,17,4,Poción de invisibilidad,Poción de fuerza,Espada,Armadura de cristal
+Robert15,44,7,Martillo de destrucción,Casco de sabiduría,Armadura de huesos,Cinturón de levitación,Escudo de espinas,Escudo,Casco de hierro
+Peter3,55,2,Pergamino de resurrección,Escudo de luz
+Brenda6,61,4,Capa de sombras,Piedra de teletransporte,Martillo de guerra,Arco largo
+Christopher4,60,8,Cetro de sabiduría,Botas de salto,Casco de respiración,Libro de encantamientos,Armadura de escamas,Piedra de iluminación,Brazalete de fuerza,Piedra de revivir
+Ian,34,2,Casco de batalla,Botas de agilidad
+Geraldine3,15,6,Piedra de teletransporte,Anillo de evasión,Lanza,Amuleto de curación,Flechas de fuego,Casco de cuero
+James9,19,6,Bastón de ilusiones,Poción de resistencia,Pergamino de sellado,Anillo de evasión,Cuchillo arrojadizo,Cota de malla
+Steven4,64,5,Lanza de oscuridad,Capa de sombras,Poción de velocidad,Casco de hierro,Pergamino de resurrección
+Stacey2,38,6,Amuleto de poder,Pergamino de invocación,Pergamino de sellado,Bastón de tierra,Flechas envenenadas,Libro de encantamientos
+Harold3,53,6,Poción de velocidad,Collar de serpiente,Ballesta,Hacha de relámpago,Pergamino de sellado,Hacha de guerra
+Eddie,35,2,Escudo de luz,Casco de hierro
+Tyrone,61,5,Martillo de guerra,Hacha de relámpago,Cinturón de levitación,Armadura de cristal,Capa de invisibilidad
+Christopher5,50,5,Daga,Casco de batalla,Pergamino de sellado,Arco y flechas,Ballesta pesada
+Gordon,73,1,Piedra de iluminación
+John15,38,6,Flechas envenenadas,Casco de visión,Poción de invisibilidad,Poción de regeneración,Anillo de teletransporte,Casco de respiración
+Nellie3,38,7,Cota de malla,Espada de fuego,Piedra de revivir,Arco y flechas,Arco de hielo,Anillo de evasión,Antorcha mágica
+Joseph5,27,6,Guantes de destreza,Poción de resistencia,Amuleto de poder,Grimorio antiguo,Casco de batalla,Arco largo
+Tonya,51,1,Anillo de evasión
+Scott2,21,6,Cetro de sabiduría,Lanza de oscuridad,Cuchillo de sombras,Lanza,Cota de malla,Arco y flechas
+Martha4,42,5,Libro de hechizos,Lanza,Guantes de destreza,Casco de sabiduría,Poción de resistencia
+Marco,42,7,Hacha de guerra,Grimorio de sombras,Guantes de destreza,Varita de rayos,Poción de resistencia,Casco de visión,Hacha doble
+Marion2,59,5,Pergamino de invocación,Cetro de fuego,Poción de velocidad,Lanza de luz,Escudo de espinas
+Robert16,60,5,Lanza de luz,Armadura de cristal,Piedra de fuerza,Ballesta pesada,Poción de sueño
+Myrtle,25,5,Espada de cristal,Cota de malla,Casco de sabiduría,Casco de hierro,Casco de cuero
+Teresa2,71,5,Cuchillo arrojadizo,Armadura de oscuridad,Casco de batalla,Casco de sabiduría,Poción de escarcha
+Linda9,55,5,Cuchillo de viento,Capa de sombras,Casco de cuero,Casco de hierro,Piedra de teletransporte
+Kimberly6,73,8,Cetro de hielo,Poción de escarcha,Botas de resistencia,Varita de estrellas,Casco de respiración,Ballesta pesada,Cinturón de levitación,Ballesta
+Marion3,62,3,Piedra de teletransporte,Cinturón de levitación,Botas de salto
+Helen7,50,6,Anillo de evasión,Cetro de fuego,Pergamino de sellado,Libro de hechizos,Arco largo,Lanza
+Mae2,43,4,Cetro de sabiduría,Cota de malla,Brazalete de fuerza,Ballesta
+Leona2,33,5,Piedra de fuerza,Piedra de teletransporte,Piedra de iluminación,Lanza,Armadura de acero
+Micheal2,26,3,Poción de rapidez,Guantes de escalada,Armadura de oscuridad
+Michael13,90,3,Cuchillo de sombras,Lanza de oscuridad,Amuleto de poder
+Kevin2,38,2,Armadura de mithril,Armadura de cristal
+Teresa3,88,8,Armadura de cristal,Arco largo,Poción de vida,Poción de velocidad,Martillo de guerra,Brazalete de fuerza,Poción de curación,Piedra de teletransporte
+Julie2,98,8,Grimorio de sombras,Hacha de guerra,Anillo de teletransporte,Cetro de sabiduría,Antorcha mágica,Escudo,Escudo de luz,Botas de resistencia
+Frank3,32,5,Hacha doble,Arco de hielo,Martillo de destrucción,Grimorio de sombras,Hacha de guerra
+Dewayne,49,6,Poción de vuelo,Piedra de teletransporte,Grimorio antiguo,Lanza de luz,Pergamino de sellado,Hacha de guerra
+Maurice,68,8,Armadura de escamas,Poción de fuerza,Armadura de cuero,Poción de curación,Botas de agilidad,Brazalete de fuerza,Daga,Escudo
+Debbie2,32,8,Guantes de destreza,Armadura de cristal,Poción de velocidad,Espada,Anillo de teletransporte,Hacha de piedra,Amuleto de curación,Botas de resistencia
+Thomas9,47,5,Espada de fuego,Poción de armadura,Poción de curación,Cetro de fuego,Poción de resistencia
+Lesa,63,2,Capa de invisibilidad,Piedra de teletransporte
+Sandra3,16,5,Armadura de huesos,Guantes de destreza,Flechas de fuego,Poción de fuerza,Varita de control mental
+Luke,88,7,Piedra de fuerza,Cuchillo de sombras,Botas de agilidad,Grimorio antiguo,Armadura de cristal,Libro de runas,Arco y flechas
+Jeannine,66,1,Pergamino de sellado
+Pamela3,18,8,Piedra de iluminación,Lanza de luz,Espada,Poción de sueño,Casco de batalla,Flechas envenenadas,Martillo de guerra,Escudo de espinas
+Glenn3,40,6,Poción de armadura,Arco largo,Armadura de oscuridad,Ballesta,Bastón de ilusiones,Capa de sombras
+Patrick2,81,7,Martillo de guerra,Ballesta pesada,Arco de viento,Varita de estrellas,Piedra de revivir,Poción de vuelo,Armadura de acero
+Paul5,53,8,Cota de malla,Collar de serpiente,Pergamino de invocación,Varita de rayos,Flechas de fuego,Armadura de cristal,Flechas envenenadas,Cinturón de levitación
+Randy,59,3,Cadenas de restricción,Capa del viento,Arco largo
+Kevin3,93,6,Pergamino de invocación,Hacha doble,Botas de salto,Armadura de escamas,Armadura de acero,Cinturón de levitación
+Abigail,77,4,Capa de invisibilidad,Espada de cristal,Armadura de oscuridad,Casco de cuero
+Opal,100,1,Piedra de iluminación
+Melanie3,45,5,Casco de hierro,Flechas envenenadas,Cuchillo arrojadizo,Anillo de evasión,Poción de velocidad
+Mary9,34,3,Cetro de fuego,Armadura de huesos,Anillo de protección
+John16,47,7,Poción de armadura,Grimorio antiguo,Capa de sombras,Martillo de destrucción,Cetro de fuego,Lanza de luz,Casco de respiración
+David12,96,4,Arco y flechas,Flechas envenenadas,Poción de armadura,Hacha de piedra
+Randall,83,2,Piedra de revivir,Pergamino de resurrección
+Laura6,44,3,Daga,Pergamino de resurrección,Bastón de tierra
+Carroll,77,6,Armadura de acero,Lanza,Cetro de sabiduría,Grimorio antiguo,Armadura de mithril,Varita mágica
+Jessica7,87,1,Poción de vuelo
+Andrew2,30,4,Pergamino de resurrección,Pergamino de sellado,Amuleto de poder,Poción de regeneración
+Virginia2,25,1,Cetro de sabiduría
+Toby,69,3,Escudo de espinas,Poción de velocidad,Poción de armadura
+Richard10,53,8,Amuleto de curación,Casco de batalla,Flechas envenenadas,Lanza,Armadura de huesos,Daga,Escudo,Cetro de fuego
+Derick,90,4,Pergamino de resurrección,Casco de cuero,Armadura de cuero,Hacha de guerra
+Sabrina2,39,5,Poción de fuerza,Daga,Lanza,Pergamino de invocación,Varita de estrellas
+Jesse3,55,4,Casco de visión,Cuchillo arrojadizo,Grimorio antiguo,Escudo
+Ada,90,4,Poción de velocidad,Poción de fuerza,Escudo,Libro de hechizos
+James10,94,8,Anillo de vida,Espada de fuego,Varita de control mental,Hacha de guerra,Daga,Flechas envenenadas,Pergamino de resurrección,Pergamino de invocación
+Dianne,72,2,Pergamino de tormenta,Libro de encantamientos
+Kelli,58,6,Botas de resistencia,Varita de rayos,Anillo de vida,Poción de vuelo,Piedra de revivir,Poción de escarcha
+Mickey,29,8,Libro de runas,Armadura de mithril,Flechas envenenadas,Cuchillo arrojadizo,Lanza,Hacha de piedra,Hacha de guerra,Poción de vida
+Margaret7,12,7,Poción de resistencia,Poción de invisibilidad,Flechas de fuego,Varita mágica,Poción de curación,Poción de vida,Piedra de teletransporte
+Joan,19,5,Piedra de fuerza,Casco de sabiduría,Pergamino de invocación,Bastón de ilusiones,Libro de runas
+Stephen4,96,7,Amuleto de poder,Poción de vuelo,Poción de armadura,Cetro de hielo,Arco largo,Botas de agilidad,Espada
+Earl3,71,6,Daga,Botas de salto,Poción de curación,Espada,Cetro de hielo,Poción de rapidez
+Erin2,35,1,Armadura de acero
+Jose5,81,6,Casco de cuero,Hacha de piedra,Poción de velocidad,Martillo de guerra,Botas de agilidad,Poción de curación
+James11,54,1,Escudo de madera
+Tommy,63,3,Hacha de relámpago,Poción de armadura,Casco de visión
+Frank4,58,3,Piedra de teletransporte,Capa de invisibilidad,Cinturón de levitación
+Alice3,98,3,Poción de vida,Poción de invisibilidad,Botas de resistencia
+Shenika,91,8,Hacha de piedra,Anillo de protección,Armadura de acero,Botas de resistencia,Pergamino de tormenta,Cadenas de restricción,Cinturón de levitación,Cuchillo de sombras
+Cristine,13,7,Lanza,Guantes de escalada,Poción de curación,Amuleto de poder,Anillo de protección,Piedra de fuerza,Libro de encantamientos
+James12,46,5,Capa del viento,Arco de viento,Casco de batalla,Poción de regeneración,Cinturón de levitación
+Anthony4,97,7,Bastón de tierra,Grimorio de sombras,Cetro de fuego,Daga,Escudo,Ballesta pesada,Guantes de escalada
+Patsy2,73,7,Capa del viento,Lanza de oscuridad,Casco de cuero,Libro de hechizos,Botas de resistencia,Anillo de protección,Ballesta
+Stacie,93,5,Grimorio de sombras,Cuchillo arrojadizo,Amuleto de curación,Espada de cristal,Armadura de cristal
+Mildred2,78,8,Varita de estrellas,Flechas envenenadas,Cuchillo de viento,Cinturón de levitación,Casco de batalla,Armadura de cuero,Poción de resistencia,Piedra de teletransporte
+Carol4,34,6,Pergamino de invocación,Hacha de piedra,Escudo de luz,Espada de cristal,Poción de resistencia,Armadura de escamas
+Rod,31,5,Anillo de evasión,Ballesta,Poción de armadura,Cadenas de restricción,Piedra de teletransporte
+Manuel,57,2,Piedra de fuerza,Arco largo
+Alex2,46,8,Poción de armadura,Anillo de protección,Guantes de escalada,Espada,Cetro de hielo,Poción de vuelo,Daga,Lanza
+Timothy5,100,8,Casco de cuero,Piedra de teletransporte,Armadura de escamas,Poción de regeneración,Cuchillo de sombras,Casco de batalla,Flechas envenenadas,Amuleto de curación
+Amy2,93,4,Cinturón de levitación,Grimorio antiguo,Varita de rayos,Botas de agilidad
+Refugio,57,6,Armadura de acero,Collar de serpiente,Capa de invisibilidad,Casco de batalla,Poción de invisibilidad,Pergamino de resurrección
+Louis,81,4,Hacha doble,Casco de hierro,Arco de hielo,Poción de curación
+Becky,74,3,Cetro de fuego,Armadura de huesos,Espada de cristal
+Dora,58,7,Cuchillo de sombras,Poción de armadura,Varita de rayos,Arco de hielo,Arco y flechas,Espada,Armadura de cuero
+Jennifer5,64,7,Espada de cristal,Casco de hierro,Libro de runas,Poción de fuerza,Grimorio de sombras,Botas de agilidad,Anillo de protección
+Regina3,40,7,Poción de velocidad,Poción de invisibilidad,Espada,Botas de resistencia,Armadura de oscuridad,Casco de sabiduría,Escudo de luz
+Blake,19,2,Hacha de guerra,Poción de rapidez
+Ann3,10,6,Collar de serpiente,Armadura de huesos,Varita mágica,Pergamino de resurrección,Anillo de evasión,Amuleto de poder
+Kathy2,65,1,Espada
+Pearl,61,3,Pergamino de sellado,Armadura de escamas,Pergamino de tormenta
+Dorothy3,61,4,Varita de estrellas,Pergamino de resurrección,Bastón de tierra,Poción de armadura
+Brenda7,55,7,Bastón de tierra,Armadura de cristal,Anillo de protección,Arco largo,Pergamino de sellado,Piedra de iluminación,Poción de invisibilidad
+Margery,62,6,Daga,Varita mágica,Casco de batalla,Poción de vuelo,Pergamino de sellado,Lanza de oscuridad
+Kim3,59,5,Espada de cristal,Escudo de espinas,Varita de rayos,Escudo,Armadura de oscuridad
+Samuel2,33,4,Escudo de madera,Armadura de huesos,Poción de armadura,Pergamino de resurrección
+Miriam2,94,7,Poción de resistencia,Capa del viento,Capa de sombras,Pergamino de invocación,Martillo de guerra,Casco de hierro,Ballesta
+James13,20,4,Armadura de oscuridad,Escudo de madera,Hacha de relámpago,Anillo de teletransporte
+Dennis2,62,3,Casco de cuero,Espada,Guantes de destreza
+Amanda2,73,6,Piedra de iluminación,Botas de resistencia,Casco de sabiduría,Cetro de fuego,Cuchillo de sombras,Pergamino de resurrección
+Gloria2,86,4,Casco de hierro,Botas de agilidad,Anillo de teletransporte,Capa de invisibilidad
+Katherine,100,8,Grimorio de sombras,Piedra de revivir,Libro de hechizos,Poción de escarcha,Escudo de espinas,Capa de invisibilidad,Flechas de fuego,Amuleto de curación
+Mark5,23,2,Escudo de espinas,Brazalete de fuerza
+April3,15,4,Cadenas de restricción,Armadura de oscuridad,Armadura de cristal,Amuleto de curación
+Caroline,40,6,Casco de hierro,Espada de fuego,Collar de serpiente,Cota de malla,Cetro de hielo,Brazalete de fuerza
+Martin3,54,4,Anillo de vida,Poción de regeneración,Cetro de sabiduría,Botas de salto
+Peggy3,12,3,Bastón de tierra,Escudo de espinas,Pergamino de resurrección
+Joshua3,96,2,Cetro de hielo,Pergamino de tormenta
+Betty5,92,7,Botas de agilidad,Cota de malla,Hacha de relámpago,Amuleto de poder,Grimorio antiguo,Armadura de huesos,Espada de cristal
+John17,78,4,Armadura de escamas,Poción de vida,Cetro de hielo,Amuleto de curación
+Kenneth3,41,3,Anillo de protección,Pergamino de invocación,Lanza de luz
+Lawrence3,50,7,Casco de sabiduría,Anillo de protección,Cadenas de restricción,Armadura de huesos,Anillo de vida,Brazalete de fuerza,Escudo de espinas
+Danny2,95,1,Poción de armadura
+Martin4,72,8,Hacha doble,Escudo de espinas,Arco y flechas,Poción de curación,Escudo,Capa de invisibilidad,Grimorio antiguo,Poción de sueño
+Grace,51,1,Flechas envenenadas
+Ida,22,6,Varita de estrellas,Armadura de cuero,Libro de runas,Poción de invisibilidad,Piedra de revivir,Guantes de escalada
+John18,19,3,Cetro de fuego,Cetro de sabiduría,Guantes de destreza
+Eloise,50,3,Piedra de revivir,Poción de rapidez,Lanza de oscuridad
+Clayton,24,6,Varita de control mental,Hacha de relámpago,Pergamino de resurrección,Escudo de madera,Poción de resistencia,Cetro de sabiduría
+Jeremiah,15,3,Pergamino de invocación,Guantes de destreza,Casco de cuero
+Edward4,50,7,Antorcha mágica,Lanza de oscuridad,Armadura de cuero,Casco de cuero,Ballesta,Brazalete de fuerza,Piedra de iluminación
+David13,12,2,Pergamino de tormenta,Antorcha mágica
+Richard11,33,6,Cetro de fuego,Hacha de relámpago,Capa de sombras,Poción de rapidez,Piedra de iluminación,Piedra de revivir
+Penny,43,6,Cuchillo de sombras,Guantes de escalada,Cuchillo de viento,Poción de invisibilidad,Poción de escarcha,Cota de malla
+Mary10,88,3,Hacha de relámpago,Lanza de oscuridad,Cadenas de restricción
+Margaret8,65,4,Hacha doble,Casco de respiración,Hacha de piedra,Capa de sombras
+Franklin,47,5,Piedra de teletransporte,Libro de encantamientos,Grimorio de sombras,Botas de salto,Armadura de cuero
+Paul6,23,7,Cetro de fuego,Poción de vida,Casco de batalla,Hacha de piedra,Armadura de oscuridad,Poción de velocidad,Brazalete de fuerza
+Tyrone2,14,1,Botas de resistencia
+Maria3,47,8,Espada de fuego,Cadenas de restricción,Ballesta pesada,Casco de visión,Poción de vida,Poción de fuerza,Antorcha mágica,Armadura de acero
+Frank5,17,7,Capa del viento,Cota de malla,Antorcha mágica,Poción de sueño,Poción de escarcha,Espada de fuego,Cuchillo de viento
+Kay,22,5,Poción de sueño,Arco largo,Ballesta,Libro de encantamientos,Amuleto de poder
+Steven5,75,3,Pergamino de sellado,Amuleto de curación,Hacha doble
+Jean2,30,7,Ballesta,Grimorio antiguo,Anillo de evasión,Libro de encantamientos,Piedra de teletransporte,Casco de batalla,Escudo de espinas
+Carmen2,19,3,Hacha de guerra,Amuleto de curación,Armadura de acero
+Harrison,86,5,Poción de regeneración,Casco de hierro,Casco de respiración,Botas de salto,Cuchillo de sombras
+Beth,69,8,Hacha de relámpago,Poción de curación,Varita de estrellas,Cetro de hielo,Escudo de luz,Poción de armadura,Martillo de destrucción,Capa de sombras
+Terry4,48,5,Botas de agilidad,Cuchillo de viento,Varita mágica,Armadura de cuero,Cetro de sabiduría
+Charles8,92,3,Escudo de luz,Casco de cuero,Armadura de cristal
+Regina4,64,3,Casco de hierro,Piedra de teletransporte,Hacha de relámpago
+Maria4,81,6,Armadura de cristal,Poción de escarcha,Guantes de destreza,Poción de sueño,Espada de fuego,Armadura de cuero
+Ramona,75,2,Pergamino de sellado,Cadenas de restricción
+Theresa4,69,8,Libro de encantamientos,Varita mágica,Casco de hierro,Anillo de vida,Casco de respiración,Armadura de mithril,Armadura de acero,Martillo de destrucción
+Latricia,81,1,Hacha de relámpago
+David14,70,4,Casco de cuero,Grimorio antiguo,Armadura de huesos,Amuleto de curación
+Terry5,78,4,Ballesta,Armadura de escamas,Pergamino de sellado,Hacha de relámpago
+Danielle,12,8,Armadura de oscuridad,Piedra de revivir,Hacha doble,Varita de control mental,Guantes de destreza,Flechas de fuego,Poción de sueño,Hacha de piedra
+Carmela,76,6,Cuchillo arrojadizo,Piedra de teletransporte,Armadura de mithril,Espada de fuego,Casco de respiración,Antorcha mágica
+Robert17,100,1,Hacha de relámpago
+April4,37,4,Martillo de destrucción,Pergamino de sellado,Poción de velocidad,Lanza
+Kathryn,95,4,Hacha de guerra,Martillo de guerra,Libro de encantamientos,Cota de malla
+Joseph6,71,3,Arco y flechas,Poción de fuerza,Escudo de luz
+Steven6,78,2,Poción de vida,Flechas de fuego
+Maria5,79,8,Guantes de escalada,Amuleto de poder,Escudo de luz,Grimorio antiguo,Poción de vida,Cetro de fuego,Capa del viento,Cetro de sabiduría
+Cindy2,48,2,Botas de salto,Armadura de escamas
+Stephen5,90,8,Guantes de escalada,Armadura de escamas,Cetro de sabiduría,Arco de hielo,Capa de sombras,Poción de vuelo,Antorcha mágica,Pergamino de tormenta
+Mary11,78,1,Casco de visión
+Anabel,97,3,Varita de rayos,Hacha de relámpago,Pergamino de resurrección
+Marvin2,10,6,Piedra de revivir,Lanza,Poción de velocidad,Botas de resistencia,Hacha doble,Armadura de cuero
+Manuel2,59,8,Libro de encantamientos,Anillo de evasión,Flechas de fuego,Pergamino de invocación,Cinturón de levitación,Poción de curación,Varita mágica,Ballesta
+Charlotte,82,5,Piedra de revivir,Pergamino de sellado,Armadura de mithril,Armadura de huesos,Cinturón de levitación
+Abby,79,3,Poción de resistencia,Hacha de piedra,Casco de respiración
+Benjamin,65,6,Casco de batalla,Amuleto de poder,Armadura de mithril,Armadura de oscuridad,Capa del viento,Anillo de protección
+James14,90,8,Casco de sabiduría,Cuchillo arrojadizo,Capa del viento,Botas de resistencia,Antorcha mágica,Arco de hielo,Pergamino de resurrección,Poción de resistencia
+William10,42,1,Cuchillo de viento
+Numbers,21,3,Capa de invisibilidad,Libro de hechizos,Lanza de luz
+Pamela4,89,6,Poción de velocidad,Arco largo,Libro de runas,Botas de agilidad,Piedra de teletransporte,Armadura de huesos
+Lloyd3,37,1,Armadura de acero
+Anne2,89,6,Ballesta,Hacha de piedra,Lanza de luz,Capa del viento,Poción de curación,Poción de sueño
+Rebecca5,26,2,Collar de serpiente,Grimorio antiguo
+David15,28,8,Martillo de guerra,Poción de vuelo,Poción de regeneración,Poción de resistencia,Escudo de madera,Espada de fuego,Casco de sabiduría,Varita de rayos
+Theresa5,85,5,Casco de cuero,Flechas envenenadas,Poción de resistencia,Espada de fuego,Casco de batalla
+Kathryn2,16,4,Ballesta pesada,Varita de estrellas,Casco de cuero,Pergamino de sellado
+Florine,94,7,Ballesta,Cuchillo de sombras,Capa de invisibilidad,Amuleto de poder,Cinturón de levitación,Arco de viento,Escudo de luz
+David16,24,7,Casco de hierro,Martillo de guerra,Libro de runas,Poción de escarcha,Poción de invisibilidad,Hacha de piedra,Cuchillo arrojadizo
+Adam3,47,4,Arco de hielo,Cuchillo de sombras,Lanza de oscuridad,Ballesta
+Janet2,68,2,Collar de serpiente,Espada
+Anthony5,61,1,Libro de encantamientos
+Robin6,45,4,Poción de resistencia,Poción de rapidez,Armadura de oscuridad,Cuchillo arrojadizo
+Erica,73,5,Libro de encantamientos,Casco de hierro,Armadura de acero,Ballesta pesada,Arco largo
+Sergio,15,6,Anillo de evasión,Capa de sombras,Espada,Martillo de destrucción,Arco y flechas,Flechas envenenadas
+Richard12,94,6,Escudo de espinas,Casco de batalla,Amuleto de curación,Cuchillo arrojadizo,Grimorio de sombras,Daga
+Ted2,37,6,Capa del viento,Poción de armadura,Cetro de sabiduría,Anillo de protección,Espada de cristal,Libro de runas
+John19,83,5,Varita mágica,Anillo de teletransporte,Piedra de teletransporte,Poción de regeneración,Cuchillo de sombras
+Jasmine2,53,5,Varita mágica,Lanza,Grimorio de sombras,Lanza de oscuridad,Guantes de escalada
+Colleen,100,2,Amuleto de poder,Ballesta pesada
+Cynthia2,62,4,Daga,Varita de estrellas,Hacha doble,Arco de viento
+Maria6,64,6,Arco largo,Armadura de mithril,Cetro de hielo,Poción de vida,Hacha de relámpago,Poción de velocidad
+Anthony6,55,2,Flechas de fuego,Armadura de oscuridad
+Charles9,17,5,Ballesta pesada,Espada de cristal,Escudo,Varita de rayos,Grimorio de sombras
+Wesley2,45,7,Poción de regeneración,Amuleto de poder,Casco de hierro,Casco de sabiduría,Hacha de piedra,Martillo de destrucción,Armadura de cristal
+Virginia3,33,8,Armadura de cuero,Escudo de espinas,Poción de curación,Poción de resistencia,Armadura de mithril,Hacha de relámpago,Cinturón de levitación,Poción de escarcha
+Terry6,23,3,Amuleto de curación,Martillo de destrucción,Poción de escarcha
+Peter4,52,8,Arco de viento,Arco y flechas,Varita de estrellas,Botas de resistencia,Casco de batalla,Grimorio antiguo,Armadura de cuero,Casco de sabiduría
+John20,52,6,Libro de runas,Espada de cristal,Capa del viento,Piedra de iluminación,Arco largo,Anillo de vida
+George5,80,4,Lanza de oscuridad,Arco de viento,Varita de rayos,Escudo de madera
+Jackie,77,4,Armadura de cuero,Hacha doble,Poción de regeneración,Espada de cristal
+Edward5,15,2,Escudo de luz,Casco de respiración
+Rickey2,68,6,Martillo de destrucción,Cetro de fuego,Cetro de sabiduría,Daga,Hacha de relámpago,Hacha doble
+Maryjane,88,3,Varita de estrellas,Arco de hielo,Varita de rayos
+Robert18,45,3,Espada de cristal,Anillo de vida,Espada
+Antonio,21,6,Escudo de madera,Espada,Anillo de protección,Ballesta,Escudo de luz,Arco y flechas
+Margo,12,3,Lanza de oscuridad,Poción de vida,Piedra de iluminación

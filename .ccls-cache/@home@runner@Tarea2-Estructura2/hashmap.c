@@ -38,7 +38,7 @@ int is_equal(void* key1, void* key2){
     return 0;
 }
 
-/*
+
 void insertMap(HashMap * map, char * key, void * value) {
 
   long newPos = hash(key, map->capacity);
@@ -61,8 +61,8 @@ void insertMap(HashMap * map, char * key, void * value) {
     }
   }
   map->size++;
-}*/
-
+}
+/*
 void insertMap(HashMap * map, char * key, void * value) {
   int aux = hash(key,map->capacity);
 
@@ -80,7 +80,7 @@ void insertMap(HashMap * map, char * key, void * value) {
   map->current = aux;
   map->size++;
 }
-
+*/
 
 void enlarge(HashMap * map) {
   enlarge_called = 1; //no borrar (testing purposes)
@@ -138,7 +138,7 @@ void eraseMap(HashMap * map,  char * key) {
   if(map->size > 0) map->size--;
 
 }
-/*
+
 Pair * searchMap(HashMap * map,  char * key) {   
   
   long pos = hash(key, map->capacity);
@@ -146,7 +146,6 @@ Pair * searchMap(HashMap * map,  char * key) {
   if(*(map->buckets+pos) == NULL){
     return NULL;
   }
-
   
   if( is_equal((*(map->buckets+pos))->key, key) ){
     return *(map->buckets+pos);
@@ -164,8 +163,8 @@ Pair * searchMap(HashMap * map,  char * key) {
   
   return NULL;
 }
-*/
 
+/*
 
 Pair * searchMap(HashMap * map,  char * key) {   
   int aux = hash(key,map->capacity);
@@ -184,9 +183,9 @@ Pair * searchMap(HashMap * map,  char * key) {
         aux = 0;
     }
   }
-}
+}*/
 
-/*
+
 Pair * firstMap(HashMap * map) {
 
   for(long it = 0; it < map->capacity; it++){
@@ -214,7 +213,8 @@ Pair * nextMap(HashMap * map) {
   }
   
   return NULL;
-}*/
+}
+/*
 Pair * firstMap(HashMap * map) {
   for(long i = 0 ; i < map->capacity ; i++){
     if(map->buckets[i] != NULL && map->buckets[i]->key != NULL){
@@ -233,4 +233,4 @@ Pair * nextMap(HashMap * map) {
     }  
   }
   return NULL;
-}
+}*/
