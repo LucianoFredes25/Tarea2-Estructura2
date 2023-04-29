@@ -17,7 +17,7 @@ struct HashMap {
 };
 
 Pair * createPair( char * key,  void * value) {
-    Pair * new = (Pair *)malloc(sizeof(Pair));
+    Pair * new = (Pair *)calloc(1,sizeof(Pair));
     new->key = key;
     new->value = value;
     return new;
@@ -62,6 +62,25 @@ void insertMap(HashMap * map, char * key, void * value) {
   }
   map->size++;
 }
+/*
+void insertMap(HashMap * map, char * key, void * value) {
+  int aux = hash(key,map->capacity);
+
+  while(true){
+    if(map->buckets[aux] == NULL || map->buckets[aux]->key == NULL){
+      map->buckets[aux] = createPair(key, value);
+      break;
+    } 
+    else{
+      aux++;
+      if(aux == map->capacity)
+        aux=0;
+    }
+  }
+  map->current = aux;
+  map->size++;
+}
+*/
 
 void enlarge(HashMap * map) {
   enlarge_called = 1; //no borrar (testing purposes)
@@ -127,7 +146,6 @@ Pair * searchMap(HashMap * map,  char * key) {
   if(*(map->buckets+pos) == NULL){
     return NULL;
   }
-
   
   if( is_equal((*(map->buckets+pos))->key, key) ){
     return *(map->buckets+pos);
@@ -147,18 +165,15 @@ Pair * searchMap(HashMap * map,  char * key) {
 }
 
 /*
+
 Pair * searchMap(HashMap * map,  char * key) {   
   int aux = hash(key,map->capacity);
   while(true){
     if(map->buckets[aux] == NULL || map->buckets[aux]->key == NULL)
     {
-      printf("retorne null\n");
       return NULL;
     } 
-      
-
     if(is_equal(map->buckets[aux]->key , key)){
-      printf("retorne iguales\n");
       map->current = aux;
       return map->buckets[aux];
     }
@@ -168,10 +183,9 @@ Pair * searchMap(HashMap * map,  char * key) {
         aux = 0;
     }
   }
-}
-*/
+}*/
 
-/*
+
 Pair * firstMap(HashMap * map) {
 
   for(long it = 0; it < map->capacity; it++){
@@ -199,7 +213,8 @@ Pair * nextMap(HashMap * map) {
   }
   
   return NULL;
-}*/
+}
+/*
 Pair * firstMap(HashMap * map) {
   for(long i = 0 ; i < map->capacity ; i++){
     if(map->buckets[i] != NULL && map->buckets[i]->key != NULL){
@@ -218,4 +233,4 @@ Pair * nextMap(HashMap * map) {
     }  
   }
   return NULL;
-}
+}*/

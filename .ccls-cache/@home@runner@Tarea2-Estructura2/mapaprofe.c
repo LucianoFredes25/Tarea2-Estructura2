@@ -1,4 +1,4 @@
-#include "mapaprofe.h"
+#include "Map.h"
 #include <stdlib.h>
 #include <assert.h>
 
@@ -44,7 +44,7 @@ struct Map {
 };
 
 
-Map * createMap(int (*is_equal)(void* key1, void* key2)) {
+Map * createMapa(int (*is_equal)(void* key1, void* key2)) {
     Map * new = (Map *)malloc(sizeof(Map));
     assert(new != NULL); // No hay memoria para reservar la Mapa.
     new->head = new->tail = new->current = NULL;
@@ -57,7 +57,7 @@ void setSortFunction(Map* map, int (*lower_than)(void* key1, void* key2)){
     map->lower_than = lower_than;
 }
 
-void * firstMap(Map * list) {
+void * firstMapa(Map * list) {
     assert(list != NULL); // list no puede ser NULL.
 
     if (list->head == NULL) return NULL;
@@ -67,7 +67,7 @@ void * firstMap(Map * list) {
     return (void *)list->current->data;
 }
 
-void * nextMap(Map * list) {
+void * nextMapa(Map * list) {
     assert(list != NULL); // list no puede ser NULL.
 
     if (list->head == NULL || list->current == NULL || list->current->next == NULL) return NULL;
@@ -93,7 +93,7 @@ void _pushFront(Map * list, void * key, void * value) {
 }
 
 
-void insertMap(Map * list, void * key, void * value){
+void insertMapa(Map * list, void * key, void * value){
 
     assert(list != NULL); // list no puede ser NULL.
 
@@ -185,7 +185,7 @@ void * _popBack(Map * list) {
 }
 
 
-void* searchMap(Map * list, void * key) {
+void* searchMapa(Map * list, void * key) {
     assert(list != NULL); // list no puede ser NULL.
 
     Node* aux= list->head;
@@ -198,7 +198,7 @@ void* searchMap(Map * list, void * key) {
     return (void *) aux->data;
 }
 
-void * eraseMap(Map * list, void * key) {
+void * eraseMapa(Map * list, void * key) {
     assert(list != NULL); // list no puede ser NULL.
 
     Node* aux= list->head;

@@ -17,7 +17,7 @@ struct HashMap {
 };
 
 Pair * createPair( char * key,  void * value) {
-    Pair * new = (Pair *)malloc(sizeof(Pair));
+    Pair * new = (Pair *)calloc(1,sizeof(Pair));
     new->key = key;
     new->value = value;
     return new;
@@ -38,7 +38,7 @@ int is_equal(void* key1, void* key2){
     return 0;
 }
 
-
+/*
 void insertMap(HashMap * map, char * key, void * value) {
 
   long newPos = hash(key, map->capacity);
@@ -61,7 +61,26 @@ void insertMap(HashMap * map, char * key, void * value) {
     }
   }
   map->size++;
+}*/
+
+void insertMap(HashMap * map, char * key, void * value) {
+  int aux = hash(key,map->capacity);
+
+  while(true){
+    if(map->buckets[aux] == NULL || map->buckets[aux]->key == NULL){
+      map->buckets[aux] = createPair(key, value);
+      break;
+    } 
+    else{
+      aux++;
+      if(aux == map->capacity)
+        aux=0;
+    }
+  }
+  map->current = aux;
+  map->size++;
 }
+
 
 void enlarge(HashMap * map) {
   enlarge_called = 1; //no borrar (testing purposes)
@@ -119,7 +138,7 @@ void eraseMap(HashMap * map,  char * key) {
   if(map->size > 0) map->size--;
 
 }
-
+/*
 Pair * searchMap(HashMap * map,  char * key) {   
   
   long pos = hash(key, map->capacity);
@@ -145,20 +164,17 @@ Pair * searchMap(HashMap * map,  char * key) {
   
   return NULL;
 }
+*/
 
-/*
+
 Pair * searchMap(HashMap * map,  char * key) {   
   int aux = hash(key,map->capacity);
   while(true){
     if(map->buckets[aux] == NULL || map->buckets[aux]->key == NULL)
     {
-      printf("retorne null\n");
       return NULL;
     } 
-      
-
     if(is_equal(map->buckets[aux]->key , key)){
-      printf("retorne iguales\n");
       map->current = aux;
       return map->buckets[aux];
     }
@@ -169,7 +185,6 @@ Pair * searchMap(HashMap * map,  char * key) {
     }
   }
 }
-*/
 
 /*
 Pair * firstMap(HashMap * map) {
